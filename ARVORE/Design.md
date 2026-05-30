@@ -17,13 +17,18 @@ Thumb: Pasted image 20260507141552.png
 
 > Hub central de tudo relacionado ao design do sistema  
 > UI, UX, identidade visual e decisões de experiência
+## Identidade Visual
 
+![[Moodboard da Identidade Visual.canvas]]
+**Tipografia**
+- Inter
+- Urbanist
+**Paleta de Cores**
+- `#38BDF8` - Sky Blue (Tech)
+	O **Sky Blue** transmite inteligência e clareza digital. Combinado com fundos escuros (#0F172A), cria um alto contraste essencial para o uso em dispositivos móveis no campo. Como cor secundária, o **Active Green** pode ser usado para sinalizar "OS Concluída" ou "Sistema Online".
 ## Visão Geral do Design
 
-- [[Design/Visão de Produto]]
-- [[Design/Princípios de UX]]
-- [[Design/Personas]]
-- [[Design/Jornada do Usuário]]
+- [[Planejamento da Home]]
 ## Arquitetura da Informação
 
 - [[Design/Sitemap]]
@@ -40,6 +45,7 @@ Thumb: Pasted image 20260507141552.png
 > 🔗 Links para arquivos do Excalidraw
 ## UI (Interface Visual)
 
+![[Mootherboard da Interface.canvas]]
 - [[Design/UI/Design System]]
 - [[Design/UI/Cores]]
 - [[Design/UI/Tipografia]]

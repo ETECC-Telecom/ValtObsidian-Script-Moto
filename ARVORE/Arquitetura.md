@@ -43,5 +43,8 @@ Modelo de Exemplo:
 
 Liste todas as libs e frameworks necessários.
 
-- Nome do Framework/Lib - Descrição de sua função
+- **VITE** - Para o Bundle do projeto;
+- **LocalStorage** - Para o armazenamento de informações simples do projeto;
+- **IndexedDB** - Para o armazenamento de informações mais importantes relacionados ao cliente;
+- **LIT** - Para a criação de estrutura de componentes do projeto;
 

@@ -22,8 +22,54 @@
               "icon": "lucide-file",
               "title": "HOME"
             }
+          },
+          {
+            "id": "361f9a8cb2d185ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARVORE/Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design"
+            }
+          },
+          {
+            "id": "df2930b54473e421",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
+                "viewState": {
+                  "x": -285.07228112624466,
+                  "y": -500.70131602275046,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mootherboard da Interface"
+            }
+          },
+          {
+            "id": "213f8beea6e1db3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Planejamento da Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento da Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +262,30 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1a8a917c3198878a",
+  "active": "361f9a8cb2d185ef",
   "lastOpenFiles": [
-    "ARVORE/Arquitetura.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "ARVORE/Design.md",
+    "DOCUMENTOS/Planejamento da Home.md",
+    "ANEXOS/Pasted image 20260530174357.png",
     "HOME.md",
+    "ANEXOS/Pasted image 20260530173121.png",
+    "ANEXOS/Pasted image 20260530173102.png",
+    "ANEXOS/Pasted image 20260530172802.png",
+    "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
+    "ARVORE/Arquitetura.md",
+    "ARVORE/Planejamento.md",
+    "ARVORE/Deploy(Entrega).md",
+    "ANEXOS/Pasted image 20260530171530.png",
+    "ANEXOS/Pasted image 20260530171433.png",
+    "ANEXOS/Pasted image 20260530171118.png",
+    "DOCUMENTOS/Moodboard da Identidade Visual.md",
+    "ARVORE/Anexos.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
+    "ARVORE/Imagens de Referencia.canvas",
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retenção de Clientes.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Encaminhar Externa.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "README.md",
     "Excalidraw/Drawing 2026-05-30 14.05.26.excalidraw.md",
     "Excalidraw",
@@ -234,31 +300,12 @@
     "Excalidraw/Drawing 2026-05-30 13.58.15_0.excalidraw.md",
     "Excalidraw/Drawing 2026-05-30 13.58.15.excalidraw.md",
     "Excalidraw/Drawing 2026-05-30 13.58.14.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-30 13.58.05.excalidraw.md",
-    "ARVORE/Testes.md",
-    "ARVORE/Planejamento.md",
-    "ARVORE/Documentação Final.md",
-    "ARVORE/Design.md",
-    "ARVORE/Desenvolvimento.md",
-    "ARVORE/Deploy(Entrega).md",
-    "ARVORE/Anexos.md",
-    "Design/Wireframes/Home.md",
     "Design/Wireframes",
     "Design",
-    "ARVORE/Imagens de Referencia.canvas",
     "ANEXOS/Template-Thumb-Mocs-Home.svg",
-    "ARVORE/Lista de Tarefas (Backlog).md",
     "BASES/MocsHome.base",
-    "BASES/Sem título.md",
     "ANEXOS/Pasted image 20260507141628.png",
     "ANEXOS/Pasted image 20260507141621.png",
-    "ANEXOS/Pasted image 20260507141615.png",
-    "ANEXOS/Pasted image 20260507141608.png",
-    "ANEXOS/Pasted image 20260507141558.png",
-    "ANEXOS/Pasted image 20260507141552.png",
-    "ANEXOS/Pasted image 20260507141540.png",
-    "ANEXOS/Pasted image 20260507141529.png",
-    "ANEXOS/Pasted image 20260507140251.png",
     "BASES/Casos de Uso.base",
     "Deploy ",
     "BASES/Log de Bugs.base",
