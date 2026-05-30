@@ -163,9 +163,19 @@
               "icon": "lucide-tags",
               "title": "Etiquetas"
             }
+          },
+          {
+            "id": "062ea27fceec0404",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "8885bfe70ce89935",
@@ -206,8 +216,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5577e6bbe7cf9a1c",
+  "active": "1a8a917c3198878a",
   "lastOpenFiles": [
+    "ARVORE/Arquitetura.md",
+    "HOME.md",
     "README.md",
     "Excalidraw/Drawing 2026-05-30 14.05.26.excalidraw.md",
     "Excalidraw",
@@ -223,14 +235,12 @@
     "Excalidraw/Drawing 2026-05-30 13.58.15.excalidraw.md",
     "Excalidraw/Drawing 2026-05-30 13.58.14.excalidraw.md",
     "Excalidraw/Drawing 2026-05-30 13.58.05.excalidraw.md",
-    "HOME.md",
     "ARVORE/Testes.md",
     "ARVORE/Planejamento.md",
     "ARVORE/Documentação Final.md",
     "ARVORE/Design.md",
     "ARVORE/Desenvolvimento.md",
     "ARVORE/Deploy(Entrega).md",
-    "ARVORE/Arquitetura.md",
     "ARVORE/Anexos.md",
     "Design/Wireframes/Home.md",
     "Design/Wireframes",
