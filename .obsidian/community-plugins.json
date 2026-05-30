@@ -19,6 +19,6 @@
   "text-extractor",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "mermaid-tools"
+  "mermaid-tools",
+  "obsidian-git"
 ]
