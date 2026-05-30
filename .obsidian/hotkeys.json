@@ -1,0 +1,148 @@
+{
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "automatic-table-of-contents:insert-automatic-table-of-contents": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-text-format:merge-line": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F1"
+    }
+  ],
+  "obsidian-text-format:custom-replace:add-line-break": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F2"
+    }
+  ],
+  "obsidian-text-format:custom-replace:remove-blank-line": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F3"
+    }
+  ],
+  "obsidian-text-format:custom-replace:remove-trailing-spaces": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "obsidian-text-format:heading-lower": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "["
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-text-format:heading-upper": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "]"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-text-format:cycle-case": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-text-format:convert-bullet-list": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-importer:open-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ]
+}

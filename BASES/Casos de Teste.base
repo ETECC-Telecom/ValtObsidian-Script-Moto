@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.hasTag("Casos_de_Testes")
+    order:
+      - file.name
+      - Responsável
+      - ID
+      - Status
+    columnSize:
+      file.name: 331
+      note.Responsável: 150
+      note.ID: 138

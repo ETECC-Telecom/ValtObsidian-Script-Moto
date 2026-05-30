@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "602f74303fda5406",
+    "type": "split",
+    "children": [
+      {
+        "id": "84fded427ce9641d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8a917c3198878a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca9882b526e50309",
+    "type": "split",
+    "children": [
+      {
+        "id": "c681a467e805f3a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "418ab9535d16df03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8509d5ab1a1bfc75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "fe0a13b916a7a9ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "7d428f4a3317ba2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f344764229af1d45",
+        "type": "tabs",
+        "dimension": 59.32692307692307,
+        "children": [
+          {
+            "id": "34a4d12ad7b0f9a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HOME.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de HOME"
+            }
+          },
+          {
+            "id": "57a6c26207063afc",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "69e6b46571a17eb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HOME.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para HOME"
+            }
+          },
+          {
+            "id": "9cdc561ca22207c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HOME.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para HOME"
+            }
+          },
+          {
+            "id": "5577e6bbe7cf9a1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8885bfe70ce89935",
+        "type": "tabs",
+        "dimension": 40.67307692307692,
+        "children": [
+          {
+            "id": "66e66e5c95eb2366",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "57a6c26207063afc",
+  "lastOpenFiles": [
+    "README.md",
+    "Excalidraw/Drawing 2026-05-30 14.05.26.excalidraw.md",
+    "Excalidraw",
+    "DOCUMENTOS/Drawing 2026-05-30 13.56.42.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.18.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.17_0.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.17.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.16_2.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.16_1.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.16_0.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.16.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.15_0.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.15.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.14.excalidraw.md",
+    "Excalidraw/Drawing 2026-05-30 13.58.05.excalidraw.md",
+    "HOME.md",
+    "ARVORE/Testes.md",
+    "ARVORE/Planejamento.md",
+    "ARVORE/Documentação Final.md",
+    "ARVORE/Design.md",
+    "ARVORE/Desenvolvimento.md",
+    "ARVORE/Deploy(Entrega).md",
+    "ARVORE/Arquitetura.md",
+    "ARVORE/Anexos.md",
+    "Design/Wireframes/Home.md",
+    "Design/Wireframes",
+    "Design",
+    "ARVORE/Imagens de Referencia.canvas",
+    "ANEXOS/Template-Thumb-Mocs-Home.svg",
+    "ARVORE/Lista de Tarefas (Backlog).md",
+    "BASES/MocsHome.base",
+    "BASES/Sem título.md",
+    "ANEXOS/Pasted image 20260507141628.png",
+    "ANEXOS/Pasted image 20260507141621.png",
+    "ANEXOS/Pasted image 20260507141615.png",
+    "ANEXOS/Pasted image 20260507141608.png",
+    "ANEXOS/Pasted image 20260507141558.png",
+    "ANEXOS/Pasted image 20260507141552.png",
+    "ANEXOS/Pasted image 20260507141540.png",
+    "ANEXOS/Pasted image 20260507141529.png",
+    "ANEXOS/Pasted image 20260507140251.png",
+    "BASES/Casos de Uso.base",
+    "Deploy ",
+    "BASES/Log de Bugs.base",
+    "BASES/Casos de Teste.base",
+    "BASES/Snippets Úteis.base",
+    "BASES/Diário de Desenvolvimento.base"
+  ]
+}

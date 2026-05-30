@@ -1,0 +1,29 @@
+/* --- MODO LEITURA --- */
+.dashboard.markdown-preview-view.is-readable-line-width .markdown-preview-section,
+.dashboard.markdown-preview-view.is-readable-line-width .markdown-preview-section > div,
+.dashboard.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* --- MODO ESCRITA (LIVE PREVIEW) --- */
+/* Força o container principal a ocupar 100% */
+.dashboard.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer {
+  width: 100% !important;
+  max-width: 100% !important;
+  display: block !important;
+}
+
+/* Ajusta o conteúdo interno e as linhas */
+.dashboard.markdown-source-view.mod-cm6.is-readable-line-width .cm-content,
+.dashboard.markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Remove margens automáticas que centralizam o editor */
+.dashboard.markdown-source-view.mod-cm6.is-readable-line-width .cm-scroller {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+}

@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.hasTag("Caso_de_Uso")
+        - '!file.inFolder("MODELOS")'
+    order:
+      - UC
+      - file.name
+    columnSize:
+      note.UC: 77

@@ -1,0 +1,15 @@
+{
+  "minimal-style@@image-muted": 1,
+  "minimal-style@@image-grid-fit": "contain",
+  "minimal-style@@col-alt": false,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@col-lines": true,
+  "minimal-style@@row-lines": true,
+  "minimal-style@@row-alt": true,
+  "minimal-style@@table-tabular": true,
+  "minimal-style@@table-numbers": false,
+  "minimal-style@@table-center": true,
+  "minimal-style@@row-hover": false,
+  "minimal-style@@table-nowrap": true,
+  "minimal-style@@maximize-tables-off": "maximize-tables-auto"
+}

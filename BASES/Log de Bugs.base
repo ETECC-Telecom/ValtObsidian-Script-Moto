@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.hasTag("Log_de_Bug")
+        - '!file.inFolder("MODELOS")'
+    order:
+      - ID
+      - file.name
+      - Responsável
+      - Prioridade
+      - Severidade
+      - Status
+    columnSize:
+      note.ID: 120
+      file.name: 196
+      note.Responsável: 137
+      note.Prioridade: 90
+      note.Severidade: 75

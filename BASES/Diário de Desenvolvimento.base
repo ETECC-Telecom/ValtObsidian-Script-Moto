@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.hasTag("Nota_Diário_Desenvolvimento")
+        - '!file.inFolder("MODELOS")'
+    order:
+      - file.name
+      - Criado
+    columnSize:
+      file.name: 565

@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Status": "checkbox",
+    "Descrição": "multitext",
+    "Última atualização": "number",
+    "UC": "number",
+    "Ideia": "checkbox",
+    "Em Desenvolvimento": "checkbox",
+    "Concluído": "checkbox",
+    "Teste": "checkbox",
+    "Desenvolvimento": "checkbox",
+    "Data de Inicio": "date"
+  }
+}

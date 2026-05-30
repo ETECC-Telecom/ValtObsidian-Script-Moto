@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.hasTag("Snippets_Uteis")
+        - '!file.inFolder("MODELOS")'

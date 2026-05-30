@@ -1,0 +1,9 @@
+{
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "DOCUMENTOS",
+  "attachmentFolderPath": "ANEXOS",
+  "alwaysUpdateLinks": true
+}

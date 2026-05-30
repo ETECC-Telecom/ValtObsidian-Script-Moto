@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Things",
+  "accentColor": "#730fd7",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Controle_Margens",
+    "obsidian_css",
+    "two_coluns_properties"
+  ]
+}
