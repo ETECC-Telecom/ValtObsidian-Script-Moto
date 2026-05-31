@@ -46,7 +46,7 @@
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
                   "x": -285.07228112624466,
-                  "y": -500.70131602275046,
+                  "y": -593.7013160227505,
                   "zoom": 1
                 }
               },
@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,13 +262,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "361f9a8cb2d185ef",
+  "active": "213f8beea6e1db3c",
   "lastOpenFiles": [
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "ARVORE/Design.md",
-    "DOCUMENTOS/Planejamento da Home.md",
-    "ANEXOS/Pasted image 20260530174357.png",
     "HOME.md",
+    "DOCUMENTOS/Planejamento da Home.md",
+    "ARVORE/Design.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "ANEXOS/Pasted image 20260530174357.png",
     "ANEXOS/Pasted image 20260530173121.png",
     "ANEXOS/Pasted image 20260530173102.png",
     "ANEXOS/Pasted image 20260530172802.png",
