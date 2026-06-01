@@ -15,20 +15,21 @@ Thumb: Pasted image 20260507141540.png
 ```
 ## Estrutura do Projeto
 
-Explique ou desenhe:
+Na raiz do projeto, teremos uma pasta de Design, onde iremos organizar os projetos gráficos gerais do aplicativo. Essa pasta não irá subir ao GITHub devido a ter muitos arquivos pesados. 
 ### Diretórios
 
 Modelo de Exemplo:
+
 ```
 📁 Projeto/
 │
+├── 📁 design/ <- Armazena arquivos de design do projeto. Ignorado pelo GitHUB!
 ├── 📁 docs/
 ├── 📁 src/
-	├── 📄 app.py
-├── 📁 tests/
-├── 📄 .gitgnore
+│	├── 📄 app.py
+├── 📁 tests/ 
 │
-└── 📁 anexos/
+└── 📄 .gitgnore
 ```
 ### Organização
 ### Módulos
