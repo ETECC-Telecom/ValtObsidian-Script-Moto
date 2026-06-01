@@ -29,6 +29,8 @@ Thumb: Pasted image 20260507141552.png
 ## Visão Geral do Design
 
 - [[Planejamento da Home]]
+- [[Planejamento da Página Seletor de Fluxo]]
+- [[Planejamento do Formulário de Script (Base)]]
 ## Arquitetura da Informação
 
 - [[Design/Sitemap]]

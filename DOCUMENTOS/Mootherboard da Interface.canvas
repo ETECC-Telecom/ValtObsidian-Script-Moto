@@ -1,14 +1,27 @@
 {
 	"nodes":[
-		{"id":"ef4f7951eac3cff2","type":"file","file":"ANEXOS/Pasted image 20260530172802.png","x":-400,"y":-140,"width":380,"height":400},
-		{"id":"a894f0fb4e4e31b2","type":"text","text":"Primeiro Acesso\nAo abrir o app pela primeira vez, o sistema solicita o nome do técnico para preenchimento automático das mensagens ao cliente.\n\nSimples, direto e sem burocracia","x":100,"y":-60,"width":365,"height":170},
 		{"id":"97688494da433b96","type":"file","file":"ANEXOS/Pasted image 20260530173102.png","x":83,"y":-520,"width":400,"height":175},
 		{"id":"8a7e5d38c7ff9962","type":"file","file":"ANEXOS/Pasted image 20260530173121.png","x":680,"y":-460,"width":200,"height":399},
 		{"id":"fa18d6f0403ea732","type":"file","file":"DOCUMENTOS/Planejamento da Home.md","x":-1040,"y":-769,"width":460,"height":457},
-		{"id":"fb754cf9fe92da10","type":"file","file":"ANEXOS/Pasted image 20260530174357.png","x":-480,"y":-680,"width":399,"height":218}
+		{"id":"fb754cf9fe92da10","type":"file","file":"ANEXOS/Pasted image 20260530174357.png","x":-480,"y":-680,"width":399,"height":218},
+		{"id":"59ba334a8712da4d","x":-1040,"y":-120,"width":400,"height":400,"type":"file","file":"DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md"},
+		{"id":"a894f0fb4e4e31b2","type":"text","text":"Primeiro Acesso\nAo abrir o app pela primeira vez, o sistema solicita o nome do técnico para preenchimento automático das mensagens ao cliente.\n\nSimples, direto e sem burocracia","x":-1175,"y":-1120,"width":365,"height":180},
+		{"id":"ef4f7951eac3cff2","type":"file","file":"ANEXOS/Pasted image 20260530172802.png","x":-1760,"y":-1280,"width":380,"height":400},
+		{"id":"5af782290c3fa51f","x":-520,"y":62,"width":400,"height":218,"type":"file","file":"ANEXOS/Pasted image 20260601155000.png"},
+		{"id":"07200a93eb700cba","x":-1640,"y":-571,"width":400,"height":400,"type":"file","file":"DOCUMENTOS/Planejamento do Formulário de Script (Base).md"},
+		{"id":"a1a69ba46d44057c","x":-2000,"y":-229,"width":190,"height":218,"type":"file","file":"ANEXOS/Pasted image 20260601160701.png"},
+		{"id":"9740b61feb75f4b7","x":-2440,"y":-389,"width":400,"height":218,"type":"file","file":"ANEXOS/Pasted image 20260601161135.png"},
+		{"id":"62e040730793cd30","x":-2210,"y":-620,"width":400,"height":218,"type":"file","file":"ANEXOS/Pasted image 20260601161147.png"}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},
-		{"id":"d4c8e74742433586","fromNode":"fa18d6f0403ea732","fromSide":"right","toNode":"fb754cf9fe92da10","toSide":"left"}
+		{"id":"d4c8e74742433586","fromNode":"fa18d6f0403ea732","fromSide":"right","toNode":"fb754cf9fe92da10","toSide":"left"},
+		{"id":"a5526bb96e828d52","fromNode":"fa18d6f0403ea732","fromSide":"bottom","toNode":"59ba334a8712da4d","toSide":"top"},
+		{"id":"2b9425488a93c47f","fromNode":"fa18d6f0403ea732","fromSide":"top","toNode":"a894f0fb4e4e31b2","toSide":"bottom"},
+		{"id":"3192b47faa205e40","fromNode":"59ba334a8712da4d","fromSide":"right","toNode":"5af782290c3fa51f","toSide":"left"},
+		{"id":"1785a833a373a1e9","fromNode":"fa18d6f0403ea732","fromSide":"left","toNode":"07200a93eb700cba","toSide":"right"},
+		{"id":"caf877a1530600be","fromNode":"07200a93eb700cba","fromSide":"left","toNode":"a1a69ba46d44057c","toSide":"right"},
+		{"id":"898db27fd56429cc","fromNode":"07200a93eb700cba","fromSide":"left","toNode":"9740b61feb75f4b7","toSide":"right"},
+		{"id":"026a2c2725242e85","fromNode":"07200a93eb700cba","fromSide":"left","toNode":"62e040730793cd30","toSide":"right"}
 	]
 }
