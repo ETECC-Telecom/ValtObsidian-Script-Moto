@@ -45,9 +45,9 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -285.07228112624466,
-                  "y": -593.7013160227505,
-                  "zoom": 1
+                  "x": -445.79384601989955,
+                  "y": -510.86197068294246,
+                  "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,11 +262,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "213f8beea6e1db3c",
+  "active": "df2930b54473e421",
   "lastOpenFiles": [
-    "HOME.md",
-    "DOCUMENTOS/Planejamento da Home.md",
     "ARVORE/Design.md",
+    "DOCUMENTOS/Planejamento da Home.md",
+    "HOME.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ANEXOS/Pasted image 20260530174357.png",
     "ANEXOS/Pasted image 20260530173121.png",

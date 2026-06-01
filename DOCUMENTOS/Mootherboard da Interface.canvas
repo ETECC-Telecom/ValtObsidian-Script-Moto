@@ -4,7 +4,7 @@
 		{"id":"a894f0fb4e4e31b2","type":"text","text":"Primeiro Acesso\nAo abrir o app pela primeira vez, o sistema solicita o nome do técnico para preenchimento automático das mensagens ao cliente.\n\nSimples, direto e sem burocracia","x":100,"y":-60,"width":365,"height":170},
 		{"id":"97688494da433b96","type":"file","file":"ANEXOS/Pasted image 20260530173102.png","x":83,"y":-520,"width":400,"height":175},
 		{"id":"8a7e5d38c7ff9962","type":"file","file":"ANEXOS/Pasted image 20260530173121.png","x":680,"y":-460,"width":200,"height":399},
-		{"id":"fa18d6f0403ea732","type":"file","file":"DOCUMENTOS/Planejamento da Home.md","x":-1040,"y":-769,"width":432,"height":457},
+		{"id":"fa18d6f0403ea732","type":"file","file":"DOCUMENTOS/Planejamento da Home.md","x":-1040,"y":-769,"width":460,"height":457},
 		{"id":"fb754cf9fe92da10","type":"file","file":"ANEXOS/Pasted image 20260530174357.png","x":-480,"y":-680,"width":399,"height":218}
 	],
 	"edges":[
