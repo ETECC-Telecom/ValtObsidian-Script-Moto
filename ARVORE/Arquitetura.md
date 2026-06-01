@@ -37,6 +37,8 @@ Modelo de Exemplo:
 
 ### Fluxo de dados
 ### Fluxo do usuário
+
+[[Fluxo do Usuário - Encaminhar Relatório dos Testes]]
 ### Diagramas
 *se quiser usar Mermaid, deixe pré-formatado*
 ## Dependências

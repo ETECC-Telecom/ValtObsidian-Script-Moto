@@ -31,6 +31,7 @@ Thumb: Pasted image 20260507141552.png
 - [[Planejamento da Home]]
 - [[Planejamento da Página Seletor de Fluxo]]
 - [[Planejamento do Formulário de Script (Base)]]
+- [[Planejamento do Histórico Local]]
 ## Arquitetura da Informação
 
 - [[Design/Sitemap]]
