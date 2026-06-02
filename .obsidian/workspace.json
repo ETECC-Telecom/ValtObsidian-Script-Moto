@@ -85,8 +85,7 @@
               "title": "Moodboard da Identidade Visual"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,10 +278,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "81bf12d7703e80fc",
+  "active": "1a8a917c3198878a",
   "lastOpenFiles": [
-    "ARVORE/Design.md",
     "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
+    "ARVORE/Design.md",
     "HOME.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Arquitetura.md",
