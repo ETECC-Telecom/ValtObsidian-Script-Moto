@@ -23,7 +23,8 @@ Thumb: Pasted image 20260507141628.png
 ![[Imagens de Referencia.canvas|Imagens de Referencia]]
 ### Documentos (PDFs, textos, planilhas)
 
-- Link para o arquivo local ou URL
+- [[Mensagem para Encaminhar ao Cliente]]
+
 ### Configurações
 
 - Link para o arquivo local ou URL
@@ -42,6 +43,9 @@ Thumb: Pasted image 20260507141628.png
 - [[Dump da Estrutura de Dados de OS - Encaminhar Externa]]
 - [[Dump da Estrutura de Dados de OS - Retenção de Clientes]]
 - [[Dump da Estrutura de Dados de OS - Retirada de Equipamentos]]
+
+#### [[Data de Informações passadas ao cliente]]
+#### [[Data de Informações passadas ao cliente - Atendimento ao Cliente]]
 ###  Links Externos
 
 - Nome: URL

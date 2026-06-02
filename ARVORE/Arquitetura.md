@@ -50,4 +50,5 @@ Liste todas as libs e frameworks necessários.
 - **LocalStorage** - Para o armazenamento de informações simples do projeto;
 - **IndexedDB** - Para o armazenamento de informações mais importantes relacionados ao cliente;
 - **LIT** - Para a criação de estrutura de componentes do projeto;
+- **Vercel** - Para a Hospedagem do programa;
 
