@@ -28,7 +28,8 @@ O principal objetivo desse sistema seria:
 - Função que permita o técnico encaminhar informações relacionadas ao complemento de "Informações passadas ao cliente", do qual, toda vez que ele ter que criar novas informações, teremos um banco somente para elas para serem encaminhadas a uma planilha de controle, para serem implementadas ao aplicativo no futuro. 
 - Controle sobre a quantidade de OS's realizadas no dia/semana/mês;
 - Além da gestão de Script, os técnicos imploram para que o app tenha uma função para encaminhar informações ao cliente referentes a visita do local. 
-- O Aplicativo deverá permitir o cadastro do Nome do Técnico para anexo em automático em mensagens automáticas do sistema. Essa função irá aparecer toda vez que o app for aberto pela primeira vez, um modal com caixa de texto para adicionar o nome do técnico. 
+- O Aplicativo deverá permitir o cadastro do Nome do Técnico para anexo em automático em mensagens automáticas do sistema. Essa função irá aparecer toda vez que o app for aberto pela primeira vez, um modal com caixa de texto para adicionar o nome do técnico.
+- Também um campo de checklist, onde o técnico irá receber uma lista em markdawn, que será convertidos para lista de afazeres no cliente. Usado para visitas que são extremamente importantes seguir certos passos, que pode ser encaminhado direto pela supervisão. E essa lista mostra a porcentagem dos itens já checkados.
 - Além disso, terei que disponibilizar um canto para consulta e links rápidas com:
 	- Links Rápidos para:
 		- Ramais: Torre, Retenção e demais;
