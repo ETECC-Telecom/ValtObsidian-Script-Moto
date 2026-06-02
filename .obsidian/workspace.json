@@ -67,9 +67,26 @@
               "icon": "lucide-file",
               "title": "Arquitetura"
             }
+          },
+          {
+            "id": "81bf12d7703e80fc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
+                "viewState": {
+                  "x": 50.19890926764929,
+                  "y": -454.2649505848808,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Moodboard da Identidade Visual"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -262,20 +279,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "062ea27fceec0404",
+  "active": "81bf12d7703e80fc",
   "lastOpenFiles": [
-    "DOCUMENTOS/Planejamento do Histórico Local.md",
     "ARVORE/Design.md",
+    "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
+    "HOME.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Arquitetura.md",
+    "DOCUMENTOS/Planejamento do Histórico Local.md",
     "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
-    "HOME.md",
     "DOCUMENTOS/Sem título.md",
     "ANEXOS/Pasted image 20260601163633.png",
     "DOCUMENTOS/Planejamento do Formulário de Script (Base).md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "ARVORE/Anexos.md",
-    "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
     "ANEXOS/Pasted image 20260601161147.png",
     "ANEXOS/Pasted image 20260601161135.png",
     "ANEXOS/Pasted image 20260601160701.png",
