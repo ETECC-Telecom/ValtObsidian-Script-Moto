@@ -24,8 +24,12 @@ Thumb: Pasted image 20260507141552.png
 - Inter
 - Urbanist
 **Paleta de Cores**
-- `#38BDF8` - Sky Blue (Tech)
-	O **Sky Blue** transmite inteligência e clareza digital. Combinado com fundos escuros (#0F172A), cria um alto contraste essencial para o uso em dispositivos móveis no campo. Como cor secundária, o **Active Green** pode ser usado para sinalizar "OS Concluída" ou "Sistema Online".
+- `#1C0A0A`
+- `#540D07`
+- `#7B1103`
+- `#B81202`
+- `#F7ECAC`
+- `#FEFCF4`
 ## Visão Geral do Design
 
 - [[Planejamento da Home]]

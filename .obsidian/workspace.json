@@ -24,20 +24,45 @@
             }
           },
           {
-            "id": "df2930b54473e421",
+            "id": "c294bf55bd9139df",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
-                "viewState": {
-                  "x": -938.8485845161165,
-                  "y": -447.7617330169624,
-                  "zoom": -1.3333333333333333
-                }
+                "file": "ARVORE/Desenvolvimento.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mootherboard da Interface"
+              "icon": "lucide-file",
+              "title": "Desenvolvimento"
+            }
+          },
+          {
+            "id": "084dd87afb689ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Componente Padrão LIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Componente Padrão LIT"
+            }
+          },
+          {
+            "id": "13fa1c1f4c0915d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARVORE/Planejamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento"
             }
           },
           {
@@ -67,54 +92,9 @@
               "icon": "lucide-file",
               "title": "Arquitetura"
             }
-          },
-          {
-            "id": "81bf12d7703e80fc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
-                "viewState": {
-                  "x": 50.19890926764929,
-                  "y": -407.7649505848808,
-                  "zoom": 1
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Moodboard da Identidade Visual"
-            }
-          },
-          {
-            "id": "88251a0bdb48d767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVORE/Arquitetura.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitetura"
-            }
-          },
-          {
-            "id": "1f0cd1e28e945601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVORE/Anexos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anexos"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -307,24 +287,25 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1f0cd1e28e945601",
+  "active": "084dd87afb689ee4",
   "lastOpenFiles": [
-    "DOCUMENTOS/Data de Informações passadas ao cliente - Atendimento ao Cliente.md",
-    "ARVORE/Anexos.md",
-    "DOCUMENTOS/Mensagem para Encaminhar ao Cliente.md",
-    "DOCUMENTOS/Data de Informações passadas ao cliente.md",
+    "ARVORE/Desenvolvimento.md",
+    "ARVORE/Planejamento.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
     "HOME.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Design.md",
     "ARVORE/Arquitetura.md",
-    "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
-    "ARVORE/Documentação Final.md",
-    "ARVORE/Desenvolvimento.md",
-    "ARVORE/Testes.md",
-    "ARVORE/Planejamento.md",
-    "DOCUMENTOS/Planejamento do Histórico Local.md",
+    "ARVORE/Anexos.md",
+    "ARVORE/Deploy(Entrega).md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "DOCUMENTOS/Data de Informações passadas ao cliente - Atendimento ao Cliente.md",
+    "DOCUMENTOS/Data de Informações passadas ao cliente.md",
     "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
-    "DOCUMENTOS/Sem título.md",
+    "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
+    "DOCUMENTOS/Mensagem para Encaminhar ao Cliente.md",
+    "ARVORE/Documentação Final.md",
+    "ARVORE/Testes.md",
+    "DOCUMENTOS/Planejamento do Histórico Local.md",
     "ANEXOS/Pasted image 20260601163633.png",
     "DOCUMENTOS/Planejamento do Formulário de Script (Base).md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
@@ -338,7 +319,6 @@
     "ANEXOS/Pasted image 20260530173121.png",
     "ANEXOS/Pasted image 20260530173102.png",
     "ANEXOS/Pasted image 20260530172802.png",
-    "ARVORE/Deploy(Entrega).md",
     "ANEXOS/Pasted image 20260530171530.png",
     "DOCUMENTOS/Moodboard da Identidade Visual.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
@@ -348,7 +328,6 @@
     "README.md",
     "Excalidraw/Drawing 2026-05-30 14.05.26.excalidraw.md",
     "Excalidraw",
-    "DOCUMENTOS/Drawing 2026-05-30 13.56.42.excalidraw.md",
     "Design/Wireframes",
     "Design",
     "BASES/MocsHome.base",

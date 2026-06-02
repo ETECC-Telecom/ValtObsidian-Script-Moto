@@ -23,10 +23,12 @@ Modelo de Exemplo:
 ```
 📁 Projeto/
 │
+├── 📁 build/ 
+├── 📁 data/ <- Jsons e dados importantes! 
 ├── 📁 design/ <- Armazena arquivos de design do projeto. Ignorado pelo GitHUB!
 ├── 📁 docs/
 ├── 📁 src/
-│	├── 📄 app.py
+│	├── 📄 app.js
 ├── 📁 tests/ 
 │
 └── 📄 .gitgnore
