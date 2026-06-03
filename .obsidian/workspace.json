@@ -31,9 +31,9 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -2055.325671148968,
-                  "y": -481.39169478144527,
-                  "zoom": -2.6666666666666665
+                  "x": -511.63862365626903,
+                  "y": -565.4731860499642,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -96,7 +96,8 @@
               "title": "Arquitetura"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,11 +290,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1a8a917c3198878a",
+  "active": "f900f059c1222d4b",
   "lastOpenFiles": [
+    "HOME.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Design.md",
-    "HOME.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Desenvolvimento.md",
     "ARVORE/Planejamento.md",
