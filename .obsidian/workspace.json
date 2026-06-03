@@ -96,8 +96,7 @@
               "title": "Arquitetura"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,15 +289,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f900f059c1222d4b",
+  "active": "1a8a917c3198878a",
   "lastOpenFiles": [
-    "HOME.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "ARVORE/Design.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
-    "ARVORE/Desenvolvimento.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Planejamento.md",
+    "ARVORE/Design.md",
     "ARVORE/Arquitetura.md",
+    "HOME.md",
+    "ARVORE/Desenvolvimento.md",
     "ARVORE/Anexos.md",
     "ARVORE/Deploy(Entrega).md",
     "DOCUMENTOS/Data de Informações passadas ao cliente - Atendimento ao Cliente.md",
