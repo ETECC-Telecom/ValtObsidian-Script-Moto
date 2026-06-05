@@ -31,9 +31,9 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -399.9225800453927,
-                  "y": -218.78249683852002,
-                  "zoom": -0.6666666666666665
+                  "x": -162.707001807439,
+                  "y": -492.28842637860134,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,20 +304,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f1a29829603ba3f3",
+  "active": "f900f059c1222d4b",
   "lastOpenFiles": [
-    "ARVORE/Arquitetura.md",
-    "ARVORE/Deploy(Entrega).md",
-    "HOME.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Planejamento.md",
     "ARVORE/Design.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "ARVORE/Arquitetura.md",
+    "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
+    "ARVORE/Deploy(Entrega).md",
+    "HOME.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Desenvolvimento.md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Data de Informações passadas ao cliente - Atendimento ao Cliente.md",
     "DOCUMENTOS/Data de Informações passadas ao cliente.md",
-    "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
     "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
     "DOCUMENTOS/Mensagem para Encaminhar ao Cliente.md",
     "ARVORE/Documentação Final.md",
