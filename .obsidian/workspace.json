@@ -31,9 +31,9 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -1490.3618428271134,
-                  "y": -1045.3207067080448,
-                  "zoom": 0.6666666666666667
+                  "x": -399.9225800453927,
+                  "y": -218.78249683852002,
+                  "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -95,9 +95,23 @@
               "icon": "lucide-file",
               "title": "Arquitetura"
             }
+          },
+          {
+            "id": "f1a29829603ba3f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fluxo do Usuário - Encaminhar Relatório dos Testes"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -290,17 +304,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f900f059c1222d4b",
+  "active": "f1a29829603ba3f3",
   "lastOpenFiles": [
+    "ARVORE/Arquitetura.md",
+    "ARVORE/Deploy(Entrega).md",
+    "HOME.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Planejamento.md",
     "ARVORE/Design.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "HOME.md",
-    "ARVORE/Arquitetura.md",
     "ARVORE/Desenvolvimento.md",
     "ARVORE/Anexos.md",
-    "ARVORE/Deploy(Entrega).md",
     "DOCUMENTOS/Data de Informações passadas ao cliente - Atendimento ao Cliente.md",
     "DOCUMENTOS/Data de Informações passadas ao cliente.md",
     "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
