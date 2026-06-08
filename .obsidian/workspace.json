@@ -31,8 +31,8 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -434.1412973023742,
-                  "y": 196.75390345006699,
+                  "x": -323.6412973023742,
+                  "y": 191.25390345006699,
                   "zoom": 1
                 }
               },
@@ -238,8 +238,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           },
           {
@@ -325,11 +325,11 @@
       "bases:Criar nova base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "obsidian-kanban:Create new board": false,
+      "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f900f059c1222d4b",
