@@ -13,8 +13,7 @@
 		{"id":"26c72beb0a75aef6","type":"file","file":"ANEXOS/Pasted image 20260601163633.png","x":-117,"y":-1338,"width":399,"height":218},
 		{"id":"fa18d6f0403ea732","type":"file","file":"DOCUMENTOS/Planejamento da Home.md","x":-1040,"y":-799,"width":500,"height":457},
 		{"id":"fb754cf9fe92da10","type":"file","file":"ANEXOS/Pasted image 20260530174357.png","x":-420,"y":-680,"width":399,"height":218},
-		{"id":"97688494da433b96","type":"file","file":"ANEXOS/Pasted image 20260530173102.png","x":-21,"y":-400,"width":400,"height":175},
-		{"id":"ef7a3eeef4a95949","type":"text","text":"","x":-471,"y":273,"width":250,"height":60}
+		{"id":"97688494da433b96","type":"file","file":"ANEXOS/Pasted image 20260530173102.png","x":-21,"y":-400,"width":400,"height":175}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},

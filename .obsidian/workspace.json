@@ -31,13 +31,27 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -323.6412973023742,
-                  "y": 191.25390345006699,
-                  "zoom": 1
+                  "x": -2100.5255143756103,
+                  "y": -214.24369758535636,
+                  "zoom": 0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Mootherboard da Interface"
+            }
+          },
+          {
+            "id": "6be9e8a4bc381166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento da Página Seletor de Fluxo"
             }
           },
           {
@@ -55,63 +69,7 @@
             }
           },
           {
-            "id": "13fa1c1f4c0915d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVORE/Planejamento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planejamento"
-            }
-          },
-          {
-            "id": "25710ad38708d789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVORE/Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design"
-            }
-          },
-          {
-            "id": "17cc79cdc9c7f60e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVORE/Arquitetura.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitetura"
-            }
-          },
-          {
-            "id": "f1a29829603ba3f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fluxo do Usuário - Encaminhar Relatório dos Testes"
-            }
-          },
-          {
-            "id": "a0f9c528f6b24080",
+            "id": "5b036872953d2e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -125,21 +83,21 @@
             }
           },
           {
-            "id": "30470f651ecb844d",
+            "id": "66933fcf4e1cba35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARVORE/Design.md",
+                "file": "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "Dump da Estrutura de Dados de OS - Atendimento Completo"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -332,34 +290,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f900f059c1222d4b",
+  "active": "66933fcf4e1cba35",
   "lastOpenFiles": [
-    "HOME.md",
-    "ARVORE/Design.md",
     "ARVORE/Anexos.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
+    "HOME.md",
     "ARVORE/Planejamento.md",
+    "ARVORE/Documentação Final.md",
+    "ARVORE/Design.md",
     "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
     "ARVORE/Arquitetura.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Deploy(Entrega).md",
     "ARVORE/Desenvolvimento.md",
     "DOCUMENTOS/Data de Informações passadas ao cliente - Atendimento ao Cliente.md",
     "DOCUMENTOS/Data de Informações passadas ao cliente.md",
     "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
     "DOCUMENTOS/Mensagem para Encaminhar ao Cliente.md",
-    "ARVORE/Documentação Final.md",
     "ARVORE/Testes.md",
     "DOCUMENTOS/Planejamento do Histórico Local.md",
     "ANEXOS/Pasted image 20260601163633.png",
     "DOCUMENTOS/Planejamento do Formulário de Script (Base).md",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "ANEXOS/Pasted image 20260601161147.png",
     "ANEXOS/Pasted image 20260601161135.png",
     "ANEXOS/Pasted image 20260601160701.png",
     "ANEXOS/Pasted image 20260601155000.png",
     "DOCUMENTOS/Planejamento da Home.md",
-    "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
     "ANEXOS/Pasted image 20260530174357.png",
     "ANEXOS/Pasted image 20260530173121.png",
     "ANEXOS/Pasted image 20260530173102.png",

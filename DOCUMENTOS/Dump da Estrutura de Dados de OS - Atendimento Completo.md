@@ -17,7 +17,12 @@ Descrição:
 		tipo_os: String, //Completa, Retenção e etc.
 		finalizada: Bool,
 		info_encaminhadas: Bool, //informação copiada/enviada ao cliente
-		id: String, //id do banco	
+		id: String, //id do banco
+		coordenadas: {
+			latitude: String,
+			longitude: String,
+			precisao: Integer,
+		}
 	},
 	
 	info_cliente:{
