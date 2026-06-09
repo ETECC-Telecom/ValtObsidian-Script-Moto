@@ -8,12 +8,12 @@
 		{"id":"07200a93eb700cba","type":"file","file":"DOCUMENTOS/Planejamento do Formulário de Script (Base).md","x":-1640,"y":-571,"width":400,"height":400},
 		{"id":"a1a69ba46d44057c","type":"file","file":"ANEXOS/Pasted image 20260601160701.png","x":-2000,"y":-229,"width":190,"height":218},
 		{"id":"9740b61feb75f4b7","type":"file","file":"ANEXOS/Pasted image 20260601161135.png","x":-2440,"y":-389,"width":399,"height":218},
-		{"id":"62e040730793cd30","type":"file","file":"ANEXOS/Pasted image 20260601161147.png","x":-2210,"y":-620,"width":399,"height":218},
 		{"id":"13d278f23a1e8803","type":"file","file":"DOCUMENTOS/Planejamento do Histórico Local.md","x":-640,"y":-1280,"width":400,"height":400},
 		{"id":"26c72beb0a75aef6","type":"file","file":"ANEXOS/Pasted image 20260601163633.png","x":-117,"y":-1338,"width":399,"height":218},
 		{"id":"fa18d6f0403ea732","type":"file","file":"DOCUMENTOS/Planejamento da Home.md","x":-1040,"y":-799,"width":500,"height":457},
 		{"id":"fb754cf9fe92da10","type":"file","file":"ANEXOS/Pasted image 20260530174357.png","x":-420,"y":-680,"width":399,"height":218},
-		{"id":"97688494da433b96","type":"file","file":"ANEXOS/Pasted image 20260530173102.png","x":-21,"y":-400,"width":400,"height":175}
+		{"id":"97688494da433b96","type":"file","file":"ANEXOS/Pasted image 20260530173102.png","x":-21,"y":-400,"width":400,"height":175},
+		{"id":"62e040730793cd30","type":"file","file":"ANEXOS/Pasted image 20260601161147.png","x":-2240,"y":-660,"width":399,"height":218}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},
