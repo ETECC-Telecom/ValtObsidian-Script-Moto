@@ -14,31 +14,29 @@ Estrutura padrão para um componente LIT
 ### Código
 
 ```js
-import { LitElement, html, css, unsafeCSS} from 'lit';
+import { LitElement, html, css, unsafeCSS } from 'lit';
+import globalStyle from "./index.css?inline";
+
 
 export class Home_Page extends LitElement {
     // 1. Em vez de @property, use o objeto static properties
     static properties = {
-        nome: { type: String },
-        url_config: {type: String}
+        
     };
 
-    static styles = [
-        // Transformamos o CSS importado em um objeto que o Lit entende
-        css`
-        
-        `
-      ];
+    static get styles() {
+        return css`${unsafeCSS(globalStyle)}`;
+    }
 
     constructor() {
         super();
-        this.url_config = ''
+
     }
-    
+
     connectedCallback() {
-    super.connectedCallback(); // ⚠️ Sempre chame o super PRIMEIRO no Lit
-	
-	}
+        super.connectedCallback(); // ⚠️ Sempre chame o super PRIMEIRO no Lit
+
+    }
 
     render() {
         return html`
