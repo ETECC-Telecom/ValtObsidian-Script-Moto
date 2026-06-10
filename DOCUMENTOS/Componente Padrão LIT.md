@@ -34,6 +34,11 @@ export class Home_Page extends LitElement {
         super();
         this.url_config = ''
     }
+    
+    connectedCallback() {
+    super.connectedCallback(); // ⚠️ Sempre chame o super PRIMEIRO no Lit
+	
+	}
 
     render() {
         return html`
