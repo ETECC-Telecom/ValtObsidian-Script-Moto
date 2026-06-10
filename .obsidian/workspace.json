@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -290,14 +290,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6be9e8a4bc381166",
+  "active": "66933fcf4e1cba35",
   "lastOpenFiles": [
-    "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Anexos.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "DOCUMENTOS/Sem título.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
     "HOME.md",
     "ARVORE/Planejamento.md",
     "ARVORE/Documentação Final.md",
