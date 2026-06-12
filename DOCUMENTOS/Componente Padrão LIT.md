@@ -21,7 +21,7 @@ import globalStyle from "./index.css?inline";
 export class Home_Page extends LitElement {
     // 1. Em vez de @property, use o objeto static properties
     static properties = {
-        
+
     };
 
     static get styles() {
@@ -32,11 +32,11 @@ export class Home_Page extends LitElement {
         super();
 
     }
-    
-	// Executado assim que o componente é renderizado na tela
-    firstUpdated() {
-        
-    }
+
+    // Executado assim que o componente é renderizado na tela
+    firstUpdated() {
+
+    }
     connectedCallback() {
         super.connectedCallback(); // ⚠️ Sempre chame o super PRIMEIRO no Lit
 
