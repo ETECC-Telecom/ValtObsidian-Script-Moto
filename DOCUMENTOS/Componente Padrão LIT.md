@@ -32,7 +32,11 @@ export class Home_Page extends LitElement {
         super();
 
     }
-
+    
+	// Executado assim que o componente é renderizado na tela
+    firstUpdated() {
+        
+    }
     connectedCallback() {
         super.connectedCallback(); // ⚠️ Sempre chame o super PRIMEIRO no Lit
 
@@ -72,6 +76,11 @@ export class Home_Page extends LitElement {
         super();
 
     }
+    
+    // Executado assim que o componente é renderizado na tela
+    firstUpdated() {
+        
+    }
 
     connectedCallback() {
         super.connectedCallback(); // ⚠️ Sempre chame o super PRIMEIRO no Lit
