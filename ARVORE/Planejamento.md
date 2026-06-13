@@ -22,8 +22,16 @@ A ideia surgiu de um APP que já existe no setor, porém foge de meu controle, i
 **[RF001] - Cadastro do Técnico**
 	O aplicativo, permitirá alterar ou cadastrar um novo técnico na home da interface. A ideia é que, no primeiro uso do app, estoure um modal solicitando o nome do mesmo para armazenar no sistema (LocalStorage). Com isso, poderemos usar essa variável em todos os cantos do sistema.
 	
-**[RF001] - Criação de OS Completa**
-	Permitir o técnico de criar uma OS completa, com todas as informaç
+**[RF002] - Criação de OS Completa**
+	Permitir o técnico de criar uma OS completa, com todas as informações necessárias para que o técnico possa completar a Ordem de Serviço, com persistência de dados automática controladas por Local Storage e um objeto dedicado para cada tipo de OS que temos no sistema. 
+	
+**[RF003] - Finalizar OS**
+	O requisito de finalizar OS terá que seguir alguns passos após o técnico clicar em finalizar a OS. Quando o técnico preencher todos os dados, dois botões irão aparecer, um para copiar o Script, outro para copiar as informações passadas ao cliente, e outro para encerrar a OS. Quando esse botão for clicado, sua função responsável estará no objeto que ministra a estrutura da OS, e ela deverá preencher alguns requisitos, como:
+- Gerar o Script da OS;
+- Gerar o Script de Informações passadas ao cliente (Quando necessário);
+- Validar se o técnico adicionou falta de informação na abertura da OS para encaminhar a estrutura de sincronização com a planilha;
+- Validar se o técnico adicionou informações extras passadas ao cliente, para encaminhar para a planilha. 
+
 ### Não Funcionais
 
 **[RNF001] - Nome do Requisito não funcional**

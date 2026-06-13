@@ -31,27 +31,13 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -766.7994175791279,
-                  "y": -535.8391118631645,
+                  "x": -1456.3664733090222,
+                  "y": -752.9956532822312,
                   "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Mootherboard da Interface"
-            }
-          },
-          {
-            "id": "6be9e8a4bc381166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planejamento da Página Seletor de Fluxo"
             }
           },
           {
@@ -69,31 +55,31 @@
             }
           },
           {
-            "id": "5b036872953d2e43",
+            "id": "78fdc054420a2209",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARVORE/Anexos.md",
+                "file": "ARVORE/Arquitetura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anexos"
+              "title": "Arquitetura"
             }
           },
           {
-            "id": "66933fcf4e1cba35",
+            "id": "2f9202e3043ca4e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
+                "file": "ARVORE/Planejamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dump da Estrutura de Dados de OS - Atendimento Completo"
+              "title": "Planejamento"
             }
           }
         ],
@@ -290,20 +276,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "084dd87afb689ee4",
+  "active": "78fdc054420a2209",
   "lastOpenFiles": [
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
-    "ARVORE/Anexos.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
-    "DOCUMENTOS/Sem título.md",
-    "HOME.md",
     "ARVORE/Planejamento.md",
+    "ARVORE/Arquitetura.md",
+    "HOME.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
+    "ARVORE/Anexos.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "DOCUMENTOS/Sem título.md",
     "ARVORE/Documentação Final.md",
     "ARVORE/Design.md",
     "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
-    "ARVORE/Arquitetura.md",
     "ARVORE/Deploy(Entrega).md",
     "ARVORE/Desenvolvimento.md",
     "DOCUMENTOS/Data de Informações passadas ao cliente - Atendimento ao Cliente.md",
