@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -276,11 +276,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "084dd87afb689ee4",
+  "active": "2f9202e3043ca4e8",
   "lastOpenFiles": [
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Arquitetura.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Planejamento.md",
     "HOME.md",
     "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",

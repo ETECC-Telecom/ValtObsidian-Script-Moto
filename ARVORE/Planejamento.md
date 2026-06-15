@@ -28,9 +28,11 @@ A ideia surgiu de um APP que já existe no setor, porém foge de meu controle, i
 **[RF003] - Finalizar OS**
 	O requisito de finalizar OS terá que seguir alguns passos após o técnico clicar em finalizar a OS. Quando o técnico preencher todos os dados, dois botões irão aparecer, um para copiar o Script, outro para copiar as informações passadas ao cliente, e outro para encerrar a OS. Quando esse botão for clicado, sua função responsável estará no objeto que ministra a estrutura da OS, e ela deverá preencher alguns requisitos, como:
 - Gerar o Script da OS;
+	- Todos os campos de TextArea serão adicionados ao final da OS, antes do resumo do relatório. A sequência será: Relatório Técnico, Text Areas e Resumo dos Testes;
 - Gerar o Script de Informações passadas ao cliente (Quando necessário);
 - Validar se o técnico adicionou falta de informação na abertura da OS para encaminhar a estrutura de sincronização com a planilha;
-- Validar se o técnico adicionou informações extras passadas ao cliente, para encaminhar para a planilha. 
+- Validar se o técnico adicionou informações extras passadas ao cliente, para encaminhar para a planilha.
+
 
 ### Não Funcionais
 
