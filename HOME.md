@@ -22,6 +22,7 @@ Quando o Técnico iniciar uma OS, a mesma irá ser adicionada a estrutura de ges
 
 O principal objetivo desse sistema seria:
 
+- Permitir o técnico interagir com campos de texto através de comandos para inserção de scripts pré criados, por exemplo: quando o técnico digita `/utp`, uma lista de scripts associados aparecem para serem selecionadas.
 - Permitir em um único app que o técnico consiga desenvolver todo o script durante o atendimento;
 - Consultar Scripts realizados anteriormente através do histórico do APP;
 	- Permitir ver informações importantes isoladamente, como a troca de ativos no local;
