@@ -53,6 +53,34 @@ export class Home_Page extends LitElement {
 customElements.define('home-page', Home_Page);
 ```
 
+CSS:
+
+```css
+:host {
+    display: block;
+    box-sizing: border-box;
+    color: var(--text-color);
+  }
+
+  /* Reset básico para o Shadow DOM */
+  *, *::before, *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+  }
+  
+h2 {
+    color: var(--text-color);
+    text-align: center;
+}
+
+p {
+    font-size: var(--paragraph);
+    font-weight: 100;
+    text-align: left;
+}
+```
+
 Com CSS Embutido:
 
 ```js

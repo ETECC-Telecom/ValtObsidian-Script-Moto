@@ -82,7 +82,8 @@
               "title": "Planejamento"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,10 +276,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a8a917c3198878a",
+  "active": "084dd87afb689ee4",
   "lastOpenFiles": [
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "HOME.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Planejamento.md",
     "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
