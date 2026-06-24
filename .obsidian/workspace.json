@@ -31,8 +31,8 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -1456.3664733090222,
-                  "y": -752.9956532822312,
+                  "x": -1109.6781416915303,
+                  "y": -432.9756157385327,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -277,11 +277,11 @@
   },
   "active": "1a8a917c3198878a",
   "lastOpenFiles": [
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "HOME.md",
     "ARVORE/Planejamento.md",
     "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "HOME.md",
     "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "ARVORE/Anexos.md",
