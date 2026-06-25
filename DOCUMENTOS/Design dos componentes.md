@@ -14,7 +14,9 @@ Descrição:
 
 ### Sessão de Testes
 
-
+- [[Componente de Navegação.excalidraw]]
+- [[Componente de Mapa de Calor.excalidraw]]
+- 
 
 
 

@@ -111,15 +111,15 @@
             }
           },
           {
-            "id": "74ff827909678a01",
+            "id": "f6969d5106e16e81",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "DOCUMENTOS/Componente de Navegação.excalidraw.md"
+                "file": "DOCUMENTOS/Componente de Mapa de Calor.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Componente de Navegação.excalidraw"
+              "title": "Componente de Mapa de Calor.excalidraw"
             }
           }
         ],
@@ -316,17 +316,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74ff827909678a01",
+  "active": "f6969d5106e16e81",
   "lastOpenFiles": [
-    "DOCUMENTOS/Design dos componentes.md",
-    "DOCUMENTOS/Componente de Navegação.excalidraw.md",
-    "DOCUMENTOS/Sem título.md",
-    "ARVORE/Design.md",
-    "HOME.md",
-    "ARVORE/Planejamento.md",
-    "ARVORE/Arquitetura.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "DOCUMENTOS/Componente Padrão LIT.md",
+    "ARVORE/Arquitetura.md",
+    "DOCUMENTOS/Design dos componentes.md",
+    "ARVORE/Planejamento.md",
+    "DOCUMENTOS/Componente de Mapa de Calor.excalidraw.md",
+    "DOCUMENTOS/Componente de Navegação.excalidraw.md",
+    "ARVORE/Design.md",
+    "DOCUMENTOS/Sem título.md",
+    "HOME.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "ARVORE/Anexos.md",
@@ -355,8 +356,6 @@
     "DOCUMENTOS/Moodboard da Identidade Visual.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
     "ARVORE/Imagens de Referencia.canvas",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retenção de Clientes.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Encaminhar Externa.md",
     "Excalidraw",
     "Design/Wireframes",
     "Design",
