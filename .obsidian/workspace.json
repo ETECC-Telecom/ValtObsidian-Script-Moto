@@ -31,8 +31,8 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -1109.6781416915303,
-                  "y": -432.9756157385327,
+                  "x": -985.2259573495862,
+                  "y": -516.4729207607871,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,13 +276,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "084dd87afb689ee4",
+  "active": "f900f059c1222d4b",
   "lastOpenFiles": [
+    "DOCUMENTOS/Componente Padrão LIT.md",
     "HOME.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Planejamento.md",
     "ARVORE/Arquitetura.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
     "DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "ARVORE/Anexos.md",
