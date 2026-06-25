@@ -45,9 +45,7 @@ Thumb: Pasted image 20260507141552.png
 > Pode integrar com Mermaid aqui futuramente
 ## Wireframes
 
-- [[Design/Wireframes/Home]]
-- [[Design/Wireframes/Dashboard]]
-- [[Design/Wireframes/Login]]
+- [[Design dos componentes]]
 
 > 🔗 Links para arquivos do Excalidraw
 ## UI (Interface Visual)

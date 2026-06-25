@@ -1,0 +1,20 @@
+---
+Criado: 2026-06-25
+Hora: 11:11
+tags:
+Pai: "[[Design]]"
+Descrição:
+---
+
+[↩️ Voltar](HOME)
+```table-of-contents
+```
+---
+## Página de Script completo
+
+### Sessão de Testes
+
+
+
+
+
