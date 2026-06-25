@@ -111,15 +111,15 @@
             }
           },
           {
-            "id": "f6969d5106e16e81",
+            "id": "bb1d81222b1a3ee5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "DOCUMENTOS/Componente de Mapa de Calor.excalidraw.md"
+                "file": "DOCUMENTOS/Componentes de Teste de Ping, Tracert e Velocidade Adicional.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Componente de Mapa de Calor.excalidraw"
+              "title": "Componentes de Teste de Ping, Tracert e Velocidade Adicional"
             }
           }
         ],
@@ -316,13 +316,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6969d5106e16e81",
+  "active": "bb1d81222b1a3ee5",
   "lastOpenFiles": [
+    "DOCUMENTOS/Design dos componentes.md",
+    "DOCUMENTOS/Componentes de Teste de Ping, Tracert e Velocidade Adicional.md",
+    "DOCUMENTOS/Sem título 1.md",
+    "DOCUMENTOS/Componente de Mapa de Calor.excalidraw.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Arquitetura.md",
-    "DOCUMENTOS/Design dos componentes.md",
     "ARVORE/Planejamento.md",
-    "DOCUMENTOS/Componente de Mapa de Calor.excalidraw.md",
     "DOCUMENTOS/Componente de Navegação.excalidraw.md",
     "ARVORE/Design.md",
     "DOCUMENTOS/Sem título.md",
@@ -354,7 +356,6 @@
     "ANEXOS/Pasted image 20260530172802.png",
     "ANEXOS/Pasted image 20260530171530.png",
     "DOCUMENTOS/Moodboard da Identidade Visual.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
     "ARVORE/Imagens de Referencia.canvas",
     "Excalidraw",
     "Design/Wireframes",
