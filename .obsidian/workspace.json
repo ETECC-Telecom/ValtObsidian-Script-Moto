@@ -121,23 +121,9 @@
               "icon": "excalidraw-icon",
               "title": "Componentes de Teste de Ping, Tracert e Velocidade Adicional"
             }
-          },
-          {
-            "id": "b280423b928d3a41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Sem título 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título 2"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -330,10 +316,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b280423b928d3a41",
+  "active": "4ab6bb4a7a11da61",
   "lastOpenFiles": [
-    "DOCUMENTOS/Componentes de Teste de Ping, Tracert e Velocidade Adicional.md",
     "DOCUMENTOS/Sem título 2.md",
+    "DOCUMENTOS/Componentes de Teste de Ping, Tracert e Velocidade Adicional.md",
     "DOCUMENTOS/Design dos componentes.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Arquitetura.md",
