@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -304,11 +304,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c33b7f66a73ec183",
+  "active": "084dd87afb689ee4",
   "lastOpenFiles": [
+    "ARVORE/Design.md",
     "DOCUMENTOS/Planejamento do componente de Equipamentos Testados.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "ARVORE/Design.md",
     "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
     "ANEXOS/Pasted image 20260629114341.png",
