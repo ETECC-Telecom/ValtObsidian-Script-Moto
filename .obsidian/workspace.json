@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -304,13 +304,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f900f059c1222d4b",
+  "active": "c33b7f66a73ec183",
   "lastOpenFiles": [
     "DOCUMENTOS/Planejamento do componente de Equipamentos Testados.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Design.md",
     "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ANEXOS/Pasted image 20260629114341.png",
     "DOCUMENTOS/Componentes de Teste de Ping, Tracert e Velocidade Adicional.md",
     "DOCUMENTOS/Design dos componentes.md",
