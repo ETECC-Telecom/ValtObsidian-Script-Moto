@@ -31,9 +31,9 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -2098.3657309798127,
-                  "y": -570.4666052132217,
-                  "zoom": -1
+                  "x": -2732.3191565048273,
+                  "y": -765.7253391708407,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -97,21 +97,21 @@
             }
           },
           {
-            "id": "2bf9eeca6d7dfabf",
+            "id": "c73d3dc54ea9c905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Design dos componentes.md",
+                "file": "DOCUMENTOS/Planejamento do componente de Equipamentos Testados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design dos componentes"
+              "title": "Planejamento do componente de Equipamentos Testados"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,16 +304,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "084dd87afb689ee4",
+  "active": "f900f059c1222d4b",
   "lastOpenFiles": [
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "DOCUMENTOS/Design dos componentes.md",
-    "DOCUMENTOS/Componentes de Teste de Ping, Tracert e Velocidade Adicional.md",
-    "DOCUMENTOS/Sem título 2.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "DOCUMENTOS/Planejamento do componente de Equipamentos Testados.md",
+    "ANEXOS/Pasted image 20260629114341.png",
+    "ARVORE/Design.md",
+    "DOCUMENTOS/Componentes de Teste de Ping, Tracert e Velocidade Adicional.md",
+    "DOCUMENTOS/Design dos componentes.md",
+    "DOCUMENTOS/Sem título 2.md",
     "ARVORE/Arquitetura.md",
     "ARVORE/Planejamento.md",
-    "ARVORE/Design.md",
     "DOCUMENTOS/Sem título 1.md",
     "DOCUMENTOS/Componente de Mapa de Calor.excalidraw.md",
     "DOCUMENTOS/Componente de Navegação.excalidraw.md",
@@ -333,7 +335,6 @@
     "ARVORE/Testes.md",
     "DOCUMENTOS/Planejamento do Histórico Local.md",
     "ANEXOS/Pasted image 20260601163633.png",
-    "DOCUMENTOS/Planejamento do Formulário de Script (Base).md",
     "ANEXOS/Pasted image 20260601161147.png",
     "ANEXOS/Pasted image 20260601161135.png",
     "ANEXOS/Pasted image 20260601160701.png",
@@ -342,7 +343,6 @@
     "ANEXOS/Pasted image 20260530173121.png",
     "ANEXOS/Pasted image 20260530173102.png",
     "ANEXOS/Pasted image 20260530172802.png",
-    "ANEXOS/Pasted image 20260530171530.png",
     "ARVORE/Imagens de Referencia.canvas",
     "Excalidraw",
     "Design/Wireframes",

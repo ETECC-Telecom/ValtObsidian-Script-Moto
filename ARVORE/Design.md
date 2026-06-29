@@ -36,6 +36,7 @@ Thumb: Pasted image 20260507141552.png
 - [[Planejamento da Página Seletor de Fluxo]]
 - [[Planejamento do Formulário de Script (Base)]]
 - [[Planejamento do Histórico Local]]
+- [[Planejamento do componente de Equipamentos Testados]]
 ## Arquitetura da Informação
 
 - [[Design/Sitemap]]

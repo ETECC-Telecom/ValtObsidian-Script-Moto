@@ -17,6 +17,7 @@ Descrição:
 - [[Componente de Navegação.excalidraw]]
 - [[Componente de Mapa de Calor.excalidraw]]
 - [[Componentes de Teste de Ping, Tracert e Velocidade Adicional]]
+- 
 
 
 
