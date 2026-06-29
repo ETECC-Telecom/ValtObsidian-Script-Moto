@@ -30,6 +30,11 @@ Thumb: Pasted image 20260507141552.png
 - `#B81202`
 - `#F7ECAC`
 - `#FEFCF4`
+
+**Opções para Load da IA**
+
+https://uiverse.io/andrew-manzyk/young-walrus-64
+https://uiverse.io/xXJollyHAKERXx/lucky-falcon-75
 ## Visão Geral do Design
 
 - [[Planejamento da Home]]
