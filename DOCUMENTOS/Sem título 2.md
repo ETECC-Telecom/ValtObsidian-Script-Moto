@@ -12,6 +12,7 @@
 
 **Necessário Encaminhar Equipe Externa**: Não
 ## Endereço:
+
  **Coordenada de Fechamento:** https://www.google.com/maps?q=-24.179749685133554,-46.78258804968973
 **Precissão**: 72 Metros
 **Foto da Frente Anexada:** Não
