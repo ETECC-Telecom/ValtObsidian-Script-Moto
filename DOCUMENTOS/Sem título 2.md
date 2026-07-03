@@ -24,7 +24,6 @@
 **Necessário Encaminhar Equipe Externa**: Sim
 > Cliente solicita o remanejamento da sua fibra para o quarto!
 ## Endereço:
-
  **Coordenada de Fechamento:** https://www.google.com/maps?q=-24.179753436667568,-46.782648243598786
 **Precissão**: 76 Metros
 **Foto da Frente Anexada:** Sim
@@ -98,23 +97,53 @@ Motivo da Troca: Efeito Placebo;
 
 **Equipamentos:**
 
-> Não foram anexados ativos do local ou troca!
+- RETIRADO: ONT ( 111154fdfsdfsdfsd );
+- INSERIDO: ONT ( 5732453783 );
 ### Conferência Técnica nos Ativos
 
-#### Ativo Primeiro Ponto (Empresa):
-- Localização: Sala;
-- Tempo Atividade: Anormal (50 dias )/Normal;
-- Ativos Conectados: Anormal ( 150 Ativos )/Normal;
-- Firmware Atualizado: Sim;
-- Protocolo IPv6 em Slaac: Sim;
-- Largura de Banda da rede 2.4: 20MHz;
-- DNS configurado: ETECC;
-- UPnP Habilitado: Sim;
-- Equipamento em local Adequado: Não;
-- Cliente está ciente que ativo não está em um local adequado: Sim;
+#### Ativo Primeiro Ponto (Cliente)
+Localização: Sala
+Tempo Atividade: Normal
+Ativos Conectados: Normal
+Firmware Atualizado: Sim
+Protocolo IPv6 em Slaac: Sim
+Largura de Banda da rede 2.4: Não
+DNS configurado: Google
+UPnP Habilitado: Sim
+Equipamento em local Adequado: Sim
+#### Ativo Segundo Ponto (Cliente)
+Localização: quarto
+Tempo Atividade: Normal
+Ativos Conectados: Normal
+Firmware Atualizado: Sim
+Protocolo IPv6 em Slaac: Sim
+Largura de Banda da rede 2.4: Não
+DNS configurado: Google
+UPnP Habilitado: Sim
+Equipamento em local Adequado: Sim
+#### Ativo Segundo Ponto (Cliente)
+Localização: Área da Piscina
+Tempo Atividade: Anormal ( 500 Dias )
+Ativos Conectados: Normal
+Firmware Atualizado: Sim
+Protocolo IPv6 em Slaac: Sim
+Largura de Banda da rede 2.4: Não
+DNS configurado: Google
+UPnP Habilitado: Sim
+Equipamento em local Adequado: Não
+Cliente está ciente que ativo não está em um local adequado: Sim
 
-**Motivo do Local Inadequado**: Ativo localizado dentro do lixo! 
-
+**Motivo do Local Inadequado**: Local está em area aberta. Cliente ciente da necessidade de troca e problemas atrelados a localização do ativo.
+#### Ativo Segundo Ponto (Cliente)
+Localização: quarto do filho
+Tempo Atividade: Anormal ( 150 Dias )
+Ativos Conectados: Anormal ( 40 Ativos )
+Firmware Atualizado: Sim
+Protocolo IPv6 em Slaac: Sim
+Largura de Banda da rede 2.4: Não
+DNS configurado: Claudeflare
+UPnP Habilitado: Sim
+Equipamento em local Adequado: Sim
 ## Relatório da Visita
 
 ### Relato do Cliente no Local:
