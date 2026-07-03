@@ -24,6 +24,7 @@
 **Necessário Encaminhar Equipe Externa**: Sim
 > Cliente solicita o remanejamento da sua fibra para o quarto!
 ## Endereço:
+
  **Coordenada de Fechamento:** https://www.google.com/maps?q=-24.179753436667568,-46.782648243598786
 **Precissão**: 76 Metros
 **Foto da Frente Anexada:** Sim
@@ -88,6 +89,31 @@ Teste de Velocidade: Ativo cliente (tvbox)
 - Conexão: wifi;
 - Velocidade: UP (5) — DOWN (10) — Ping (40) — Jitter (0);
 
+### Histórico de Equipamentos e Troca
+
+Houve Troca de Equipamento: Sim
+Código de Conexão: 584555;
+PPPoE do Cliente: testebatata;
+Motivo da Troca: Efeito Placebo;
+
+**Equipamentos:**
+
+> Não foram anexados ativos do local ou troca!
+### Conferência Técnica nos Ativos
+
+#### Ativo Primeiro Ponto (Empresa):
+- Localização: Sala;
+- Tempo Atividade: Anormal (50 dias )/Normal;
+- Ativos Conectados: Anormal ( 150 Ativos )/Normal;
+- Firmware Atualizado: Sim;
+- Protocolo IPv6 em Slaac: Sim;
+- Largura de Banda da rede 2.4: 20MHz;
+- DNS configurado: ETECC;
+- UPnP Habilitado: Sim;
+- Equipamento em local Adequado: Não;
+- Cliente está ciente que ativo não está em um local adequado: Sim;
+
+**Motivo do Local Inadequado**: Ativo localizado dentro do lixo! 
 
 ## Relatório da Visita
 
