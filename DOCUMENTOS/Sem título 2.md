@@ -24,7 +24,6 @@
 **Necessário Encaminhar Equipe Externa**: Sim
 > Cliente solicita o remanejamento da sua fibra para o quarto!
 ## Endereço:
-
  **Coordenada de Fechamento:** https://www.google.com/maps?q=-24.179753436667568,-46.782648243598786
 **Precissão**: 76 Metros
 **Foto da Frente Anexada:** Sim
@@ -57,11 +56,38 @@ Realizado mapa de calor no Local: Sim;
 Foi identificado pontos de Sombra: Sim;
 ### Ping
 
-Ping Google (IPv4):
+Ping google (ipv4) — Ativo empresa
+- Pacotes: Enviados (200) — Recebidos (200) — Perdidos (0);
+- Latência: Mínima (5) — Média (10) — Máxima (45);
+
+Ping google (ipv6) — Ativo cliente
+- Pacotes: Enviados (200) — Recebidos (200) — Perdidos (0);
+- Latência: Mínima (1) — Média (5) — Máxima (10);
+
+Ping AWS (ipv6) — Ativo empresa
+- Pacotes: Enviados (200) — Recebidos (200) — Perdidos (0);
+- Latência: Mínima (10) — Média (24) — Máxima (150);
 
 ### Tracert
 
+- Tracert google (ipv4) - Ativo empresa;
 ### Velocidade
+
+Teste de Velocidade: Ativo empresa (celular)
+- Provedor: SpeedTest;
+- Conexão: wifi;
+- Velocidade: UP (254) — DOWN (578) — Ping (5) — Jitter (0);
+
+Teste de Velocidade: Ativo empresa (celular)
+- Provedor: SpeedTest;
+- Conexão: wifi;
+- Velocidade: UP (211) — DOWN (544) — Ping (10) — Jitter (0);
+
+Teste de Velocidade: Ativo cliente (tvbox)
+- Provedor: SpeedTest;
+- Conexão: wifi;
+- Velocidade: UP (5) — DOWN (10) — Ping (40) — Jitter (0);
+
 
 ## Relatório da Visita
 
@@ -82,6 +108,15 @@ Foi necessário estar trocando a fonte da ONU que estava com a amperagem incorre
 Foi realizado mapa de calor no local e observado um ponto de sombra nos fundos da casa de -85dbm.
 
 Será necessário um ponto adicional nos fundos da casa. Entretando entra como inviabilidade devido ao local ser em área aberta. Orientei ao cliente para estar realizando a estrutura por conta própria!
+
+**Relatório do Ping:**
+Relatório adicional de Ping. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolorem dolor sint nemo sed odit aute et sed officia. Quos nesciunt ullamco fugit similique sequi magna. In velit sequi cillum modi quasi inventore in corrupti consequuntur ipsam.
+
+**Relatório do Tracert:**
+Relatório adicional de Tracert. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolorem dolor sint nemo sed odit aute et sed officia. Quos nesciunt ullamco fugit similique sequi magna. In velit sequi cillum modi quasi inventore in corrupti consequuntur ipsam.
+
+**Relatório da Velocidade:**
+Relatório adicional de Velocidade. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolorem dolor sint nemo sed odit aute et sed officia. Quos nesciunt ullamco fugit similique sequi magna. In velit sequi cillum modi quasi inventore in corrupti consequuntur ipsam.
 ### Educação do Cliente:
 
 **Informações passadas ao cliente**:
