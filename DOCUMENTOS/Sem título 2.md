@@ -24,6 +24,7 @@
 **Necessário Encaminhar Equipe Externa**: Sim
 > Cliente solicita o remanejamento da sua fibra para o quarto!
 ## Endereço:
+
  **Coordenada de Fechamento:** https://www.google.com/maps?q=-24.179753436667568,-46.782648243598786
 **Precissão**: 76 Metros
 **Foto da Frente Anexada:** Sim
@@ -38,8 +39,30 @@ Não realizado a limpeza dos conectores, foto não anexada!
 - Sinal AutoISP: -21 dBm;
 ### Fontes
 Verificado mau contato na fonte: Sim;
-Validado amperagens corretas das fontes: Sim;
+Validado amperagens corretas das fontes: Não;
 Verificado algum sinal de mau uso: Sim;
+### Ativos do Local
+Ativo da Empresa
+- celular — Não foram anexado informações adicionais!;
+
+Ativo da Empresa
+- computador — Não foram anexado informações adicionais!;
+
+Ativo do Cliente
+- celular — Não foram anexado informações adicionais!;
+
+### Site Survey (Mapa de Calor)
+
+Realizado mapa de calor no Local: Sim;
+Foi identificado pontos de Sombra: Sim;
+### Ping
+
+Ping Google (IPv4):
+
+### Tracert
+
+### Velocidade
+
 ## Relatório da Visita
 
 ### Relato do Cliente no Local:
@@ -53,7 +76,12 @@ Relatório simplificado final Lorem ipsum dolor sit amet, consectetur adipiscing
 Foi necessário estar refazendo o conector interno devido a um sinal alto de -35 dBm,
 
 **Relatório das Fontes:**
-pipipi popopo!
+Foi necessário estar trocando a fonte da ONU que estava com a amperagem incorreta!
+
+**Relatório do Site Survey (Mapa de Calor)**:
+Foi realizado mapa de calor no local e observado um ponto de sombra nos fundos da casa de -85dbm.
+
+Será necessário um ponto adicional nos fundos da casa. Entretando entra como inviabilidade devido ao local ser em área aberta. Orientei ao cliente para estar realizando a estrutura por conta própria!
 ### Educação do Cliente:
 
 **Informações passadas ao cliente**:
