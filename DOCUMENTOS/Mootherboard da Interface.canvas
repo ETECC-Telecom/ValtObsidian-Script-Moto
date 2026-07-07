@@ -14,8 +14,8 @@
 		{"id":"a1a69ba46d44057c","type":"file","file":"ANEXOS/Pasted image 20260601160701.png","x":-2040,"y":-80,"width":190,"height":218},
 		{"id":"9740b61feb75f4b7","type":"file","file":"ANEXOS/Pasted image 20260601161135.png","x":-2560,"y":-80,"width":399,"height":218},
 		{"id":"62e040730793cd30","type":"file","file":"ANEXOS/Pasted image 20260601161147.png","x":-2560,"y":-371,"width":399,"height":218},
-		{"id":"443055f5067914d0","x":-2960,"y":-880,"width":400,"height":218,"type":"file","file":"ANEXOS/Pasted image 20260629114341.png"},
-		{"id":"18b7851d0667eabb","x":-2440,"y":-880,"width":400,"height":400,"type":"file","file":"DOCUMENTOS/Planejamento do componente de Equipamentos Testados.md"}
+		{"id":"443055f5067914d0","type":"file","file":"ANEXOS/Pasted image 20260629114341.png","x":-2960,"y":-880,"width":399,"height":218},
+		{"id":"18b7851d0667eabb","type":"file","file":"DOCUMENTOS/Planejamento do componente de Equipamentos Testados.md","x":-2440,"y":-880,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},
