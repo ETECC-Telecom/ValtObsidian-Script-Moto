@@ -44,6 +44,9 @@ Thumb: Pasted image 20260507141628.png
 - [[Dump da Estrutura de Dados de OS - Retenção de Clientes]]
 - [[Dump da Estrutura de Dados de OS - Retirada de Equipamentos]]
 
+**Estruturas de Dados** 
+
+- [[Estrutura dos Modelos de Script]]
 #### [[Data de Informações passadas ao cliente]]
 #### [[Data de Informações passadas ao cliente - Atendimento ao Cliente]]
 ###  Links Externos

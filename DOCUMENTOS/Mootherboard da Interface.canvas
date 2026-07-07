@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"8a7e5d38c7ff9962","type":"file","file":"ANEXOS/Pasted image 20260530173121.png","x":680,"y":-460,"width":200,"height":399},
 		{"id":"59ba334a8712da4d","type":"file","file":"DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md","x":-1040,"y":-120,"width":400,"height":400},
-		{"id":"a894f0fb4e4e31b2","type":"text","text":"Primeiro Acesso\nAo abrir o app pela primeira vez, o sistema solicita o nome do técnico para preenchimento automático das mensagens ao cliente.\n\nSimples, direto e sem burocracia","x":-1175,"y":-1120,"width":365,"height":180},
 		{"id":"ef4f7951eac3cff2","type":"file","file":"ANEXOS/Pasted image 20260530172802.png","x":-1760,"y":-1280,"width":380,"height":400},
 		{"id":"5af782290c3fa51f","type":"file","file":"ANEXOS/Pasted image 20260601155000.png","x":-520,"y":62,"width":399,"height":218},
 		{"id":"07200a93eb700cba","type":"file","file":"DOCUMENTOS/Planejamento do Formulário de Script (Base).md","x":-1640,"y":-571,"width":400,"height":400},
@@ -15,7 +14,11 @@
 		{"id":"9740b61feb75f4b7","type":"file","file":"ANEXOS/Pasted image 20260601161135.png","x":-2560,"y":-80,"width":399,"height":218},
 		{"id":"62e040730793cd30","type":"file","file":"ANEXOS/Pasted image 20260601161147.png","x":-2560,"y":-371,"width":399,"height":218},
 		{"id":"443055f5067914d0","type":"file","file":"ANEXOS/Pasted image 20260629114341.png","x":-2960,"y":-880,"width":399,"height":218},
-		{"id":"18b7851d0667eabb","type":"file","file":"DOCUMENTOS/Planejamento do componente de Equipamentos Testados.md","x":-2440,"y":-880,"width":400,"height":400}
+		{"id":"18b7851d0667eabb","type":"file","file":"DOCUMENTOS/Planejamento do componente de Equipamentos Testados.md","x":-2440,"y":-880,"width":400,"height":400},
+		{"id":"a894f0fb4e4e31b2","type":"text","text":"Primeiro Acesso\nAo abrir o app pela primeira vez, o sistema solicita o nome do técnico para preenchimento automático das mensagens ao cliente.\n\nSimples, direto e sem burocracia","x":-1280,"y":-1170,"width":365,"height":180},
+		{"id":"75779218e8b47fe3","type":"file","file":"DOCUMENTOS/Planejamento Interface Script Modelo.md","x":-1040,"y":-1738,"width":400,"height":400},
+		{"id":"20b5f83473f2fb08","x":-1580,"y":-1847,"width":400,"height":218,"type":"file","file":"ANEXOS/Pasted image 20260707160252.png"},
+		{"id":"464a8fdde60246ff","x":-1580,"y":-2100,"width":400,"height":218,"type":"file","file":"ANEXOS/Pasted image 20260707160514.png"}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},
@@ -30,6 +33,9 @@
 		{"id":"cfc961dd6515b9dc","fromNode":"fa18d6f0403ea732","fromSide":"top","toNode":"13d278f23a1e8803","toSide":"left"},
 		{"id":"34b6e4852e055f37","fromNode":"13d278f23a1e8803","fromSide":"right","toNode":"26c72beb0a75aef6","toSide":"left"},
 		{"id":"4bfd5ec18f0f6240","fromNode":"07200a93eb700cba","fromSide":"left","toNode":"18b7851d0667eabb","toSide":"right"},
-		{"id":"b4271ed715ac97d7","fromNode":"18b7851d0667eabb","fromSide":"left","toNode":"443055f5067914d0","toSide":"right"}
+		{"id":"b4271ed715ac97d7","fromNode":"18b7851d0667eabb","fromSide":"left","toNode":"443055f5067914d0","toSide":"right"},
+		{"id":"ad200b6df97dd6a6","fromNode":"fa18d6f0403ea732","fromSide":"top","toNode":"75779218e8b47fe3","toSide":"bottom"},
+		{"id":"e7569827e95627d1","fromNode":"75779218e8b47fe3","fromSide":"left","toNode":"20b5f83473f2fb08","toSide":"right"},
+		{"id":"39ba28c29c0afc67","fromNode":"75779218e8b47fe3","fromSide":"left","toNode":"464a8fdde60246ff","toSide":"right"}
 	]
 }

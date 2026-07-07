@@ -42,6 +42,7 @@ https://uiverse.io/xXJollyHAKERXx/lucky-falcon-75
 - [[Planejamento do Formulário de Script (Base)]]
 - [[Planejamento do Histórico Local]]
 - [[Planejamento do componente de Equipamentos Testados]]
+- [[Planejamento Interface Script Modelo]]
 ## Arquitetura da Informação
 
 - [[Design/Sitemap]]
