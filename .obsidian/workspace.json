@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -304,13 +304,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30af165133620d1c",
+  "active": "83d4cd76a7db51f9",
   "lastOpenFiles": [
+    "ARVORE/Anexos.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
     "DOCUMENTOS/Planejamento Interface Script Modelo.md",
     "DOCUMENTOS/Estrutura dos Modelos de Script.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "ARVORE/Anexos.md",
     "ARVORE/Design.md",
     "ARVORE/Desenvolvimento.md",
     "HOME.md",
