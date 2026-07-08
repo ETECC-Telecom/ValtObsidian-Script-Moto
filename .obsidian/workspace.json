@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -315,8 +315,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "923e0a6530319954",
+  "active": "084dd87afb689ee4",
   "lastOpenFiles": [
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
     "ARVORE/Anexos.md",
     "HOME.md",
     "DOCUMENTOS/Planejamento Interface Script Modelo.md",
