@@ -11,6 +11,7 @@ Pai: "[[Desenvolvimento]]"
 ## Descrição
 
 Estrutura padrão para um componente LIT
+Você precisa preencher os campos de Titulo e Script
 ### Código
 
 ```js
