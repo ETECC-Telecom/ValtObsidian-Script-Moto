@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -315,13 +315,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "084dd87afb689ee4",
+  "active": "923e0a6530319954",
   "lastOpenFiles": [
+    "DOCUMENTOS/Sem título 2.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Anexos.md",
     "HOME.md",
     "DOCUMENTOS/Planejamento Interface Script Modelo.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
     "DOCUMENTOS/Estrutura dos Modelos de Script.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Design.md",
@@ -346,7 +347,6 @@
     "DOCUMENTOS/Design dos componentes.md",
     "DOCUMENTOS/Sem título 1.md",
     "DOCUMENTOS/Componente de Mapa de Calor.excalidraw.md",
-    "DOCUMENTOS/Componente de Navegação.excalidraw.md",
     "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
     "ANEXOS/Pasted image 20260601163633.png",
     "ANEXOS/Pasted image 20260601161147.png",
