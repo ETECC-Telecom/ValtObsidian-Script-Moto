@@ -45,9 +45,9 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": 183.76782171540293,
-                  "y": -1020.0550961471449,
-                  "zoom": -0.19890406841407854
+                  "x": 203.73741455490364,
+                  "y": -900.0268150733251,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -69,20 +69,6 @@
             }
           },
           {
-            "id": "aba0f894e359b595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVORE/Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design"
-            }
-          },
-          {
             "id": "905ca23e23f262ea",
             "type": "leaf",
             "state": {
@@ -97,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -290,11 +276,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf69bf9156a09d0c",
+  "active": "cc14ea03ccc1ac4b",
   "lastOpenFiles": [
+    "ANEXOS/Pasted image 20260721150626.png",
     "DOCUMENTOS/Design dos componentes.md",
-    "ARVORE/Design.md",
     "DOCUMENTOS/Planejamento do Histórico Local.md",
+    "ARVORE/Design.md",
     "HOME.md",
     "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",

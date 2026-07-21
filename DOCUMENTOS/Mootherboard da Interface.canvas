@@ -18,7 +18,8 @@
 		{"id":"a894f0fb4e4e31b2","type":"text","text":"Primeiro Acesso\nAo abrir o app pela primeira vez, o sistema solicita o nome do técnico para preenchimento automático das mensagens ao cliente.\n\nSimples, direto e sem burocracia","x":-1280,"y":-1170,"width":365,"height":180},
 		{"id":"75779218e8b47fe3","type":"file","file":"DOCUMENTOS/Planejamento Interface Script Modelo.md","x":-1040,"y":-1738,"width":400,"height":400},
 		{"id":"20b5f83473f2fb08","type":"file","file":"ANEXOS/Pasted image 20260707160252.png","x":-1580,"y":-1847,"width":399,"height":218},
-		{"id":"464a8fdde60246ff","type":"file","file":"ANEXOS/Pasted image 20260707160514.png","x":-1580,"y":-2100,"width":399,"height":218}
+		{"id":"464a8fdde60246ff","type":"file","file":"ANEXOS/Pasted image 20260707160514.png","x":-1580,"y":-2100,"width":399,"height":218},
+		{"id":"6a804c8e32dd5362","x":-21,"y":-1020,"width":476,"height":260,"type":"file","file":"ANEXOS/Pasted image 20260721150626.png"}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},
@@ -36,6 +37,7 @@
 		{"id":"b4271ed715ac97d7","fromNode":"18b7851d0667eabb","fromSide":"left","toNode":"443055f5067914d0","toSide":"right"},
 		{"id":"ad200b6df97dd6a6","fromNode":"fa18d6f0403ea732","fromSide":"top","toNode":"75779218e8b47fe3","toSide":"bottom"},
 		{"id":"e7569827e95627d1","fromNode":"75779218e8b47fe3","fromSide":"left","toNode":"20b5f83473f2fb08","toSide":"right"},
-		{"id":"39ba28c29c0afc67","fromNode":"75779218e8b47fe3","fromSide":"left","toNode":"464a8fdde60246ff","toSide":"right"}
+		{"id":"39ba28c29c0afc67","fromNode":"75779218e8b47fe3","fromSide":"left","toNode":"464a8fdde60246ff","toSide":"right"},
+		{"id":"f82f9a7ac07b1efc","fromNode":"13d278f23a1e8803","fromSide":"right","toNode":"6a804c8e32dd5362","toSide":"left"}
 	]
 }
