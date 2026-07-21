@@ -17,8 +17,8 @@
 		{"id":"18b7851d0667eabb","type":"file","file":"DOCUMENTOS/Planejamento do componente de Equipamentos Testados.md","x":-2440,"y":-880,"width":400,"height":400},
 		{"id":"a894f0fb4e4e31b2","type":"text","text":"Primeiro Acesso\nAo abrir o app pela primeira vez, o sistema solicita o nome do técnico para preenchimento automático das mensagens ao cliente.\n\nSimples, direto e sem burocracia","x":-1280,"y":-1170,"width":365,"height":180},
 		{"id":"75779218e8b47fe3","type":"file","file":"DOCUMENTOS/Planejamento Interface Script Modelo.md","x":-1040,"y":-1738,"width":400,"height":400},
-		{"id":"20b5f83473f2fb08","x":-1580,"y":-1847,"width":400,"height":218,"type":"file","file":"ANEXOS/Pasted image 20260707160252.png"},
-		{"id":"464a8fdde60246ff","x":-1580,"y":-2100,"width":400,"height":218,"type":"file","file":"ANEXOS/Pasted image 20260707160514.png"}
+		{"id":"20b5f83473f2fb08","type":"file","file":"ANEXOS/Pasted image 20260707160252.png","x":-1580,"y":-1847,"width":399,"height":218},
+		{"id":"464a8fdde60246ff","type":"file","file":"ANEXOS/Pasted image 20260707160514.png","x":-1580,"y":-2100,"width":399,"height":218}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},

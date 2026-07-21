@@ -10,43 +10,81 @@ Descrição:
 ```table-of-contents
 ```
 ---
-Para o técnico que está na rua, o histórico local (IndexedDB) não é só um arquivo morto; é a memória de curto prazo dele. Se a empresa cobrar um número de série ou ele precisar provar que fez um teste, é aqui que ele vai buscar.
+## 1. Diagnóstico
 
-Vamos quebrar esse brainstorming nos três pilares que você pediu:
-### 1. O Mini-Dashboard (O topo da tela)
+A gestão de Ordens de Serviço (OS) finalizadas é um fluxo crítico em sistemas operacionais e de campo. Ao migrar os dados de troca de equipamento para uma estrutura separada no IndexedDB e centralizar a listagem, surgem alguns pontos de atenção em UX/UI:
 
-Em vez de gráficos complexos com linhas milimétricas (que são horríveis de ler na tela do celular sob o sol), o gráfico de evolução mensal precisa ser extremamente visual.
+* **Densidade de Informação vs. Ações Críticas:** Juntar visualização, edição e **exclusão definitiva** na mesma linha da tabela aumenta o risco de acionamento acidental do botão de exclusão, afetando diretamente a segurança dos dados persistidos localmente.
+* **Sobrecarga Cognitiva na Busca:** A necessidade de filtrar simultaneamente por texto (Nome do Cliente), categoria (Tipo de OS) e ordem cronológica (Data) exige um componente de cabeçalho bem estruturado para não poluir a interface nem confundir a pessoa usuária.
+* **Visibilidade de Dados Vinculados:** Com as trocas de equipamentos separadas no IndexedDB, o usuário pode perder o contexto imediato de que aquela OS possui dados adicionais indexados, a menos que haja um sinalizador visual sutil ou um indicador de status.
+## 2. Melhor solução recomendada
 
-* **O Gráfico (Barras Simplificadas):** Em vez de um gráfico de linhas tradicional, podemos usar um gráfico de **barras verticais grossas** para os últimos 6 meses. O mês atual fica com uma cor de destaque (ex: o azul `#38BDF8`). Ao tocar na barra, um balãozinho flutuante (Tooltip) mostra o número exato (ex: *"Mai: 87 OS"*).
-* **Os Cards de Resumo rápidos:** Ao lado ou abaixo do gráfico, duas métricas que massageiam o ego do técnico (gamificação):
-* **"Este Mês":** O total acumulado do mês atual.
-* **"Recorde Pessoal":** O melhor mês dele até hoje (para ele se desafiar).
-### 2. O Hub de Filtros (A "Gaveta" Inteligente)
+A solução ideal para este cenário é um **Card List Responsivo (com fallback para Data Grid em telas ultra-wide)** acompanhado de uma **Barra de Filtro Fixa / Sticky**.
 
-Técnico odeia perder tempo digitando. O segredo aqui é usar **Chips de Seleção Rápida** combinados com uma barra de busca.
+### Justificativa baseada em princípios de UX:
 
-* **Barra de Texto Única:** Um campo no topo que busca por **Nome do Cliente** ou **Número da OS** simultaneamente enquanto ele digita.
-* **Filtro por Categoria (Chips):** Fileira horizontal de botões arredondados com os nomes: `[Todos]` `[Completa]` `[Retenção]` `[Externa]` `[Retirada]`. Ele só toca e a lista abaixo se atualiza na hora.
-* **O Filtro de Ativos (O Pulo do Gato):** Um botão estilo interruptor (Toggle Switch) escrito: **"Apenas com troca de equipamentos"**. Se ele ativar, o app filtra o IndexedDB e traz apenas as OSs onde os arrays de `ativos_retirados` ou `ativos_inseridos` não estejam vazios.
-* **Filtro de Data:** Um seletor simples de período: `[Hoje]`, `[Últimos 7 dias]`, `[Este Mês]`.
-### 3. A Lista de OS (O Feed Dinâmico)
+* **Hierarquia Visual & Carga Cognitiva:** Agrupar o Nome do Cliente em destaque (`font-weight: bold`), o tipo de OS etiquetado via **Badge/Tag** com cores distintas e a data de forma discreta reduz o tempo de escaneabilidade da tela (Lei de Hick).
+* **Descoberta e Feedback Visual:** A inclusão de um **Modal de Confirmação destrutivo** antes de excluir a OS do IndexedDB evita erros irreversíveis. As ações (Ver, Editar, Excluir) ficam consolidadas em um menu de transbordamento (menu de três pontos) ou com botões de ação com hierarquias bem definidas (ícone + tooltip em telas maiores).
+* **Usabilidade e Acessibilidade:** Uso do padrão de busca com *debounce* (para evitar re-renders excessivos no IndexedDB) e etiquetas com alto contraste para identificação rápida dos tipos de OS (WCAG 2.1 AA).
+## 3. Alternativas
 
-Cada item da lista precisa ser um card compacto, mas rico em informação visual rápida.
+| Alternativa | Vantagens | Desvantagens | Quando utilizar |
+| --- | --- | --- | --- |
+| **1. Data Grid Tradicional (Tabela)** | Alta densidade de dados; fácil ordenação por colunas. | Dificuldade de adaptação para telas mobile; visual poluído se houver muitas ações. | Desktop corporativo com telas largas e foco em digitação rápida. |
+| **2. Cards em Grid (Masonry / Flex)** | Excelente para dispositivos móveis e touch; layout limpo e moderno. | Consome mais espaço vertical; exibe menos itens por tela em desktops. | Ambientes híbridos/mobile em que técnicos operam no campo. |
+| **3. Lista Expansível (Accordion List)** | Permite ver detalhes rápidos da OS (como resumo do IndexedDB) sem trocar de página. | Adiciona complexidade de interação e pode dificultar ações em massa. | Quando o usuário precisa verificar detalhes rápidos com frequência. |
+## 4. Sugestão de componentes
 
-* **A Iconografia de Identificação:** Na extrema esquerda do card, um círculo colorido com o ícone do tipo de OS:
-	* `🛠️` Azul para **Completa**.
-	* `🤝` Amarelo para **Retenção**.
-	* `📡` Vermelho para **Externa (LOS)**.
-	* `📦` Roxo para **Retirada**.
+* **Search Bar com Filtros Integrados:** Campo de texto simples com ícone de lupa e botão para limpar busca.
+* **Segmented Buttons / Select Dropdown:** Para filtrar os tipos (*Todas*, *Completa*, *Retenção*, *Externa (LOS)*, *Retirada*).
+* **Dropdown de Ordenação (Sort Menu):** Para alternar entre "Mais recentes", "Mais antigas".
+* **Badges / Chips:** Para categorizar visualmente o Tipo de OS com cores funcionais.
+* **IconButton + Menu / Action Group:** Para as ações "Ver" (olho), "Editar" (lápis) e "Excluir" (lixeira).
+* **Dialog / Modal de Confirmação:** Modal de alerta crítico para confirmação da exclusão no IndexedDB.
+* **Snackbar / Toast:** Para dar feedback imediato após salvar, editar ou excluir um registro.
+## 5. Sugestão visual
 
-* **O Corpo do Card:**
-	* Linha 1: **#Número da OS** — **Nome do Cliente** (Em negrito e fonte legível).
-	* Linha 2: Data e Hora (ex: *Ontem às 14:32*).
-	* Linha 3 (Pequena e discreta): Se houver troca de ativos, aparece uma tagzinha cinza escrito `[Contém Troca de Ativos: 2 itens]`.
+### Estrutura de Layout Recomendada
 
-* **A Ação Rápida:** Na extrema direita do card, um botão grande de **"Copiar Script"** (`📋`). O técnico não precisa nem abrir a OS; se ele só quer o texto para colar no MK ou no WhatsApp, ele clica ali e o app gera o texto final baseado no JSON e joga na área de transferência.
+```text
++-----------------------------------------------------------------------+
+| [🔍 Buscar cliente...     ] [Tipo: Todos ▾] [Ordenar: Recentes ▾]    |
++-----------------------------------------------------------------------+
+|                                                                       |
+|  João Silva                     [🏷️ Completa]       15/07/2026, 14:30 |
+|  Ações: [👁️ Ver] [✏️ Editar] [🗑️ Excluir]                            |
+| --------------------------------------------------------------------- |
+|  Maria Oliveira                 [🏷️ Externa (LOS)]  14/07/2026, 09:15 |
+|  Ações: [👁️ Ver] [✏️ Editar] [🗑️ Excluir]                            |
+|                                                                       |
++-----------------------------------------------------------------------+
 
+```
+## 6. Paleta e identidade visual
 
+Para garantir escaneabilidade sem sobrecarregar a vista, sugerimos cores contrastantes e semânticas para os tipos de OS e estados do sistema:
+### Cores de Status / Tipos de OS
 
+* **Completa:** Verde Suave (Ex: `#E6F4EA` fundo, `#137333` texto) — Indica conclusão bem-sucedida.
+* **Retenção:** Azul Neutro (Ex: `#E8F0FE` fundo, `#1A73E8` texto) — Indica processo comercial/administrativo.
+* **Externa (LOS):** Roxo / Âmbar (Ex: `#F3E8FF` fundo, `#6B21A8` texto) — Indica operação externa/técnica.
+* **Retirada:** Cinza Escuro / Larandja (Ex: `#FEF3C7` fundo, `#B45309` texto) — Indica recolhimento de equipamento.
+### Ações e Alertas
 
+* **Ação Destrutiva (Excluir):** Vermelho Amigável (`#DC2626`).
+* **Ações Secundárias (Ver/Editar):** Tons neutros de cinza/azul (`#4B5563`).
+* **Contraste mínimo:** Garantir pelo menos 4.5:1 entre texto e fundo das badges (conforme WCAG AA).
+## 7. Boas práticas
 
+* **Confirmação Obrigatória em Ações Destrutivas:** Nunca exclua dados do IndexedDB com apenas um clique direto. Utilize um Dialog de confirmação com a ação em destaque vermelho.
+* **Debounce no Campo de Busca:** Aplique um atraso de 300ms na digitação da busca para otimizar as consultas locais na memória do navegador.
+* **Estado Vazio (Empty State):** Exiba uma mensagem amigável e ilustrativa caso a busca/filtro não retorne resultados ou se o banco estiver sem registros finalizados.
+* **Feedback Imediato (Optimistic UI / Toasts):** Após remover um item, atualize a lista imediatamente e exiba um Toast/Snackbar informando que a OS foi removida.
+* **Acessibilidade via Teclado:** Garanta que todos os botões de ação e campos de busca sejam navegáveis usando a tecla `Tab` e executáveis via `Enter`/`Space`.
+## 8. Erros comuns
+
+* ❌ **Botão de exclusão sem proteção:** Deixar o botão de lixeira exposto e sem modal de confirmação, facilitando cliques acidentais.
+* ❌ **Falta de indicadores de carregamento:** Não mostrar um *skeleton screen* ou *spinner* enquanto os dados do IndexedDB estão sendo lidos.
+* ❌ **Filtros escondidos demais:** Ocultar o filtro de tipo de OS dentro de menus complexos quando ele é essencial para a rotina diária.
+* ❌ **Depender apenas da cor para diferenciar tipos de OS:** Não incluir texto explícito nas badges dos tipos, prejudicando usuários daltônicos.
+* ❌ **Perda de estado de filtro:** Não manter os filtros selecionados se o usuário clicar para editar a OS e depois voltar para a lista.

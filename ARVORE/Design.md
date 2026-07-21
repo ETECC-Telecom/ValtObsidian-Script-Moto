@@ -43,6 +43,7 @@ https://uiverse.io/xXJollyHAKERXx/lucky-falcon-75
 - [[Planejamento do Histórico Local]]
 - [[Planejamento do componente de Equipamentos Testados]]
 - [[Planejamento Interface Script Modelo]]
+
 ## Arquitetura da Informação
 
 - [[Design/Sitemap]]
@@ -53,6 +54,7 @@ https://uiverse.io/xXJollyHAKERXx/lucky-falcon-75
 ## Wireframes
 
 - [[Design dos componentes]]
+
 
 > 🔗 Links para arquivos do Excalidraw
 ## UI (Interface Visual)
