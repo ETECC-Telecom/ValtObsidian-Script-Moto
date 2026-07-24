@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -302,16 +302,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc145cac3d97a849",
+  "active": "905ca23e23f262ea",
   "lastOpenFiles": [
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "ANEXOS/Pasted image 20260721150626.png",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "DOCUMENTOS/Planejamento do Histórico Local.md",
     "DOCUMENTOS/Design dos componentes.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Desenvolvimento.md",
     "HOME.md",
     "ARVORE/Arquitetura.md",
-    "ANEXOS/Pasted image 20260721150626.png",
     "ARVORE/Design.md",
     "DOCUMENTOS/Componente de Navegação.excalidraw.md",
     "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
