@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,22 +318,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7b198335301cdb4",
+  "active": "01bded1631d4b5e4",
   "lastOpenFiles": [
-    "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Encaminhar Externa.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
+    "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Design dos componentes.md",
     "DOCUMENTOS/Planejamento do Histórico Local.md",
-    "ARVORE/Arquitetura.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retenção de Clientes.md",
     "HOME.md",
     "ARVORE/Planejamento.md",
     "ARVORE/Documentação Final.md",
     "ANEXOS/Pasted image 20260721150626.png",
     "ARVORE/Desenvolvimento.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Design.md",
     "DOCUMENTOS/Componente de Navegação.excalidraw.md",
     "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
@@ -350,7 +350,6 @@
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "DOCUMENTOS/Data de Informações passadas ao cliente.md",
     "DOCUMENTOS/Data de Informações passadas ao cliente - Atendimento ao Cliente.md",
-    "ARVORE/Testes.md",
     "ANEXOS/Pasted image 20260629114341.png",
     "ANEXOS/Pasted image 20260601163633.png",
     "ANEXOS/Pasted image 20260601161147.png",
