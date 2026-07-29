@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -318,12 +318,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01bded1631d4b5e4",
+  "active": "e7b198335301cdb4",
   "lastOpenFiles": [
+    "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Encaminhar Externa.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
     "DOCUMENTOS/Design dos componentes.md",
     "DOCUMENTOS/Planejamento do Histórico Local.md",
     "ARVORE/Arquitetura.md",
