@@ -81,8 +81,7 @@ p {
     text-align: left;
 }
 ```
-
-Com CSS Embutido:
+### Com CSS Embutido:
 
 ```js
 import { LitElement, html, css, unsafeCSS } from 'lit';
@@ -125,4 +124,47 @@ export class Home_Page extends LitElement {
 
 // 2. Em vez de @customElement, use o registro manual
 customElements.define('home-page', Home_Page);
+```
+
+### Componente de Icone
+
+```js
+import { LitElement, html, css } from 'lit';
+
+export class UserIcon extends LitElement {
+  static styles = css`
+    :host {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: var(--icon-size, 24px);
+      height: var(--icon-size, 24px);
+      color: var(--icon-color, currentColor);
+    }
+    svg {
+      width: 100%;
+      height: 100%;
+      fill: currentColor;
+    }
+  `;
+
+  render() {
+    return html`
+      <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
+      </svg>
+    `;
+  }
+}
+
+customElements.define('user-icon', UserIcon);
+```
+
+uso
+
+```js
+<user-icon></user-icon>
+
+<!-- Customizando tamanho e cor só nessa instância -->
+<user-icon style="--icon-size: 32px; --icon-color: #3b82f6;"></user-icon>
 ```
