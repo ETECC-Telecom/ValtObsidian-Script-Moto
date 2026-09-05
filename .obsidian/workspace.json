@@ -102,12 +102,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Sem título 2.md",
+                "file": "DOCUMENTOS/Modelo de Registro de Log em TryCatch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título 2"
+              "title": "Modelo de Registro de Log em TryCatch"
             }
           }
         ],
@@ -309,7 +309,7 @@
   "active": "42be1b821d937c9e",
   "lastOpenFiles": [
     "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Sem título 2.md",
+    "DOCUMENTOS/Modelo de Registro de Log em TryCatch.md",
     "ARVORE/Desenvolvimento.md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Encaminhar Externa.md",
