@@ -54,7 +54,7 @@ export class Home_Page extends LitElement {
 customElements.define('home-page', Home_Page);
 ```
 
-CSS:
+CSS: 
 
 ```css
 :host {

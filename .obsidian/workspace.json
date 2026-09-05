@@ -102,12 +102,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Modelo de Registro de Log em TryCatch.md",
+                "file": "DOCUMENTOS/Componente Padrão LIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo de Registro de Log em TryCatch"
+              "title": "Componente Padrão LIT"
             }
           }
         ],
@@ -308,9 +308,9 @@
   },
   "active": "42be1b821d937c9e",
   "lastOpenFiles": [
-    "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Modelo de Registro de Log em TryCatch.md",
     "ARVORE/Desenvolvimento.md",
+    "DOCUMENTOS/Modelo de Registro de Log em TryCatch.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Encaminhar Externa.md",
     "ARVORE/Arquitetura.md",
