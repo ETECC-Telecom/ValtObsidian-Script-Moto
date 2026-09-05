@@ -25,3 +25,15 @@ await registrarLog({
 }
 ```
 
+```js
+await registrarLog({
+    tipo: 'ERRO_EXECUCAO_LISTA',
+    mensagem: error?.message || String(error),
+    fonte: 'Nome do Arquivo.js',
+    linha: null,
+    coluna: null,
+    stack: error?.stack || null,
+    contexto: 'Oque está snedo feito na função'
+});
+```
+
