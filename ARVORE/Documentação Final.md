@@ -22,6 +22,8 @@ Thumb: Pasted image 20260507141621.png
 - 🔴 **Correções (Bug Fixes):** Problemas resolvidos.
 ### Histórico
 
+- **v0.0.3 - 05 Setembro, 2026**
+	- 🟡 Adicionado novo mecanismo de filtro na lista de OS realizadas por Categoria, Nome e Data. 
 - **v0.0.2 - 05 Setembro, 2026**
 	- 🟢 Adicionado novo sistema de LOG;
 	- 🟢 Adicionado página de sobre para verificar informações básicas do App;
