@@ -27,6 +27,7 @@ Thumb: Pasted image 20260507141621.png
 	- 🟢 Adicionado página de sobre para verificar informações básicas do App;
 	- 🟢 Adicionado página de configuração para cadastro de recursos do App;
 	- 🔴 Correção do bug na barra de rolagem nos modelos de Scripts;
+	- 🔴 Correção do bug no uso da IA
 - **v0.0.1 - 31 Julho, 2026**
 	- 🟢 Finalizado e lançado a primeira versão do aplicativo para testes em campo. 
 
