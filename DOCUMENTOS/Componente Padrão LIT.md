@@ -131,7 +131,7 @@ customElements.define('home-page', Home_Page);
 ```js
 import { LitElement, html, css } from 'lit';
 
-export class UserIcon extends LitElement {
+export class Icone_User extends LitElement {
   static styles = css`
     :host {
       display: inline-flex;
@@ -157,7 +157,7 @@ export class UserIcon extends LitElement {
   }
 }
 
-customElements.define('user-icon', UserIcon);
+customElements.define('icone-user', Icone_User);
 ```
 
 uso
