@@ -17,7 +17,8 @@ Descrição:
 - [[Componente de Navegação.excalidraw]]
 - [[Componente de Mapa de Calor.excalidraw]]
 - [[Componentes de Teste de Ping, Tracert e Velocidade Adicional]]
+### Sessão de Lista de Ativos de Troca
 
-
+- [[Card de Lista de Troca de Ativos.excalidraw]]
 
 
