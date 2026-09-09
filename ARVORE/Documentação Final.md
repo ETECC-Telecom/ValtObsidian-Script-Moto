@@ -22,7 +22,8 @@ Thumb: Pasted image 20260507141621.png
 - 🔴 **Correções (Bug Fixes):** Problemas resolvidos.
 ### Histórico
 
-- **v0.0.3 - 05 Setembro, 2026**
+- **v0.0.3 - 09 Setembro, 2026**
+	- 🟢 Adicionado pagina de Lista de Trocas para mostrar todos os ativos que foram trocados na casa dos clientes caso tenha sido marcado na OS como positivo. Além disso, sistema de filtro e busca funcionando corretamente;
 	- 🟡 Adicionado novo mecanismo de filtro na lista de OS realizadas por Categoria, Nome e Data. 
 	- 🟡 Adicionado lista de OS do mais recente para o mais antigo;
 

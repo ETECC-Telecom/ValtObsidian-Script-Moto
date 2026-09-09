@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -330,8 +330,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4155c905c893895",
+  "active": "dd826c162204e980",
   "lastOpenFiles": [
+    "ARVORE/Lista de Tarefas (Backlog).md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Desenvolvimento.md",
     "HOME.md",
     "DOCUMENTOS/Design dos componentes.md",
@@ -344,11 +346,9 @@
     "DOCUMENTOS/Sem título 2.md",
     "DOCUMENTOS/Planejamento Interface Script Modelo.md",
     "ARVORE/Documentação Final.md",
-    "ARVORE/Lista de Tarefas (Backlog).md",
     "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
     "ARVORE/Arquitetura.md",
     "ARVORE/Planejamento.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
     "DOCUMENTOS/Planejamento do Histórico Local.md",
     "DOCUMENTOS/Sem título 3.md",
     "ARVORE/Testes.md",
