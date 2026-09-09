@@ -137,9 +137,23 @@
               "icon": "lucide-file",
               "title": "Documentação Final"
             }
+          },
+          {
+            "id": "c0e8b952f5a493ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Sem título 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título 2"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -334,8 +348,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd826c162204e980",
+  "active": "c0e8b952f5a493ce",
   "lastOpenFiles": [
+    "ARVORE/Documentação Final.md",
+    "DOCUMENTOS/Sem título 2.md",
     "HOME.md",
     "ARVORE/Planejamento.md",
     "ARVORE/Testes.md",
@@ -350,7 +366,6 @@
     "DOCUMENTOS/Planejamento do Histórico Local.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
-    "ARVORE/Documentação Final.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Encaminhar Externa.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retenção de Clientes.md",
@@ -366,7 +381,6 @@
     "DOCUMENTOS/Função de Salvar a OS no banco de dados.md",
     "DOCUMENTOS/Mensagem para Encaminhar ao Cliente.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
-    "DOCUMENTOS/Data de Informações passadas ao cliente.md",
     "ANEXOS/Pasted image 20260629114341.png",
     "ANEXOS/Pasted image 20260601163633.png",
     "ANEXOS/Pasted image 20260601161147.png",
