@@ -24,104 +24,26 @@
             }
           },
           {
-            "id": "d6962bae90cc1112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVORE/Arquitetura.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitetura"
-            }
-          },
-          {
-            "id": "cc14ea03ccc1ac4b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
-                "viewState": {
-                  "x": 269.73741455490364,
-                  "y": -1190.4834076876523,
-                  "zoom": 0.3333333333333334
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mootherboard da Interface"
-            }
-          },
-          {
-            "id": "bf69bf9156a09d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Planejamento do Histórico Local.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planejamento do Histórico Local"
-            }
-          },
-          {
-            "id": "905ca23e23f262ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Design dos componentes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design dos componentes"
-            }
-          },
-          {
-            "id": "01bded1631d4b5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Componente Padrão LIT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Componente Padrão LIT"
-            }
-          },
-          {
-            "id": "42be1b821d937c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Componente Padrão LIT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Componente Padrão LIT"
-            }
-          },
-          {
             "id": "c3b2194744f63b34",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "ARVORE/Desenvolvimento.md",
-                "mode": "source",
-                "source": false
+                "file": "ARVORE/Lista de Tarefas (Backlog).md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Desenvolvimento"
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Lista de Tarefas (Backlog)"
             }
           },
           {
@@ -137,23 +59,8 @@
               "icon": "lucide-file",
               "title": "Documentação Final"
             }
-          },
-          {
-            "id": "c0e8b952f5a493ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Sem título 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título 2"
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -348,23 +255,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0e8b952f5a493ce",
+  "active": "c302c435b7b60418",
   "lastOpenFiles": [
     "ARVORE/Documentação Final.md",
-    "DOCUMENTOS/Sem título 2.md",
+    "ARVORE/Lista de Tarefas (Backlog).md",
     "HOME.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Design dos componentes.md",
+    "DOCUMENTOS/Planejamento do Histórico Local.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "DOCUMENTOS/Sem título 2.md",
+    "DOCUMENTOS/Sem título 3.md",
+    "ARVORE/Desenvolvimento.md",
     "ARVORE/Planejamento.md",
     "ARVORE/Testes.md",
     "MODELOS/Modelo Casos de Teste.md",
     "ARVORE/Deploy(Entrega).md",
     "ARVORE/Arquitetura.md",
     "ARVORE/Anexos.md",
-    "ARVORE/Desenvolvimento.md",
     "DOCUMENTOS/Modelo de Registro de Log em TryCatch.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Design dos componentes.md",
-    "DOCUMENTOS/Planejamento do Histórico Local.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Encaminhar Externa.md",
     "DOCUMENTOS/Dump da Estrutura de Dados de OS - Retirada de Equipamentos.md",
@@ -378,9 +287,6 @@
     "DOCUMENTOS/Estrutura dos Modelos de Script.md",
     "ANEXOS/Pasted image 20260707160514.png",
     "ANEXOS/Pasted image 20260707160252.png",
-    "DOCUMENTOS/Função de Salvar a OS no banco de dados.md",
-    "DOCUMENTOS/Mensagem para Encaminhar ao Cliente.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "ANEXOS/Pasted image 20260629114341.png",
     "ANEXOS/Pasted image 20260601163633.png",
     "ANEXOS/Pasted image 20260601161147.png",
