@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "c6551c5f40fc4d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARVORE/Planejamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento"
+            }
+          },
+          {
             "id": "c3b2194744f63b34",
             "type": "leaf",
             "pinned": true,
@@ -134,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -330,12 +344,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd826c162204e980",
+  "active": "a4155c905c893895",
   "lastOpenFiles": [
-    "ARVORE/Lista de Tarefas (Backlog).md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
-    "ARVORE/Desenvolvimento.md",
+    "ARVORE/Planejamento.md",
     "HOME.md",
+    "ARVORE/Lista de Tarefas (Backlog).md",
+    "ARVORE/Deploy(Entrega).md",
+    "ARVORE/Desenvolvimento.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "ARVORE/Documentação Final.md",
     "DOCUMENTOS/Design dos componentes.md",
     "DOCUMENTOS/Card de Lista de Troca de Ativos.excalidraw.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
@@ -345,15 +362,12 @@
     "DOCUMENTOS/Componentes de Teste de Ping, Tracert e Velocidade Adicional.md",
     "DOCUMENTOS/Sem título 2.md",
     "DOCUMENTOS/Planejamento Interface Script Modelo.md",
-    "ARVORE/Documentação Final.md",
     "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
     "ARVORE/Arquitetura.md",
-    "ARVORE/Planejamento.md",
     "DOCUMENTOS/Planejamento do Histórico Local.md",
     "DOCUMENTOS/Sem título 3.md",
     "ARVORE/Testes.md",
     "MODELOS/Modelo Casos de Teste.md",
-    "ARVORE/Deploy(Entrega).md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Modelo de Registro de Log em TryCatch.md",
     "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
