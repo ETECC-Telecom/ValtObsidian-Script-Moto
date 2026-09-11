@@ -23,6 +23,7 @@ Thumb: Pasted image 20260507141621.png
 ### Histórico
 - **v0.0.4 - 09 Setembro, 2026**
 	- 🟢 Adicionado contagem das Ordens de serviço realizadas no dia, semana e mês;
+	- 🟡 Reformulado mensagem de encerramento para conferência de cabos de rede no local;
 - **v0.0.3 - 09 Setembro, 2026**
 	- 🟢 Adicionado pagina de Lista de Trocas para mostrar todos os ativos que foram trocados na casa dos clientes caso tenha sido marcado na OS como positivo. Além disso, sistema de filtro e busca funcionando corretamente;
 	- 🟡 Adicionado novo mecanismo de filtro na lista de OS realizadas por Categoria, Nome e Data. 
