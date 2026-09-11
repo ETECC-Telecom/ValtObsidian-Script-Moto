@@ -25,6 +25,16 @@ AKfycbw-JcMic5_NV_eGNUT35YK_W8I73KgU6AkBH0C9kyvAkSbfguwWVyhYcKe3Iba8baXeWw
 ```js
 https://script.google.com/macros/s/AKfycbw-JcMic5_NV_eGNUT35YK_W8I73KgU6AkBH0C9kyvAkSbfguwWVyhYcKe3Iba8baXeWw/exec
 ```
+### Dados de Criptografia
+
+**Senha sem Hash**
+```js
+w5AVbLQeywzE8i1bsakmVZFGehvfiwCbrzNwcJYl3KY0wZD4XR
+```
+**Hash SHA256**
+```js
+0a3f5b11cb1a343e3184590ed685a389b51ae7fa16e08b96bdee7fd6bc4da1aa
+```
 ## ChangeLog
 
 ### Legendas
