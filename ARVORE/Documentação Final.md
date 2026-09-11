@@ -34,6 +34,7 @@ https://script.google.com/macros/s/AKfycbw-JcMic5_NV_eGNUT35YK_W8I73KgU6AkBH0C9k
 - 🔴 **Correções (Bug Fixes):** Problemas resolvidos.
 ### Histórico
 - **v0.0.4 - 09 Setembro, 2026**
+	- 🟢 Adicionado a Função de sincronismo de dados de Informações ausentes e Informações adicionais passadas ao cliente;
 	- 🟢 Adicionado contagem das Ordens de serviço realizadas no dia, semana e mês;
 	- 🟡 Reformulado mensagem de encerramento para conferência de cabos de rede no local;
 - **v0.0.3 - 09 Setembro, 2026**
