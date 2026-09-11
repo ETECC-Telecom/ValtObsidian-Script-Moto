@@ -13,6 +13,18 @@ Thumb: Pasted image 20260507141621.png
 ```
 ---
 
+## Dados
+
+### Dados da planilha de sincronismo
+
+**Código de implantação**
+```js
+AKfycbw-JcMic5_NV_eGNUT35YK_W8I73KgU6AkBH0C9kyvAkSbfguwWVyhYcKe3Iba8baXeWw
+```
+**App da Web**
+```js
+https://script.google.com/macros/s/AKfycbw-JcMic5_NV_eGNUT35YK_W8I73KgU6AkBH0C9kyvAkSbfguwWVyhYcKe3Iba8baXeWw/exec
+```
 ## ChangeLog
 
 ### Legendas
