@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] permitir criação de scripts personalizados (como nos demais campos)
 - [ ] Ajuste da mensagem de saudação encaminhada ao Whats de acordo com o horário;
+- [ ] Campo no Script de OS completa que solicita o motivo de uma possível demora no atendimento, seja por fatores externos ou internos, que será adicionado no final da OS para auxiliar a analise de ofensores.
 
 
 ## Fazendo
