@@ -47,6 +47,8 @@ w5AVbLQeywzE8i1bsakmVZFGehvfiwCbrzNwcJYl3KY0wZD4XR
 	- 🟢 Ajustado retorno do sinal de fibra, omitindo os mesmos no script final quando não é informado.
 	- 🟢 Novo formulário de cadastro e controle de calibragem do Power Mitter para registro automática na baixa da OS;
 	- 🟢 Adicionado nova regra para mensagem encaminhada ao Cliente, do qual, na aba educação do cliente, o técnico pode justificar o motivo de não enviar via Whatsapp.
+	- 🟢 Adicionado campo de relato de atraso para auxilio na auditoria de ofensores, com função de sincronismo implementado;
+	- 🟢 Adicionado função de reconhecimento automático de manha/tarde para encaminhar mensagem ao cliente;
 	- 🔴 Correção do bug de Script padrão, no qual precisava digitar algo adicional após inserir o script para validar. Agora essa validação é automática;
 - **v0.0.4 - 11 Setembro, 2026**
 	- 🟢 Adicionado a Função de sincronismo de dados de Informações ausentes e Informações adicionais passadas ao cliente;
