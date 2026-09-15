@@ -49,6 +49,7 @@ w5AVbLQeywzE8i1bsakmVZFGehvfiwCbrzNwcJYl3KY0wZD4XR
 	- 🟢 Adicionado nova regra para mensagem encaminhada ao Cliente, do qual, na aba educação do cliente, o técnico pode justificar o motivo de não enviar via Whatsapp.
 	- 🟢 Adicionado campo de relato de atraso para auxilio na auditoria de ofensores, com função de sincronismo implementado;
 	- 🟢 Adicionado função de reconhecimento automático de manha/tarde para encaminhar mensagem ao cliente;
+	- 🟡 Corrigido o Bug da lista de troca de ativos;
 	- 🔴 Correção do bug de Script padrão, no qual precisava digitar algo adicional após inserir o script para validar. Agora essa validação é automática;
 - **v0.0.4 - 11 Setembro, 2026**
 	- 🟢 Adicionado a Função de sincronismo de dados de Informações ausentes e Informações adicionais passadas ao cliente;
