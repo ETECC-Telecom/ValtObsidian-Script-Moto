@@ -44,7 +44,9 @@ w5AVbLQeywzE8i1bsakmVZFGehvfiwCbrzNwcJYl3KY0wZD4XR
 - 🔴 **Correções (Bug Fixes):** Problemas resolvidos.
 ### Histórico
 - **v0.0.5 - 15 Setembro, 2026**
+	- 🟢 Ajustado retorno do sinal de fibra, omitindo os mesmos no script final quando não é informado.
 	- 🟢 Novo formulário de cadastro e controle de calibragem do Power Mitter para registro automática na baixa da OS;
+	- 🟢 Adicionado nova regra para mensagem encaminhada ao Cliente, do qual, na aba educação do cliente, o técnico pode justificar o motivo de não enviar via Whatsapp.
 	- 🔴 Correção do bug de Script padrão, no qual precisava digitar algo adicional após inserir o script para validar. Agora essa validação é automática;
 - **v0.0.4 - 11 Setembro, 2026**
 	- 🟢 Adicionado a Função de sincronismo de dados de Informações ausentes e Informações adicionais passadas ao cliente;
