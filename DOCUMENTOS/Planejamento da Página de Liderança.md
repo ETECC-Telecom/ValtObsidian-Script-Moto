@@ -51,6 +51,16 @@ A página tem como objetivo agrupar todas as ferramentas usadas pela liderança 
 
 Estarei adicionando a ela o Script da Liderança usando todas as regras de negocio associadas a esse projeto. Atualmente os scripts são:
 
-- **Abertura e Fechamento de Auditoria Externa** - Usada para auditorias externas pós atendimento técnico. Embora essa auditoria não seja feita diretamente na página técnica (*que iremos falar em seguida*), sua pontuação será associada a sua ficha RPC;
+- **Abertura e Fechamento de Auditoria Externa Pós Atendimento** - Usada para auditorias externas pós atendimento técnico. Embora essa auditoria não seja feita diretamente na página técnica (*que iremos falar em seguida*), sua pontuação será associada a sua ficha RPC; [[Regras de Negocio - For]]
+- **Abertura e Fechamento de Auditoria Externa Pré Atendimento** - Usado para fazer o relatório de auditoria externa acompanhada com o técnico. A premissa aqui é a mesma da anterior, onde os pontos acumulados serão associadas ao técnico em questão cadastrado no sistema.
+- **Vistoria de Ferramental** - Usado para fazer a abertura e fechamento da vistoria de ferramental do técnico em campo;
+- **Vistoria Veicular** - Usado para fazer a vistoria veicular do técnico em campo.
+### Ficha RPC 
+
+Estarei adicionando a essa página uma lista de todos os técnicos cadastrados em sistema, ao clicar no card, seremos direcionados para uma outra página que irá exibir todo o registro RPC do técnico, bem como campos para manipular esses dados, e uma função para exportar como PDF para facilitar o envio. 
+
+
+
+
 
 
