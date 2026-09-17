@@ -52,4 +52,5 @@ A página tem como objetivo agrupar todas as ferramentas usadas pela liderança 
 Estarei adicionando a ela o Script da Liderança usando todas as regras de negocio associadas a esse projeto. Atualmente os scripts são:
 
 - **Abertura e Fechamento de Auditoria Externa** - Usada para auditorias externas pós atendimento técnico. Embora essa auditoria não seja feita diretamente na página técnica (*que iremos falar em seguida*), sua pontuação será associada a sua ficha RPC;
-- 
+
+
