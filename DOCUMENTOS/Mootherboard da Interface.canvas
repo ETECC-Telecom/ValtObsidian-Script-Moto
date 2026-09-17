@@ -7,7 +7,6 @@
 		{"id":"07200a93eb700cba","type":"file","file":"DOCUMENTOS/Planejamento do Formulário de Script (Base).md","x":-1640,"y":-571,"width":400,"height":400},
 		{"id":"13d278f23a1e8803","type":"file","file":"DOCUMENTOS/Planejamento do Histórico Local.md","x":-640,"y":-1280,"width":400,"height":400},
 		{"id":"26c72beb0a75aef6","type":"file","file":"ANEXOS/Pasted image 20260601163633.png","x":-117,"y":-1338,"width":399,"height":218},
-		{"id":"fa18d6f0403ea732","type":"file","file":"DOCUMENTOS/Planejamento da Home.md","x":-1040,"y":-799,"width":500,"height":457},
 		{"id":"a1a69ba46d44057c","type":"file","file":"ANEXOS/Pasted image 20260601160701.png","x":-2040,"y":-80,"width":190,"height":218},
 		{"id":"9740b61feb75f4b7","type":"file","file":"ANEXOS/Pasted image 20260601161135.png","x":-2560,"y":-80,"width":399,"height":218},
 		{"id":"62e040730793cd30","type":"file","file":"ANEXOS/Pasted image 20260601161147.png","x":-2560,"y":-371,"width":399,"height":218},
@@ -20,7 +19,10 @@
 		{"id":"6a804c8e32dd5362","type":"file","file":"ANEXOS/Pasted image 20260721150626.png","x":-60,"y":-1040,"width":476,"height":260},
 		{"id":"eb797ffe4d9493c6","type":"file","file":"ANEXOS/Pasted image 20260909110808.png","x":195,"y":-138,"width":221,"height":400},
 		{"id":"97688494da433b96","type":"file","file":"ANEXOS/Pasted image 20260530173102.png","x":216,"y":-570,"width":400,"height":175},
-		{"id":"fb754cf9fe92da10","type":"file","file":"ANEXOS/Pasted image 20260530174357.png","x":-240,"y":-700,"width":399,"height":218}
+		{"id":"fb754cf9fe92da10","type":"file","file":"ANEXOS/Pasted image 20260530174357.png","x":-240,"y":-700,"width":399,"height":218},
+		{"id":"2f90e4966affe406","type":"file","file":"DOCUMENTOS/Planejamento da Página de Liderança.md","x":-1640,"y":29,"width":400,"height":400},
+		{"id":"6d832981a56701ff","x":-1290,"y":560,"width":250,"height":60,"type":"text","text":"[[Regras de Negocio - Sistema de Registro de Performance em Campo (RPC)]]"},
+		{"id":"fa18d6f0403ea732","type":"file","file":"DOCUMENTOS/Planejamento da Home.md","x":-1040,"y":-799,"width":500,"height":457}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},
@@ -40,6 +42,8 @@
 		{"id":"e7569827e95627d1","fromNode":"75779218e8b47fe3","fromSide":"left","toNode":"20b5f83473f2fb08","toSide":"right"},
 		{"id":"39ba28c29c0afc67","fromNode":"75779218e8b47fe3","fromSide":"left","toNode":"464a8fdde60246ff","toSide":"right"},
 		{"id":"f82f9a7ac07b1efc","fromNode":"13d278f23a1e8803","fromSide":"right","toNode":"6a804c8e32dd5362","toSide":"left"},
-		{"id":"f2f971b6c1b6e629","fromNode":"fa18d6f0403ea732","fromSide":"right","toNode":"eb797ffe4d9493c6","toSide":"left","label":"Pagina De Lista de OS"}
+		{"id":"f2f971b6c1b6e629","fromNode":"fa18d6f0403ea732","fromSide":"right","toNode":"eb797ffe4d9493c6","toSide":"left","label":"Pagina De Lista de OS"},
+		{"id":"f25121a538ef4a39","fromNode":"fa18d6f0403ea732","fromSide":"bottom","toNode":"2f90e4966affe406","toSide":"top"},
+		{"id":"a907e637306783a0","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"6d832981a56701ff","toSide":"top"}
 	]
 }

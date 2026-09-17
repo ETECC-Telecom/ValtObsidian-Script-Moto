@@ -51,6 +51,7 @@ Liste todas as libs e frameworks necessários.
 - **VITE** - Para o Bundle do projeto;
 - **LocalStorage** - Para o armazenamento de informações simples do projeto;
 - **IndexedDB** - Para o armazenamento de informações mais importantes relacionados ao cliente;
+- **Planilhas do Google** - Para armazenamento simples de dados que precisam ser sincronizados constantemente entre Lideres. 
 - **LIT** - Para a criação de estrutura de componentes do projeto;
 - **Vercel** - Para a Hospedagem do programa;
 

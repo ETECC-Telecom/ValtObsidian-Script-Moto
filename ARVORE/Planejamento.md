@@ -38,6 +38,10 @@ A ideia surgiu de um APP que já existe no setor, porém foge de meu controle, i
 
 **[RNF001] - Nome do Requisito não funcional**
 	Descrição de cada requisito não funcional
+
+## Regras de Negocio
+
+- [[Regras de Negocio - Sistema de Registro de Performance em Campo (RPC)]]
 ## Descrição dos Casos de Uso
 
 ![[Casos de Uso.base]]
