@@ -22,7 +22,9 @@
 		{"id":"fb754cf9fe92da10","type":"file","file":"ANEXOS/Pasted image 20260530174357.png","x":-240,"y":-700,"width":399,"height":218},
 		{"id":"2f90e4966affe406","type":"file","file":"DOCUMENTOS/Planejamento da Página de Liderança.md","x":-1640,"y":29,"width":400,"height":400},
 		{"id":"6d832981a56701ff","x":-1290,"y":560,"width":250,"height":60,"type":"text","text":"[[Regras de Negocio - Sistema de Registro de Performance em Campo (RPC)]]"},
-		{"id":"fa18d6f0403ea732","type":"file","file":"DOCUMENTOS/Planejamento da Home.md","x":-1040,"y":-799,"width":500,"height":457}
+		{"id":"fa18d6f0403ea732","type":"file","file":"DOCUMENTOS/Planejamento da Home.md","x":-1040,"y":-799,"width":500,"height":457},
+		{"id":"f8c4a116569eec17","x":-1340,"y":680,"width":335,"height":50,"type":"text","text":"- [[Regras de Negocio - Abertura e Fechamento de auditoria externa pós atendimento]]"},
+		{"id":"e08905158475d7ea","x":-1394,"y":782,"width":250,"height":60,"type":"text","text":"[[Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada]]"}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},
@@ -44,6 +46,8 @@
 		{"id":"f82f9a7ac07b1efc","fromNode":"13d278f23a1e8803","fromSide":"right","toNode":"6a804c8e32dd5362","toSide":"left"},
 		{"id":"f2f971b6c1b6e629","fromNode":"fa18d6f0403ea732","fromSide":"right","toNode":"eb797ffe4d9493c6","toSide":"left","label":"Pagina De Lista de OS"},
 		{"id":"f25121a538ef4a39","fromNode":"fa18d6f0403ea732","fromSide":"bottom","toNode":"2f90e4966affe406","toSide":"top"},
-		{"id":"a907e637306783a0","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"6d832981a56701ff","toSide":"top"}
+		{"id":"a907e637306783a0","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"6d832981a56701ff","toSide":"top"},
+		{"id":"3ca5f1af8cddd73e","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"f8c4a116569eec17","toSide":"top"},
+		{"id":"847993c71a220cc5","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"e08905158475d7ea","toSide":"top"}
 	]
 }
