@@ -11,6 +11,7 @@ Descrição:
 ```
 ---
 Para a abertura de uma OS de vistoria externa pós atendimento, devemos recolher os seguintes atributos:
+
 - Data de Abertura Vistoria;
 - Técnico que realizou a visita no cliente;
 - Nome do Cliente;
