@@ -14,6 +14,7 @@ kanban-plugin: board
 	- Relato de Atraso no Inicio da Rota
 	- Relato de Motivo de Hora Extra.
 	- Relato de Imprevisto na Rota
+- [ ] Corrigir Placeholder do Lider que fez a vistoria no Powermitter na parte de cadastro que está ausente
 
 
 ## Fazendo

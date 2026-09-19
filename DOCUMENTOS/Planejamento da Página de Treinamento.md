@@ -22,5 +22,5 @@ Toda alteração atualiza a ficha no banco, e o treinador conseguirá exportar r
 
 Todo técnico treinador deverá cadastrar uma senha de acesso a página de Treino. Isso porque pode ocorrer momentos onde ele tenha que entregar seu celular ao junior, e como o CentralOS também é usado para dar baixa nas O.S. pode ocorrer dele ter acesso a essas informações e até editá-la. 
 
-Essa senha só será solicitada 
+Essa senha só será solicitada quando vinhermos da Home -> Treino. Assim evitamos da mesma ser solicitada enquanto o treinador estiver navegando no ecosistema do treino. 
 
