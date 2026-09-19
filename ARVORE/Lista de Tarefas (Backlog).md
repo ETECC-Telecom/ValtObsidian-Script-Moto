@@ -13,6 +13,7 @@ kanban-plugin: board
 	- Cliente sem Contato - Importar do Guia Telecom;
 	- Relato de Atraso no Inicio da Rota
 	- Relato de Motivo de Hora Extra.
+	- Relato de Imprevisto na Rota
 
 
 ## Fazendo
