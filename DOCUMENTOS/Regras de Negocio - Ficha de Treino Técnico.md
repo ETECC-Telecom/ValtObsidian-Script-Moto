@@ -15,6 +15,8 @@ Agora vamos abordar todas as regras de negocio atrelados a ficha de Treinamento 
 Essa ficha será gerida pelo Treinador durante todo o processo de treino, e quando encerrada, será encaminhada a liderança para dar inicio a ficha RPC (*Registro de Performance em Campo*). E claro, que o treinador poderá exportar um relatório semanal ao lider com os dados da ficha. Esse relatório terá o formato markdown especifico para o obsidian.
 
 O formato obsdian foi escolhido devido a sua alta capacidade de formatar o markdown, permitindo callouts e outros elementos visuais que podem ser facilmente exportados em pdf quando se deseja encaminhar essas informações. 
+
+Além dos campos que iremos detalhar a baixo, teremos que ter um espaço para notação do próprio treinador, uma caixa de texto livre em algum canto da interface que permita o líder a fazer suas anotações. 
 ## Dados iniciais da Ficha
 
 A primeira coisa que teremos preenchido são:
@@ -62,4 +64,92 @@ Como vai funcionar. Para cada item da lista, o treinador poderá preencher com:
 - **Prático** - Ensinou na prática o técnico sobre o conceito do contexto.
 
 Em todos os três casos, deveremos justificar quando preencher, para saber o motivo de não ter sido ensinado, quais os meios de ensino teórico foram utilizados ou em qual situação o técnico realizou a prática da habilidade. 
+
+Atualmente a lista de competências técnicas são divididas em 3 categorias, cada uma contendo seus itens:
+### Infraestrutura e Redes
+
+- Crimpagem de Conector Fibra (APC/UPC)
+- Crimpagem de RJ11 (Telefonia)
+- Crimpagem de RJ45 (Padrão de rede)
+- Leitura de Topologia de Rede Residencial
+- Limpeza de Conectores Ópticos
+- Identificação de Atenuação Anormal
+- Remanejamento de DROP (Mínimo Teórico)
+- Identificação em Shaft/DIO (Mínimo Teórico)
+### Configurações e Diagnóstico
+
+- Configuração de Roteador / AP
+- Provisionamento de ONU / ONT
+- Configuração de Wi-Fi (2.4GHz / 5GHz)
+- Troca de PPPoE / Titularidade
+- Troca de VLAN
+- Teste de Velocidade / Ping / Tracert
+- Site Survey / Mapa de Calor (WiFiMan)
+- Isolamento de Falha (Cliente vs Rede)
+- Redirecionamento de Portas (Mínimo Teórico)
+### Execução Operacional
+
+- Identificação de Fontes (Amperagem/Voltagem)
+- Identificação de Falha Física (UTP e Fibra)
+- Configuração de TV (TipPlay / Sky+)
+- Configuração de Conectividade Móvel (Chip/APN)
+- Padronização de Instalação (Qualidade ETECC)
+- Gestão de Tempo em Campo
+- Preenchimento de OS (Qualidade Etecc Conclusões)
+## Capacitação FiberSchool
+
+Conforme o treinamento ocorre, o treinador deve cobrar do junior as capacitações do fiberschool. Ao todo o técnico precisa concluir obrigatoriamente até o final do treino as seguintes capacitações: 
+
+- Atendimento Encantador
+- Fibra Óptica do Zero
+- Dominando o Ping
+
+Caso não consiga concluir até o final da jornada, o treinador deve justificar o motivo dessa não conclusão. E caso tenha concluído, o treinador pode adicionar a data de conclusão. 
+## Integração Digital e Ferramentas
+
+O Treinador precisará ensinar ao junior as principais ferramentas que usamos em campo. Essa integração visa que o treinador demonstre o funcionamento ao junior e deixe que o mesmo use elas na prática, principalmente no período de treino que o junior seguirá solo ao cliente.
+
+As ferramentas até o momento são:
+
+- MK Agentes+ (Logística de OS)
+- INT6 (Provisionamento)
+- Etecc Conclusões (Scripts)
+- SpeedTest (Teste de Velocidade)
+- WiFiMan (Analise da rede WiFi)
+- Guia Telecom (Consultas)
+- WhatsApp: Equipe Moto, Suporte Externo, Manutenção Moto, Almoxarifado, Retenção e Vendas.
+- CentralOS: Aplicativo de baixa e gestão pessoal do técnico. 
+
+Caso alguma ferramenta não seja ensinada ao técnico junior, devemos justificar isso no relatório. 
+## Validação de Boas Práticas
+
+As boas práticas são comportamentos esperados dos técnicos em campo durante sua jornada. Também é dever do treinador passar esses ensinamentos ao junior em campo. Até o momento temos as seguintes boas práticas: 
+
+- Realização da Vistoria Semanal (Segunda-feira);
+- Registro de ativos trocados (Notion/WhatsApp/Notas);
+- Legenda de fotos e mapas de calor nos anexos;
+- Hábito de zerar o TRIP na troca de óleo;
+- Comunicação ativa de atrasos ou QAP;
+- Registro correto de clientes sem contato;
+- 
+## Finalização do Treinamento
+
+Após o período de avaliação e treinamento, o treinador deverá encerrar o mesmo a partir de um relatório final indicando se:
+
+- O Técnico foi aprovado para atuação autônoma;
+- O técnico ainda precisa de treinamento durante x dias para especializar em alguma'as área especifica.  Nesse caso, será gerado um relatório em md para ser encaminhado ao líder, com essa observação em destaque, e registrado no próprio treinamento.
+- Ou ele poderá ser reprovado. Nesse caso, o treinador deverá encerrar o treino como não aprovado repassando um relatório detalhado do motivo do porque o técnico não possui um **Perfil aderente à função**. 
+
+> [!caution] Encerramento de Reprovado Não fecha a Ficha de Treino
+> Quando o treinador colocar como reprovado, ele terá que anexar um relatório do motivo dessa reprovação, e em seguida, encaminhar o relatório feito pelo app ao líder responsável. E após a liberação do líder, o treinador poderá encerar a OS;
+
+O encerramento do treino , após o clique do botão e envio do relatório entra em estado de revisão, liberando um outro botão para encerrar ou cancelar encerramento. Quando cancelado, ele deleta a ficha da lista do treinador.  
+
+Quando encerrado, o Líder responsável terá que receber esse relatório, converter em PDF e encaminhar ele ao Treinador para encerramento. 
+
+E será também fixado ao relatório final para o líder do setor um checklist do que deve ser entregue ao junior: 
+
+- Liberação de Kit de Ferramental Completo
+- Vistoria de Ferramental Registrada
+- Assinatura dos Termos de Responsabilidade (Notebook/Celular)
 

@@ -25,7 +25,8 @@
 		{"id":"e08905158475d7ea","type":"text","text":"[[Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada]]","x":-1394,"y":782,"width":354,"height":50},
 		{"id":"5af782290c3fa51f","type":"file","file":"ANEXOS/Pasted image 20260601155000.png","x":-160,"y":280,"width":399,"height":218},
 		{"id":"59ba334a8712da4d","type":"file","file":"DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md","x":-640,"y":-171,"width":400,"height":400},
-		{"id":"2e1edfe4dded626a","x":-740,"y":330,"width":400,"height":400,"type":"file","file":"DOCUMENTOS/Planejamento da Página de Treinamento.md"}
+		{"id":"2e1edfe4dded626a","x":-740,"y":330,"width":400,"height":400,"type":"file","file":"DOCUMENTOS/Planejamento da Página de Treinamento.md"},
+		{"id":"74a114e31e7f5930","x":-665,"y":782,"width":250,"height":50,"type":"text","text":"[[Regras de Negocio - Ficha de Treino Técnico]]"}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},
@@ -50,6 +51,7 @@
 		{"id":"a907e637306783a0","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"6d832981a56701ff","toSide":"top"},
 		{"id":"3ca5f1af8cddd73e","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"f8c4a116569eec17","toSide":"top"},
 		{"id":"847993c71a220cc5","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"e08905158475d7ea","toSide":"top"},
-		{"id":"0bb029b47779d701","fromNode":"fa18d6f0403ea732","fromSide":"bottom","toNode":"2e1edfe4dded626a","toSide":"left"}
+		{"id":"0bb029b47779d701","fromNode":"fa18d6f0403ea732","fromSide":"bottom","toNode":"2e1edfe4dded626a","toSide":"left"},
+		{"id":"c52ae4b29235e49a","fromNode":"2e1edfe4dded626a","fromSide":"bottom","toNode":"74a114e31e7f5930","toSide":"top"}
 	]
 }
