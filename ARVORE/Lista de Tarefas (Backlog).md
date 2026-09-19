@@ -15,6 +15,7 @@ kanban-plugin: board
 	- Relato de Motivo de Hora Extra.
 	- Relato de Imprevisto na Rota
 - [ ] Corrigir Placeholder do Lider que fez a vistoria no Powermitter na parte de cadastro que está ausente
+- [ ] Reformule os principais icones do sistema seu animal
 
 
 ## Fazendo

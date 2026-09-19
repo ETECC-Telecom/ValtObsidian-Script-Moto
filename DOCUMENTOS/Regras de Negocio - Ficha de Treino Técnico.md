@@ -28,11 +28,11 @@ A primeira coisa que teremos preenchido são:
 - **Data Previsto para Termino**: Preenchido automaticamente pelo sistema levando em consideração 4 semanas a partir da abertura da ficha;
 ## Cronograma e Evolução Semanal
 
-O cronograma de evolução será separado em 3 semanas, no qual o técnico terá que observar coisas especificas:
+O cronograma de evolução será separado em 3 ciclos, que inicialmente pode ser representado pela semana de treino, mas devido a possibilidade de prolongação, alterei para ciclo, no qual o técnico terá que observar coisas especificas:
 
-- **Semana 1**: principal foco - Observação Logística e Habilidades Básicas.
-- **Semana 2**: principal foco - Execução Supervisionada e Comportamental.
-- **Semana 3**: principal foco - Atendimento Solo com Auxílio Remoto.
+- **Ciclo 1**: principal foco - Observação Logística e Habilidades Básicas.
+- **Ciclo 2**: principal foco - Execução Supervisionada e Comportamental.
+- **Ciclo 3**: principal foco - Atendimento Solo com Auxílio Remoto.
 
 Cada vez que passar a semana, o técnico irá marcar a mesma como concluída, e o sistema deverá adicionar a data de conclusão. Lembrando que após o check, ficar um alerta para o técnico encaminhar o relatório ao líder responsável. 
 

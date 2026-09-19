@@ -11,11 +11,14 @@
   "pageHeader": [],
   "macros": [],
   "explorer": [],
+  "textToolbarCommands": [],
   "hide": {
     "statusbar": [],
     "leftRibbon": [
       "Abrir a nota de hoje"
-    ]
+    ],
+    "editorMenuItems": [],
+    "fileMenuItems": []
   },
   "spacing": "16",
   "advancedToolbar": {
@@ -27,5 +30,6 @@
     "mappedIcons": [],
     "tooltips": false,
     "heightOffset": 0
-  }
+  },
+  "spacingReset": true
 }

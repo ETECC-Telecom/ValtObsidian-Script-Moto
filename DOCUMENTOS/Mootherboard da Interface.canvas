@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"db8413323c0a7813","type":"text","text":"","x":-2141,"y":-838,"width":250,"height":60},
 		{"id":"8a7e5d38c7ff9962","type":"file","file":"ANEXOS/Pasted image 20260530173121.png","x":680,"y":-460,"width":200,"height":399},
 		{"id":"ef4f7951eac3cff2","type":"file","file":"ANEXOS/Pasted image 20260530172802.png","x":-1760,"y":-1280,"width":380,"height":400},
 		{"id":"07200a93eb700cba","type":"file","file":"DOCUMENTOS/Planejamento do Formulário de Script (Base).md","x":-1640,"y":-571,"width":400,"height":400},
@@ -25,8 +26,10 @@
 		{"id":"e08905158475d7ea","type":"text","text":"[[Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada]]","x":-1394,"y":782,"width":354,"height":50},
 		{"id":"5af782290c3fa51f","type":"file","file":"ANEXOS/Pasted image 20260601155000.png","x":-160,"y":280,"width":399,"height":218},
 		{"id":"59ba334a8712da4d","type":"file","file":"DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md","x":-640,"y":-171,"width":400,"height":400},
-		{"id":"2e1edfe4dded626a","x":-740,"y":330,"width":400,"height":400,"type":"file","file":"DOCUMENTOS/Planejamento da Página de Treinamento.md"},
-		{"id":"74a114e31e7f5930","x":-665,"y":782,"width":250,"height":50,"type":"text","text":"[[Regras de Negocio - Ficha de Treino Técnico]]"}
+		{"id":"2e1edfe4dded626a","type":"file","file":"DOCUMENTOS/Planejamento da Página de Treinamento.md","x":-740,"y":330,"width":400,"height":400},
+		{"id":"ed8e6953de6eb1ee","x":-940,"y":1100,"width":400,"height":400,"type":"file","file":"DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md"},
+		{"id":"74a114e31e7f5930","type":"text","text":"[[Regras de Negocio - Ficha de Treino Técnico]]","x":-520,"y":782,"width":250,"height":98},
+		{"id":"f9273e3e6236dd4b","x":-420,"y":1020,"width":400,"height":400,"type":"file","file":"DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md"}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},
@@ -52,6 +55,8 @@
 		{"id":"3ca5f1af8cddd73e","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"f8c4a116569eec17","toSide":"top"},
 		{"id":"847993c71a220cc5","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"e08905158475d7ea","toSide":"top"},
 		{"id":"0bb029b47779d701","fromNode":"fa18d6f0403ea732","fromSide":"bottom","toNode":"2e1edfe4dded626a","toSide":"left"},
-		{"id":"c52ae4b29235e49a","fromNode":"2e1edfe4dded626a","fromSide":"bottom","toNode":"74a114e31e7f5930","toSide":"top"}
+		{"id":"c52ae4b29235e49a","fromNode":"2e1edfe4dded626a","fromSide":"bottom","toNode":"74a114e31e7f5930","toSide":"top"},
+		{"id":"915ef73ddd9dd0c0","fromNode":"2e1edfe4dded626a","fromSide":"bottom","toNode":"ed8e6953de6eb1ee","toSide":"top"},
+		{"id":"af2a13b86605712c","fromNode":"2e1edfe4dded626a","fromSide":"bottom","toNode":"f9273e3e6236dd4b","toSide":"left"}
 	]
 }

@@ -24,43 +24,6 @@
             }
           },
           {
-            "id": "c3b2194744f63b34",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "ARVORE/Lista de Tarefas (Backlog).md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Lista de Tarefas (Backlog)"
-            }
-          },
-          {
-            "id": "6f58b0d491558efe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVORE/Documentação Final.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Documentação Final"
-            }
-          },
-          {
             "id": "675cdff504838358",
             "type": "leaf",
             "state": {
@@ -68,9 +31,9 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -529.0334952576817,
-                  "y": 765.1887052512284,
-                  "zoom": -0.3333333333333332
+                  "x": -288.3325640192596,
+                  "y": 434.27940635445657,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -78,7 +41,7 @@
             }
           },
           {
-            "id": "d4be6c4f7b3f1246",
+            "id": "4734e41d6b4c0463",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +55,7 @@
             }
           },
           {
-            "id": "dbef1722bbaffddf",
+            "id": "8b3e3e2541b8e377",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,9 +67,21 @@
               "icon": "lucide-file",
               "title": "Regras de Negocio - Ficha de Treino Técnico"
             }
+          },
+          {
+            "id": "6581b7c81e8f0327",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Pagina Inicial de Treino.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,8 +173,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -282,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,42 +275,46 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Importar notas": false
     }
   },
-  "active": "dbef1722bbaffddf",
+  "active": "4734e41d6b4c0463",
   "lastOpenFiles": [
-    "ARVORE/Lista de Tarefas (Backlog).md",
-    "DOCUMENTOS/Planejamento da Página de Treinamento.md",
-    "DOCUMENTOS/Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
-    "ARVORE/Planejamento.md",
-    "HOME.md",
-    "ARVORE/Desenvolvimento.md",
-    "ARVORE/Documentação Final.md",
-    "DOCUMENTOS/Planejamento da Página de Liderança.md",
+    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
+    "DOCUMENTOS/Planejamento da Página de Treinamento.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Anexos.md",
+    "DOCUMENTOS/Planejamento da Página de Treino.md",
+    "ARVORE/Lista de Tarefas (Backlog).md",
+    "ARVORE/Documentação Final.md",
+    "ARVORE/Design.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
+    "DOCUMENTOS/- [[Pagina Inicial de Treino.excalidraw]].md",
+    "HOME.md",
+    "DOCUMENTOS/Pagina Inicial de Treino.md",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Excalidraw",
+    "DOCUMENTOS/Design dos componentes.md",
+    "DOCUMENTOS/Componente de Navegação.excalidraw.md",
+    "DOCUMENTOS/Planejamento Interface Script Modelo.md",
+    "DOCUMENTOS/Estrutura dos Modelos de Script.md",
+    "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
+    "DOCUMENTOS/Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada.md",
+    "ARVORE/Planejamento.md",
+    "ARVORE/Desenvolvimento.md",
+    "DOCUMENTOS/Planejamento da Página de Liderança.md",
     "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Regras de Negocio - Abertura e Fechamento de auditoria externa pós atendimento.md",
     "ANEXOS/Pasted image 20260917163809.png",
-    "DOCUMENTOS/Design dos componentes.md",
-    "ARVORE/Design.md",
-    "DOCUMENTOS/Componente de Navegação.excalidraw.md",
     "DOCUMENTOS/Planejamento da Home.md",
     "README.md",
     "DOCUMENTOS/Desenvolvimento POP - Fluxo para Analise de Ofensores Completo.pdf.md",
     "ANEXOS/Desenvolvimento POP - Fluxo para Analise de Ofensores Completo.pdf",
-    "ARVORE/Deploy(Entrega).md",
-    "DOCUMENTOS/Regras de Negocio - Sistema de Registro de Performance em Campo (RPC).md",
-    "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Card de Lista de Troca de Ativos.excalidraw.md",
     "ANEXOS/Pasted image 20260909110808.png",
     "ANEXOS/Pasted Image 20260909102411_611.png",
-    "DOCUMENTOS/Componentes de Teste de Ping, Tracert e Velocidade Adicional.md",
-    "DOCUMENTOS/Sem título 2.md",
-    "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
     "ANEXOS/Pasted image 20260721150626.png",
     "ANEXOS/Pasted image 20260707160514.png",
     "ANEXOS/Pasted image 20260707160252.png",
@@ -343,14 +323,11 @@
     "ANEXOS/Pasted image 20260601161147.png",
     "ANEXOS/Pasted image 20260601161135.png",
     "ARVORE/Imagens de Referencia.canvas",
-    "Excalidraw",
     "Design/Wireframes",
     "Design",
     "BASES/MocsHome.base",
     "BASES/Casos de Uso.base",
     "Deploy ",
-    "BASES/Log de Bugs.base",
-    "BASES/Casos de Teste.base",
-    "BASES/Snippets Úteis.base"
+    "BASES/Log de Bugs.base"
   ]
 }

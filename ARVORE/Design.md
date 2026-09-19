@@ -44,6 +44,10 @@ https://uiverse.io/xXJollyHAKERXx/lucky-falcon-75
 - [[Planejamento do componente de Equipamentos Testados]]
 - [[Planejamento Interface Script Modelo]]
 
+**Planejamento da Interface da Página de Treino**
+
+- [[Planejamento da Página de Treino]]
+
 ## Arquitetura da Informação
 
 - [[Design/Sitemap]]
@@ -55,7 +59,8 @@ https://uiverse.io/xXJollyHAKERXx/lucky-falcon-75
 
 - [[Design dos componentes]]
 
-> 🔗 Links para arquivos do Excalidraw
+**Wireframes da página de Treino**
+- [[Pagina Inicial de Treino.excalidraw]]
 ## UI (Interface Visual)
 
 ![[Mootherboard da Interface.canvas]]
