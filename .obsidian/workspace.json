@@ -61,16 +61,16 @@
             }
           },
           {
-            "id": "ca7c2304e6498fb2",
+            "id": "675cdff504838358",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -1292.275776089484,
-                  "y": 185.72155947909278,
-                  "zoom": 1.1102230246251565e-16
+                  "x": -1015.8670196968519,
+                  "y": 683.2938370080616,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -78,49 +78,7 @@
             }
           },
           {
-            "id": "343da0f03281808d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Planejamento da Página de Liderança.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planejamento da Página de Liderança"
-            }
-          },
-          {
-            "id": "7f070abcc570f9de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Regras de Negocio - Abertura e Fechamento de auditoria externa pós atendimento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regras de Negocio - Abertura e Fechamento de auditoria externa pós atendimento"
-            }
-          },
-          {
-            "id": "94bc96a991f85d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVORE/Planejamento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planejamento"
-            }
-          },
-          {
-            "id": "3725c0d0bfdfadd8",
+            "id": "f468d74b13eaef55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,9 +90,37 @@
               "icon": "lucide-file",
               "title": "Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada"
             }
+          },
+          {
+            "id": "d4be6c4f7b3f1246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Planejamento da Página de Treinamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento da Página de Treinamento"
+            }
+          },
+          {
+            "id": "dbef1722bbaffddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regras de Negocio - Ficha de Treino Técnico"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -236,8 +222,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           },
           {
@@ -246,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +242,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para HOME"
+              "title": "Links inversos"
             }
           },
           {
@@ -265,12 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para HOME"
+              "title": "Links de saída"
             }
           },
           {
@@ -330,17 +316,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3725c0d0bfdfadd8",
+  "active": "dbef1722bbaffddf",
   "lastOpenFiles": [
-    "ARVORE/Lista de Tarefas (Backlog).md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
-    "ARVORE/Documentação Final.md",
-    "ARVORE/Planejamento.md",
-    "DOCUMENTOS/Regras de Negocio - Abertura e Fechamento de auditoria externa pós atendimento.md",
+    "DOCUMENTOS/Planejamento da Página de Treinamento.md",
+    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada.md",
-    "DOCUMENTOS/Planejamento da Página de Liderança.md",
-    "ANEXOS/Pasted image 20260917163809.png",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "ARVORE/Planejamento.md",
     "HOME.md",
+    "ARVORE/Lista de Tarefas (Backlog).md",
+    "ARVORE/Desenvolvimento.md",
+    "ARVORE/Documentação Final.md",
+    "DOCUMENTOS/Planejamento da Página de Liderança.md",
+    "ARVORE/Anexos.md",
+    "ARVORE/Arquitetura.md",
+    "DOCUMENTOS/Regras de Negocio - Abertura e Fechamento de auditoria externa pós atendimento.md",
+    "ANEXOS/Pasted image 20260917163809.png",
     "DOCUMENTOS/Design dos componentes.md",
     "ARVORE/Design.md",
     "DOCUMENTOS/Componente de Navegação.excalidraw.md",
@@ -350,8 +341,6 @@
     "ANEXOS/Desenvolvimento POP - Fluxo para Analise de Ofensores Completo.pdf",
     "ARVORE/Deploy(Entrega).md",
     "DOCUMENTOS/Regras de Negocio - Sistema de Registro de Performance em Campo (RPC).md",
-    "ARVORE/Desenvolvimento.md",
-    "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Fluxo do Usuário - Encaminhar Relatório dos Testes.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
     "DOCUMENTOS/Card de Lista de Troca de Ativos.excalidraw.md",
@@ -359,10 +348,7 @@
     "ANEXOS/Pasted Image 20260909102411_611.png",
     "DOCUMENTOS/Componentes de Teste de Ping, Tracert e Velocidade Adicional.md",
     "DOCUMENTOS/Sem título 2.md",
-    "DOCUMENTOS/Planejamento Interface Script Modelo.md",
     "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
-    "DOCUMENTOS/Planejamento do Histórico Local.md",
-    "ARVORE/Testes.md",
     "ANEXOS/Pasted image 20260721150626.png",
     "ANEXOS/Pasted image 20260707160514.png",
     "ANEXOS/Pasted image 20260707160252.png",

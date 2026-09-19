@@ -1,9 +1,7 @@
 {
 	"nodes":[
 		{"id":"8a7e5d38c7ff9962","type":"file","file":"ANEXOS/Pasted image 20260530173121.png","x":680,"y":-460,"width":200,"height":399},
-		{"id":"59ba334a8712da4d","type":"file","file":"DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md","x":-1040,"y":-120,"width":400,"height":400},
 		{"id":"ef4f7951eac3cff2","type":"file","file":"ANEXOS/Pasted image 20260530172802.png","x":-1760,"y":-1280,"width":380,"height":400},
-		{"id":"5af782290c3fa51f","type":"file","file":"ANEXOS/Pasted image 20260601155000.png","x":-520,"y":62,"width":399,"height":218},
 		{"id":"07200a93eb700cba","type":"file","file":"DOCUMENTOS/Planejamento do Formulário de Script (Base).md","x":-1640,"y":-571,"width":400,"height":400},
 		{"id":"13d278f23a1e8803","type":"file","file":"DOCUMENTOS/Planejamento do Histórico Local.md","x":-640,"y":-1280,"width":400,"height":400},
 		{"id":"26c72beb0a75aef6","type":"file","file":"ANEXOS/Pasted image 20260601163633.png","x":-117,"y":-1338,"width":399,"height":218},
@@ -21,10 +19,13 @@
 		{"id":"97688494da433b96","type":"file","file":"ANEXOS/Pasted image 20260530173102.png","x":216,"y":-570,"width":400,"height":175},
 		{"id":"fb754cf9fe92da10","type":"file","file":"ANEXOS/Pasted image 20260530174357.png","x":-240,"y":-700,"width":399,"height":218},
 		{"id":"2f90e4966affe406","type":"file","file":"DOCUMENTOS/Planejamento da Página de Liderança.md","x":-1640,"y":29,"width":400,"height":400},
-		{"id":"6d832981a56701ff","x":-1290,"y":560,"width":250,"height":60,"type":"text","text":"[[Regras de Negocio - Sistema de Registro de Performance em Campo (RPC)]]"},
+		{"id":"6d832981a56701ff","type":"text","text":"[[Regras de Negocio - Sistema de Registro de Performance em Campo (RPC)]]","x":-1290,"y":560,"width":250,"height":60},
 		{"id":"fa18d6f0403ea732","type":"file","file":"DOCUMENTOS/Planejamento da Home.md","x":-1040,"y":-799,"width":500,"height":457},
-		{"id":"f8c4a116569eec17","x":-1340,"y":680,"width":335,"height":50,"type":"text","text":"- [[Regras de Negocio - Abertura e Fechamento de auditoria externa pós atendimento]]"},
-		{"id":"e08905158475d7ea","x":-1394,"y":782,"width":250,"height":60,"type":"text","text":"[[Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada]]"}
+		{"id":"f8c4a116569eec17","type":"text","text":"- [[Regras de Negocio - Abertura e Fechamento de auditoria externa pós atendimento]]","x":-1340,"y":680,"width":335,"height":50},
+		{"id":"e08905158475d7ea","type":"text","text":"[[Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada]]","x":-1394,"y":782,"width":354,"height":50},
+		{"id":"5af782290c3fa51f","type":"file","file":"ANEXOS/Pasted image 20260601155000.png","x":-160,"y":280,"width":399,"height":218},
+		{"id":"59ba334a8712da4d","type":"file","file":"DOCUMENTOS/Planejamento da Página Seletor de Fluxo.md","x":-640,"y":-171,"width":400,"height":400},
+		{"id":"2e1edfe4dded626a","x":-740,"y":330,"width":400,"height":400,"type":"file","file":"DOCUMENTOS/Planejamento da Página de Treinamento.md"}
 	],
 	"edges":[
 		{"id":"ca35e079e6ead0d3","fromNode":"ef4f7951eac3cff2","fromSide":"right","toNode":"a894f0fb4e4e31b2","toSide":"left"},
@@ -48,6 +49,7 @@
 		{"id":"f25121a538ef4a39","fromNode":"fa18d6f0403ea732","fromSide":"bottom","toNode":"2f90e4966affe406","toSide":"top"},
 		{"id":"a907e637306783a0","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"6d832981a56701ff","toSide":"top"},
 		{"id":"3ca5f1af8cddd73e","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"f8c4a116569eec17","toSide":"top"},
-		{"id":"847993c71a220cc5","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"e08905158475d7ea","toSide":"top"}
+		{"id":"847993c71a220cc5","fromNode":"2f90e4966affe406","fromSide":"bottom","toNode":"e08905158475d7ea","toSide":"top"},
+		{"id":"0bb029b47779d701","fromNode":"fa18d6f0403ea732","fromSide":"bottom","toNode":"2e1edfe4dded626a","toSide":"left"}
 	]
 }
