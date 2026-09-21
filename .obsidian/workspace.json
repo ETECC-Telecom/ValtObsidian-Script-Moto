@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -272,18 +272,17 @@
       "bases:Criar nova base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "4734e41d6b4c0463",
+  "active": "8b3e3e2541b8e377",
   "lastOpenFiles": [
-    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
     "DOCUMENTOS/Planejamento da Página de Treinamento.md",
+    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Planejamento da Página de Treino.md",
