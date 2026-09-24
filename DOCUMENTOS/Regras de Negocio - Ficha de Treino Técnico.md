@@ -131,6 +131,8 @@ As boas práticas são comportamentos esperados dos técnicos em campo durante s
 - Hábito de zerar o TRIP na troca de óleo;
 - Comunicação ativa de atrasos ou QAP;
 - Registro correto de clientes sem contato;
+- Registro via APP ou Deslocamento sobre Ofensores; 
+- Validação do RG para atendimento com menor de idade para confirmação antes de iniciar a OS;
 - 
 ## Finalização do Treinamento
 
