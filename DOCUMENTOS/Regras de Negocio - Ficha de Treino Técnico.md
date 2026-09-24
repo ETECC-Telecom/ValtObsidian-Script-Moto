@@ -121,19 +121,21 @@ As ferramentas até o momento são:
 - CentralOS: Aplicativo de baixa e gestão pessoal do técnico. 
 
 Caso alguma ferramenta não seja ensinada ao técnico junior, devemos justificar isso no relatório. 
-## Validação de Boas Práticas
+## Validação de Boas Práticas e Instruções de Trabalho
 
 As boas práticas são comportamentos esperados dos técnicos em campo durante sua jornada. Também é dever do treinador passar esses ensinamentos ao junior em campo. Até o momento temos as seguintes boas práticas: 
 
+**Boas Práticas**
 - Realização da Vistoria Semanal (Segunda-feira);
-- Registro de ativos trocados (Notion/WhatsApp/Notas);
 - Legenda de fotos e mapas de calor nos anexos;
 - Hábito de zerar o TRIP na troca de óleo;
 - Comunicação ativa de atrasos ou QAP;
+
+**Instruções de Trabalho**
 - Registro correto de clientes sem contato;
 - Registro via APP ou Deslocamento sobre Ofensores; 
 - Validação do RG para atendimento com menor de idade para confirmação antes de iniciar a OS;
-- 
+- Notificação a Retenção sobre trocas de Equipamento;
 ## Finalização do Treinamento
 
 Após o período de avaliação e treinamento, o treinador deverá encerrar o mesmo a partir de um relatório final indicando se:

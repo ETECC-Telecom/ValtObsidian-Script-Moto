@@ -92,6 +92,13 @@ Dump da estrutura de dados que usarei como referência para desenhar a interface
 			data: null, //Data da monitoria
 			relatorio: null //Caso o técncio n aprenda, o treinador deverá justificar o motivo. 
 		}
+	],
+	instrucoes_trabalho:[
+		{
+			nome: null, //Nome da boa prática
+			data: null, //Data da monitoria
+			relatorio: null //Caso o técncio n aprenda, o treinador deverá justificar o motivo. 
+		}
 	]
 	
 }
