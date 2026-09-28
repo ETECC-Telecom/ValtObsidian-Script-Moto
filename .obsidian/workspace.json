@@ -31,13 +31,25 @@
               "state": {
                 "file": "DOCUMENTOS/Mootherboard da Interface.canvas",
                 "viewState": {
-                  "x": -198.7265996421578,
-                  "y": -423.99097715985,
-                  "zoom": -1.6666666666666663
+                  "x": -740,
+                  "y": 1300,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Mootherboard da Interface"
+            }
+          },
+          {
+            "id": "5a41fa3374d16c4f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Pagina Inicial de Treino.excalidraw"
             }
           },
           {
@@ -151,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -348,18 +360,18 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "724812f9c5f6c7a6",
+  "active": "5a41fa3374d16c4f",
   "lastOpenFiles": [
+    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
+    "DOCUMENTOS/Planejamento da Página de Treinamento.md",
+    "ARVORE/Documentação Final.md",
     "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "ARVORE/Planejamento.md",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "DOCUMENTOS/Sem título 3.md",
-    "DOCUMENTOS/Planejamento da Página de Treinamento.md",
     "HOME.md",
-    "ARVORE/Documentação Final.md",
     "ARVORE/Desenvolvimento.md",
-    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
     "ARVORE/Arquitetura.md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Planejamento da Página de Treino.md",
