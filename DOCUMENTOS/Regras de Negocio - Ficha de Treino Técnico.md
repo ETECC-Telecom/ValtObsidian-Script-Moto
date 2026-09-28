@@ -157,3 +157,5 @@ E será também fixado ao relatório final para o líder do setor um checklist d
 - Vistoria de Ferramental Registrada
 - Assinatura dos Termos de Responsabilidade (Notebook/Celular)
 
+[[Planejamento da Interface da Ficha de Treino]]
+

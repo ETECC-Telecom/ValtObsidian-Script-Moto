@@ -21,7 +21,8 @@ Dump da estrutura de dados que usarei como referência para desenhar a interface
 	data_inicio: null,
 	previsao_termino: null, //Data prevista para o termino (~3 semanas)
 	data_encerramento: null,
-	relatorio_geral_treinador: null //campo onde o treinador registra observações avulsas.
+	relatorio_geral_treinador: null, //campo onde o treinador registra observações avulsas.
+	
 	aprovacao: {
 		valor: null, // Aprovado/Observação/Reprovado,
 		estado: "aberto", //Aberto/revisão
