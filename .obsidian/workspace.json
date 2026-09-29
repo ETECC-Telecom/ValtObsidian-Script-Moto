@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -332,11 +332,11 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "362121750afe94c9",
+  "active": "6581b7c81e8f0327",
   "lastOpenFiles": [
-    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
     "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
+    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "DOCUMENTOS/Planejamento da Página de Treinamento.md",
     "ARVORE/Desenvolvimento.md",

@@ -33,4 +33,8 @@ Nessa sessão teremos um botão para adicionar um novo ciclo, lembrando que novo
 Ao clicar no ciclo, será exibido um modal full que irá mostrar os relatórios associados a aquele ciclo, onde poderemos adicionar e retirar relatórios. 
 ## Aba de Soft Skills
 
-Aqui será onde o técnico irá gerenciar as softskills do técnico junior. No topo da página teremos um gráfico de radas mostrando o nível em cada uma das softsck
+Aqui será onde o técnico irá gerenciar as softskills do técnico junior. No topo da página teremos um gráfico mostrando o nível em cada uma das softskills cadastradas.
+
+A baixo teremos uma lista das softskills, bem como inputs para manipulá-las. 
+
+Teremos um nome da habilidade, um botão para adicionar e remover nível, e a cada clique do botão, teremos que adicionar uma justificativa seguindo o padrão de escrita já abordada. Além disso, cada grupo terá um icone de exclamação, que ao clicado, abrirá uma dica informando do que se trata aquela softskill em questão. 
