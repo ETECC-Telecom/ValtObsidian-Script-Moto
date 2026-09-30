@@ -39,9 +39,8 @@ A baixo teremos uma lista das softskills, bem como inputs para manipulá-las.
 
 Teremos um nome da habilidade, um botão para adicionar e remover nível, e a cada clique do botão, teremos que adicionar uma justificativa seguindo o padrão de escrita já abordada. Além disso, cada grupo terá um icone de exclamação, que ao clicado, abrirá uma dica informando do que se trata aquela softskill em questão. 
 
-Ideia de UI:
 
-![[Pasted image 20260930130608.png]]
+
 
 ## Habilidades Técnicas
 

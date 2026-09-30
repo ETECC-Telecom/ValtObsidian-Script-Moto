@@ -51,7 +51,12 @@ Dump da estrutura de dados que usarei como referência para desenhar a interface
 			relatorio_evolucional: [
 				{
 					nivel_avaliado: 0,
-					relatorio: null //Motivo de ter subido ou regredido o nível.
+					relatorio: [
+						{
+							titulo: null, //(-/+ nível) Data atribuição
+							descricao: null // Relato
+						}
+					] //Motivo de ter subido ou regredido o nível.
 				},
 			],
 		}
