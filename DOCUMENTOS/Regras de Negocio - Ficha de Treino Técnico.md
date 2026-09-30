@@ -105,7 +105,7 @@ Conforme o treinamento ocorre, o treinador deve cobrar do junior as capacitaçõ
 - Dominando o Ping
 
 Caso não consiga concluir até o final da jornada, o treinador deve justificar o motivo dessa não conclusão. E caso tenha concluído, o treinador pode adicionar a data de conclusão. 
-## Integração Digital e Ferramentas
+## Integração Digital, Ferramentas e Boas Práticas
 
 O Treinador precisará ensinar ao junior as principais ferramentas que usamos em campo. Essa integração visa que o treinador demonstre o funcionamento ao junior e deixe que o mesmo use elas na prática, principalmente no período de treino que o junior seguirá solo ao cliente.
 

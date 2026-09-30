@@ -53,7 +53,7 @@ Dump da estrutura de dados que usarei como referência para desenhar a interface
 					nivel_avaliado: 0,
 					relatorio: [
 						{
-							titulo: null, //(-/+ nível) Data atribuição
+							titulo: null, //(-/+ nível) Data atr
 							descricao: null // Relato
 						}
 					] //Motivo de ter subido ou regredido o nível.
@@ -73,7 +73,8 @@ Dump da estrutura de dados que usarei como referência para desenhar a interface
 			relatorio_evolucional: [
 				{
 					categoria: null, //Não encinado/ Teórico/ Prático
-					relatorio: null 
+					relatorio: null,
+					data: null, // Data que foi adicionado o relato
 				}
 			]
 		}
@@ -89,14 +90,38 @@ Dump da estrutura de dados que usarei como referência para desenhar a interface
 		{
 			nome: null, //Nome da ferramenta
 			data: null, //Data da monitoria
-			relatorio: null //Caso o técncio n aprenda, o treinador deverá justificar o motivo. 
+			link: null, //Link para estudo das boas práticas quando aplicável (IT no guia telecom)
+			ensino: [
+				false, // Não ensinado
+				false, // Ensino Teórico
+				false  // Ensino Prático 
+			]
+			relatorio_evolucional: [
+				{
+					categoria: null, //Não encinado/ Teórico/ Prático
+					relatorio: null,
+					data: null, // Data que foi adicionado o relato
+				}
+			]
 		}
 	],
 	boas_praticas:[
 		{
 			nome: null, //Nome da boa prática
 			data: null, //Data da monitoria
-			relatorio: null //Caso o técncio n aprenda, o treinador deverá justificar o motivo. 
+			link: null, //Link para estudo das boas práticas quando aplicável (IT no guia telecom)
+			ensino: [
+				false, // Não ensinado
+				false, // Ensino Teórico
+				false  // Ensino Prático 
+			]
+			relatorio_evolucional: [
+				{
+					categoria: null, //Não encinado/ Teórico/ Prático
+					relatorio: null,
+					data: null, // Data que foi adicionado o relato
+				}
+			]
 		}
 	],
 	instrucoes_trabalho:[

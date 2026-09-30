@@ -70,6 +70,7 @@ Ao expandir uma categoria, os itens são dispostos em formato de **Tabela Intera
 | Habilidade Técnica                        | Status (Seleção)                               | Justificativa / Detalhamento                                 | Ações / Histórico                                         |
 | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
 | **Crimpagem de Conector Fibra (APC/UPC)** | `[ Não Ensinado ]` `[ Teórico ]` `[ Prático ]` | Campo de texto dinâmico (Placeholder muda conforme o status) | Ícone de data/usuário (ex: *Editado por Carlos em 10/10*) |
+|                                           |                                                |                                                              |                                                           |
 ### 3. Dinâmica de Preenchimento e Justificativas
 
 O campo de justificativa adapta seu comportamento e *placeholder* com base na opção selecionada nos seletores de status (`Radio Buttons` estilizados ou `Pills` clicáveis):
@@ -109,9 +110,114 @@ Na visualização final (modo de leitura/relatório de encerramento do junior):
 * Agrupa visualmente o motivo de cada `Não Ensinado`, os meios de ensino do `Teórico` e as situações práticas do `Prático`, garantindo histórico para acompanhamentos futuros.
 ## Capacitação
 
+Abaixo está um detalhamento completo de interface (UI/UX) projetado para a aba **Capacitação FiberSchool**, focando em facilidade de uso para o treinador no dia a dia, clareza das informações e garantia de preenchimento das regras de negócio.
+### 1. Visão Geral da Aba
 
+A interface deve permitir que o treinador veja rapidamente o progresso do técnico júnior, marque conclusões com facilidade e insira justificativas obrigatoriamente se o treinamento chegar ao fim sem a conclusão dos cursos.
+### 2. Elementos de Cabeçalho (Resumo de Progresso)
+
+No topo da aba, apresentamos um resumo do status atual para dar feedback imediato:
+
+* **Barra de Progresso:** Um indicador visual simples (ex: `2/3 Capacitações Concluídas` ou `66%`).
+* **Status Geral:**
+* 🟡 *Em andamento* (enquanto o período de treinamento estiver ativo).
+* 🟢 *Concluído* (todas as 3 capacitações registradas).
+* 🔴 *Pendente de Justificativa* (treinamento encerrado com algum curso em aberto).
+### 3. Lista de Capacitações (Cards ou Tabela)
+
+Cada uma das 3 capacitações obrigatórias possui um card individual:
+
+1. **Atendimento Encantador**
+2. **Fibra Óptica do Zero**
+3. **Dominando o Ping**
+#### Estrutura de Cada Card:
+
+* **Título do Curso:** Nome da capacitação.
+* **Tag de Status:**
+* `Concluído` (Verde)
+* `Pendente` (Amarelo / Cinza)
+
+* **Campo de Ação — Se Concluído:**
+* **Data de Conclusão:** Campo do tipo *Datepicker* (calendário) para registrar o dia exato em que o júnior finalizou o curso.
+* *Botão de Edição/Remoção:* Para alterar a data ou desmarcar caso haja erro.
+
+* **Campo de Ação — Se Não Concluído (Ao final da jornada):**
+* **Campo de Justificativa:** Caixa de texto para o treinador detalhar o motivo do não cumprimento (ex: *"Falta de tempo na rotina de campo"*, *"Dificuldade de acesso à plataforma"*, etc.).
+### 4. Regras de Validação & Comportamento (UX)
+
+* **Obrigatoriedade Condicional:**
+* Se a opção `Concluído` for marcada, o campo **Data de Conclusão** torna-se obrigatório.
+* Se o treinamento for encerrado/finalizado pelo treinador e qualquer um dos 3 cursos estiver como `Pendente`, o sistema abre automaticamente um modal ou destaca em vermelho o campo de **Justificativa do motivo da não conclusão**.
+
+* **Bloqueio de Encerramento:** O botão "Finalizar Treinamento do Técnico" só é liberado após as 3 capacitações terem uma **Data de Conclusão** OU uma **Justificativa registrada**.
+### 5. Layout Sugerido (Prototipagem em Texto)
+
+```text
+--------------------------------------------------------------------------------
+[Aba: Capacitação FiberSchool]
+
+PROGRESSO GERAL: [██████████████░░░░░░] 2/3 Concluídos
+
+--------------------------------------------------------------------------------
+1. Atendimento Encantador
+   Status: [ Concluído v ]
+   Data de Conclusão: [ 15/09/2026 ]
+
+--------------------------------------------------------------------------------
+2. Fibra Óptica do Zero
+   Status: [ Concluído v ]
+   Data de Conclusão: [ 22/09/2026 ]
+
+--------------------------------------------------------------------------------
+3. Dominando o Ping
+   Status: [ Não Concluído v ]
+   
+   ⚠️ Justificativa de Não Conclusão (Obrigatória para encerramento):
+   [ Digite aqui o motivo pelo qual o júnior não concluiu o curso...       ]
+
+--------------------------------------------------------------------------------
+[ Salvar Rascunho ]                               [ Finalizar Treinamento ]
+--------------------------------------------------------------------------------
+
+```
 ## Integração e Boas Práticas
 
+Com base nas regras de negócio apresentadas, preparei uma proposta detalhada para a estrutura e interface da aba **"Integração Digital, Ferramentas e Boas Práticas"**.
+### 1. Cabeçalho da Aba
+
+* **Título:** Integração Digital & Ferramentas de Campo
+* **Subtítulo:** Validação do uso prático de aplicativos e sistemas operacionais pelo técnico júnior.
+* **Barra de Progresso:** Um indicador visual simples que atualiza em tempo real (ex.: `5 de 8 ferramentas concluídas`).
+### 2. Lista / Tabela de Ferramentas
+
+Cada ferramenta listada abaixo deve apresentar um card ou linha interativa com os seguintes elementos:
+
+* **Status da Capacitação:**
+* `[ ] Demonstrado pelo Treinador`
+* `[ ] Aplicado na Prática pelo Júnior`
+* `[ ] Não Aplicado / Não Ensinado`
+
+* **Campos de Ação:**
+* **Status Final:** *Concluído* | *Pendente* | *Não Aplicável*.
+* **Observações Técnicas:** Campo de texto livre curto para o treinador pontuar facilidades ou dificuldades do júnior.
+* **Justificativa Obrigatória:** Campo de texto que é **habilitado automaticamente** quando o status "Não Aplicado" ou "Não Ensinado" é selecionado.
+### 3. Mapeamento dos Itens de Ferramentas
+
+| Ferramenta | Descrição / Foco do Treinamento | Status | Justificativa (se não ensinado) |
+| --- | --- | --- | --- |
+| **MK Agentes+** | Logística e gestão de Ordens de Serviço (OS) | `[ Concluído / Pendente / Não Ensinado ]` | *Campo condicional* |
+| **INT6** | Provisionamento de acessos e equipamentos | `[ Concluído / Pendente / Não Ensinado ]` | *Campo condicional* |
+| **Etecc Conclusões** | Execução e consulta de Scripts padrão | `[ Concluído / Pendente / Não Ensinado ]` | *Campo condicional* |
+| **SpeedTest** | Aferição e validação de velocidade de banda | `[ Concluído / Pendente / Não Ensinado ]` | *Campo condicional* |
+| **WiFiMan** | Análise de sinal, canais e interferências Wi-Fi | `[ Concluído / Pendente / Não Ensinado ]` | *Campo condicional* |
+| **Guia Telecom** | Consultas técnicas e procedimentos operacionais | `[ Concluído / Pendente / Não Ensinado ]` | *Campo condicional* |
+| **WhatsApp Operacional** | Contatos com setores: Equipe Moto, Suporte Externo, Manutenção Moto, Almoxarifado, Retenção e Vendas | `[ Concluído / Pendente / Não Ensinado ]` | *Campo condicional* |
+| **CentralOS** | Baixa de atendimentos e gestão pessoal do técnico | `[ Concluído / Pendente / Não Ensinado ]` | *Campo condicional* |
+### 4. Regras de Validação e Comportamento da Tela
+
+* **Bloqueio de Envio:** O relatório final ou a conclusão da aba só pode ser salvo/assinado se todas as ferramentas estiverem marcadas como **Concluído** OU se o campo de **Justificativa** estiver preenchido para os itens marcados como **Não Ensinado**.
+* **Seção de Confirmação:** Ao final da página, um checkbox de confirmação do treinador:
+> *"Declaro que demonstrei e acompanhei o uso prático das ferramentas assinaladas acima pelo técnico júnior."*
 
 ## Notas Gerais
 
