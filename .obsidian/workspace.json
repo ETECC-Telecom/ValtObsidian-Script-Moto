@@ -24,49 +24,61 @@
             }
           },
           {
-            "id": "f3e67ef95d8bcaaa",
+            "id": "8ea20d0d10d5befb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Planejamento do Desbloqueio por PIN.md",
+                "file": "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planejamento do Desbloqueio por PIN"
+              "title": "Regras de Negocio - Ficha de Treino Técnico"
             }
           },
           {
-            "id": "dcac9dbacf11e656",
+            "id": "969a12daa0eadc12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARVORE/Desenvolvimento.md",
+                "file": "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desenvolvimento"
+              "title": "Dump da Estrutura de Dados da Ficha de Treino"
             }
           },
           {
-            "id": "53c6ab13a5d5a9a3",
+            "id": "312ca8d6781347a2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Pagina Inicial de Treino.excalidraw"
+            }
+          },
+          {
+            "id": "20efb9187c5cf12b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Componente Padrão LIT.md",
+                "file": "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Componente Padrão LIT"
+              "title": "Planejamento da Interface da Ficha de Treino"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,27 +275,29 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "53c6ab13a5d5a9a3",
+  "active": "20efb9187c5cf12b",
   "lastOpenFiles": [
-    "ARVORE/Desenvolvimento.md",
+    "ANEXOS/Pasted image 20260930130608.png",
+    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
+    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
+    "ARVORE/Design.md",
     "HOME.md",
+    "ARVORE/Desenvolvimento.md",
+    "DOCUMENTOS/Planejamento da Página de Treino.md",
     "DOCUMENTOS/Planejamento do Desbloqueio por PIN.md",
+    "ARVORE/Arquitetura.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
     "ARVORE/Documentação Final.md",
     "ARVORE/Testes.md",
     "ARVORE/Planejamento.md",
     "ARVORE/Anexos.md",
-    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
-    "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
-    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "DOCUMENTOS/Planejamento da Página de Treinamento.md",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "DOCUMENTOS/Função de Salvar a OS no banco de dados.md",
     "ARVORE/Deploy(Entrega).md",
-    "ARVORE/Arquitetura.md",
-    "DOCUMENTOS/Planejamento da Página de Treino.md",
     "ARVORE/Lista de Tarefas (Backlog).md",
-    "ARVORE/Design.md",
     "DOCUMENTOS/- [[Pagina Inicial de Treino.excalidraw]].md",
     "DOCUMENTOS/Pagina Inicial de Treino.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
@@ -294,8 +308,6 @@
     "DOCUMENTOS/Planejamento Interface Script Modelo.md",
     "DOCUMENTOS/Estrutura dos Modelos de Script.md",
     "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
-    "DOCUMENTOS/Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada.md",
-    "DOCUMENTOS/Planejamento da Página de Liderança.md",
     "ANEXOS/Pasted image 20260917163809.png",
     "ANEXOS/Desenvolvimento POP - Fluxo para Analise de Ofensores Completo.pdf",
     "ANEXOS/Pasted image 20260909110808.png",
