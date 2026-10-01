@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "a23d6aa38db763cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARVORE/Documentação Final.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Documentação Final"
+            }
+          },
+          {
             "id": "5018c5811a7124d1",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -289,14 +303,16 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "5018c5811a7124d1",
+  "active": "969a12daa0eadc12",
   "lastOpenFiles": [
-    "ARVORE/Desenvolvimento.md",
     "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
+    "ARVORE/Documentação Final.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
     "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
     "HOME.md",
-    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
+    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
+    "ARVORE/Desenvolvimento.md",
     "BASES/MocsHome.base",
     "ANEXOS/Pasted image 20260930130608.png",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
@@ -304,8 +320,6 @@
     "DOCUMENTOS/Planejamento da Página de Treino.md",
     "DOCUMENTOS/Planejamento do Desbloqueio por PIN.md",
     "ARVORE/Arquitetura.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
-    "ARVORE/Documentação Final.md",
     "ARVORE/Testes.md",
     "ARVORE/Planejamento.md",
     "ARVORE/Anexos.md",

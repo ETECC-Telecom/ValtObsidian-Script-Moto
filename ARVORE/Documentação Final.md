@@ -43,6 +43,9 @@ w5AVbLQeywzE8i1bsakmVZFGehvfiwCbrzNwcJYl3KY0wZD4XR
 - 🟡 **Melhorias:** Otimizações de desempenho ou na interface (UI/UX).
 - 🔴 **Correções (Bug Fixes):** Problemas resolvidos.
 ### Histórico
+- **v0.0.8 - 01 Outubro, 2026**
+	- 🔴 Corrigido erro de encerramento de script para entrega de Chip que adicionava ao script o titulo de LOS;
+	- 🟡 Melhorado ícones da página de iniciar nova OS;
 - **v0.0.7 - 28 Setembro, 2026**
 	- 🟡 Adicionado novo script de encerramento na sessão de educação do cliente relacionado a troca de equipamento no local.
 	- 🟡 Melhorada a leitura do campo de troca de equipamentos.
