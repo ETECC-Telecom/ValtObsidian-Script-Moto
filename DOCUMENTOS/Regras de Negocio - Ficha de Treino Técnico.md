@@ -136,6 +136,7 @@ As boas práticas são comportamentos esperados dos técnicos em campo durante s
 - Registro via APP ou Deslocamento sobre Ofensores; 
 - Validação do RG para atendimento com menor de idade para confirmação antes de iniciar a OS;
 - Notificação a Retenção sobre trocas de Equipamento;
+- Senhas padrões usadas nos Routers da Empresa (Informação consultada na página de configuração de router do guia Telecom);
 ## Finalização do Treinamento
 
 Após o período de avaliação e treinamento, o treinador deverá encerrar o mesmo a partir de um relatório final indicando se:
