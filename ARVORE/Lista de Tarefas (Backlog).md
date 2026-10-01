@@ -6,16 +6,15 @@ kanban-plugin: board
 
 ## Fazer
 
-- [ ] permitir criação de scripts personalizados (como nos demais campos)
-- [ ] Ajuste da mensagem de saudação encaminhada ao Whats de acordo com o horário;
 - [ ] Na página de Formulário de Ocorrências, Elaborar alguns dos seguintes formulários: 
 	
 	- Cliente sem Contato - Importar do Guia Telecom;
 	- Relato de Atraso no Inicio da Rota
 	- Relato de Motivo de Hora Extra.
 	- Relato de Imprevisto na Rota
-- [ ] Corrigir Placeholder do Lider que fez a vistoria no Powermitter na parte de cadastro que está ausente
-- [ ] Reformule os principais icones do sistema seu animal
+- [ ] Adicionar em info passadas ao cliente na categoria de serviço prestado sobre as condições comerciais do segundo ponto e remanejamento de ativos.
+- [ ] Na sessão de Auxilio interno, adicionar um opção para "Retenção" e "Outros", além da supervisão e Torre.
+- [ ] Adicionar na sessão de parentesco, o valor de Pai/Mãe
 
 
 ## Fazendo
@@ -29,8 +28,12 @@ kanban-plugin: board
 ## Feito
 
 - [x] Adicionar a função de contagem de OS's separados por diário, Semanal e Mensal na dash da Home do app;
+- [ ] permitir criação de scripts personalizados (como nos demais campos)
 - [x] Inserir negrito no trecho do texto onde informa que o contato tem que ser feito no telefone da Etecc (não vai adiantar,  mas destacar mais nunca faz mal kkkk)
+- [ ] Ajuste da mensagem de saudação encaminhada ao Whats de acordo com o horário;
 - [ ] Campo no Script de OS completa que solicita o motivo de uma possível demora no atendimento, seja por fatores externos ou internos, que será adicionado no final da OS para auxiliar a analise de ofensores.
+- [ ] Corrigir Placeholder do Lider que fez a vistoria no Powermitter na parte de cadastro que está ausente
+- [ ] Reformule os principais icones do sistema seu animal
 - [x] Tirar o espaço no asterisco de negrito do final do nome do operador (se não tirar manualmente não dá o efeito na letra) - Estou conversando com o técnico para entender oque realmente é esse bug
 
 
