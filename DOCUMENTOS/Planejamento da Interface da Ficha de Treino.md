@@ -220,4 +220,34 @@ Cada ferramenta listada abaixo deve apresentar um card ou linha interativa com o
 > *"Declaro que demonstrei e acompanhei o uso prático das ferramentas assinaladas acima pelo técnico júnior."*
 
 ## Notas Gerais
+### 1. Estrutura Vertical e Hierarquia (Mobile)
+
+No mobile, o fluxo deve ser **100% vertical**, empilhando as informações de forma limpa, priorizando a leitura e o toque com os polegares.
+
+#### A. Topo Fixo (Sticky Header)
+
+* **Barra Superior Limpa:**
+* Botão Voltar / Menu hambúrguer.
+* Título compacto da tela (ex: *Notas Gerais*).
+#### B. Seção Principal (Regras de Negócio e Campos)
+
+* **Cards com Cantos Arredondados e Espaçamento Generoso:**
+* Campos com alvos de toque maiores (mínimo 48px de altura para botões e inputs).
+* Inputs numéricos com teclados específicos chamados pelo SO (ex: teclado numérico para notas/métricas).
+* Uso de *Dropdowns* no estilo **BottomSheet** (gaveta que sobe da parte inferior da tela), facilitando o toque com uma mão em vez de selects tradicionais de desktop.
+#### C. Soluções de UI para a "Caixa de Anotações do Treinador"
+
+Para a anotação livre no mobile, existem duas ótimas abordagens visuais. Escolha a que melhor se adapta ao fluxo do treinador:
+
+#### Opção 1: Card Fixo na Sequência da Rolagem (Recomendado)
+
+* O bloco de anotações fica localizado no final da página (ou logo abaixo do perfil/resumo do aluno).
+* **Textarea Adaptável:** Expande a altura conforme o treinador digita para não criar barra de rolagem interna (o que gera "scroll duplo" incômodo no celular).
+* **Barra de Ações Flutuante no Teclado:** Quando o teclado virtual sobe, aparece uma micro-barra com ícones de formatação rápida (negrito, lista) e o botão de salvar.
+
+#### Opção 2: Botão Flutuante + BottomSheet (Acesso Rápido)
+
+* **Floating Action Button (FAB):** Um botão redondo flutuante no canto inferior direito com ícone de lápis/bloco de notas.
+* Ao tocar no FAB, sobe um painel (*BottomSheet*) ocupando 70% da tela dedicado exclusivamente às anotações do treinador.
+* **Vantagem:** Permite ao treinador anotar de qualquer ponto da tela sem ter que rolar até o final da página.
 
