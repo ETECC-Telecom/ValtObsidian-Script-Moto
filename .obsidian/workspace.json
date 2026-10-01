@@ -52,6 +52,41 @@
             }
           },
           {
+            "id": "4c03fa54d4b1f7ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Componente Padrão LIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Componente Padrão LIT"
+            }
+          },
+          {
+            "id": "db6570158b60f411",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "ARVORE/Lista de Tarefas (Backlog).md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Lista de Tarefas (Backlog)"
+            }
+          },
+          {
             "id": "f334609860a6eb63",
             "type": "leaf",
             "state": {
@@ -317,15 +352,15 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "f334609860a6eb63",
+  "active": "4c03fa54d4b1f7ab",
   "lastOpenFiles": [
-    "ARVORE/Documentação Final.md",
-    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
-    "DOCUMENTOS/Componentes de Formulário.md",
     "ARVORE/Desenvolvimento.md",
     "ARVORE/Lista de Tarefas (Backlog).md",
-    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
+    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
+    "DOCUMENTOS/Componentes de Formulário.md",
+    "ARVORE/Documentação Final.md",
     "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
     "HOME.md",
