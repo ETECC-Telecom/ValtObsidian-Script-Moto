@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -352,11 +352,11 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "312ca8d6781347a2",
+  "active": "f334609860a6eb63",
   "lastOpenFiles": [
     "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
     "ARVORE/Lista de Tarefas (Backlog).md",
+    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
     "DOCUMENTOS/Componentes de Formulário.md",
     "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
