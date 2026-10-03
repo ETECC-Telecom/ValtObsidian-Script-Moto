@@ -37,6 +37,7 @@ Dump da estrutura de dados que usarei como referência para desenhar a interface
 	cronograma_evolucao_semanal:[
 		{
 			nome: "ciclo_01", //teremos por padrão 1º a 3º ciclo, e poderesmo adicionas mais;
+			descricao: null, //Descrição geral do ciclo que auxilia o técnico treinador
 			finalizada: false,
 			data_conclusao: null,
 			relatorios: [
