@@ -12,6 +12,7 @@ kanban-plugin: board
 	- Relato de Atraso no Inicio da Rota
 	- Relato de Motivo de Hora Extra.
 	- Relato de Imprevisto na Rota
+	- Relato de desvio de Rota - Qualquer deslocamento que for fazer ou quando estiver QAP
 - [ ] Adicionar em info passadas ao cliente na categoria de serviço prestado sobre as condições comerciais do segundo ponto e remanejamento de ativos.
 - [ ] Na sessão de Auxilio interno, adicionar um opção para "Retenção" e "Outros", além da supervisão e Torre.
 - [ ] Adicionar na sessão de parentesco, o valor de Pai/Mãe
