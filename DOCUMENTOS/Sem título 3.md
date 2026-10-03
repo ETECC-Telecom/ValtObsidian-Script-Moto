@@ -1,15 +1,15 @@
+# Relatório de Treino - 03/10/2026
+
+> [!cite] Ficha técnica
+> **Nome do Técnico**: Ricardo
+> **Nome do Treinador**: Raphael dos Anjos
+> **Data de Admisão**: 08/10/2026
+> **Data de inicio**: 02/10/2026
+> **Data de Previsão de Termino**: 13/11/2026
+> **Data de Termino**: Data Não Informada
+
 ## Cronograma da Evolução Semanal
 
-### Ciclo 1: Observação Logística e Habilidades Básicas - ❌
-
-> Foco: Adaptação inicial do treinando aos processos logísticos e aos conceitos fundamentais da função. O que observar: Pontualidade, acompanhamento de rotina, organização dos materiais/equipamentos e assimilação dos procedimentos básicos de trabalho.
-#### Relatórios do Ciclo:
-
-- Técnico é muito cabaço
-- Extremamente cabaço
-### Ciclo 2: Execução Supervisionada e Comportamental - ✅ 2026-10-03
-
-> Foco: Colocação da prática no dia a dia com acompanhamento direto e avaliação de postura profissional. O que observar: Execução correta das tarefas na prática, postura profissional, comunicação, capacidade de seguir orientações e autonomia progressiva.
-### Ciclo 3: Atendimento Solo com Auxílio Remoto - ❌
-
-> Foco: Validação final da autonomia do treinando em campo ou na operação. O que observar: Capacidade de realizar os atendimentos/tarefas de forma independente, resolução de imprevistos e uso correto dos canais de suporte remoto quando necessário.
+ > Não inicializado!
+ 
+ 
