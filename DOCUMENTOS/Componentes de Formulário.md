@@ -129,6 +129,28 @@ CSS
 }
 ```
 
+### Campo de Texto
+
+Código
+```html
+<textarea
+	@change=""
+	@input=""
+	placeholder=""
+	id="" name="" rows="" cols="" class="form-textarea"
+    .value=""></textarea>
+```
+
+CSS
+```css
+/* Customizações específicas do Textarea */
+.form-textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+```
+
+
 ````
 ### nome_formulario
 
