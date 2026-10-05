@@ -139,23 +139,9 @@
               "icon": "lucide-file",
               "title": "Planejamento da Interface da Ficha de Treino"
             }
-          },
-          {
-            "id": "5652f99329181e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Sem título 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título 3"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -352,19 +338,19 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "5652f99329181e53",
+  "active": "f334609860a6eb63",
   "lastOpenFiles": [
     "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
     "DOCUMENTOS/Sem título 3.md",
     "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
-    "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
     "ARVORE/Lista de Tarefas (Backlog).md",
     "DOCUMENTOS/Componentes de Formulário.md",
     "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "ARVORE/Desenvolvimento.md",
     "HOME.md",
     "ARVORE/Documentação Final.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
     "BASES/MocsHome.base",
     "ANEXOS/Pasted image 20260930130608.png",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
