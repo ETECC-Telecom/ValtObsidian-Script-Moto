@@ -55,6 +55,7 @@ Dump da estrutura de dados que usarei como referência para desenhar a interface
 					relatorio: [
 						{
 							titulo: null, //(-/+ nível) Data atr
+							elevado: false, // informa se foi adiciionado ou removido
 							descricao: null // Relato
 						}
 					] //Motivo de ter subido ou regredido o nível.
