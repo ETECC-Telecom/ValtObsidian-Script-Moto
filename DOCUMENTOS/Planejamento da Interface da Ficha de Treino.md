@@ -250,4 +250,3 @@ Para a anotação livre no mobile, existem duas ótimas abordagens visuais. Esco
 * **Floating Action Button (FAB):** Um botão redondo flutuante no canto inferior direito com ícone de lápis/bloco de notas.
 * Ao tocar no FAB, sobe um painel (*BottomSheet*) ocupando 70% da tela dedicado exclusivamente às anotações do treinador.
 * **Vantagem:** Permite ao treinador anotar de qualquer ponto da tela sem ter que rolar até o final da página.
-
