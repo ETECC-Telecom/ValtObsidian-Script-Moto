@@ -16,7 +16,9 @@ Modelo de modal padrão usado no sistema:
 html
 ```html
 <div class="container_modal_background">
-                
+	<div class="container_modal">
+	
+	</div>        
 </div>
 ```
 
@@ -44,4 +46,21 @@ CSS
     overscroll-behavior: contain;
 }
 
+.container_modal{
+    color: var(--btn-background-color);
+    padding: .5rem;
+    width: 90%;
+    border-radius: var(--border-radius);
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+    
+}
+
+/* Telas grandes: Desktops (a partir de 1024px de largura) */
+@media (min-width: 1024px) {
+    .container_modal {
+        width: 60%;
+    }
+}
 ```

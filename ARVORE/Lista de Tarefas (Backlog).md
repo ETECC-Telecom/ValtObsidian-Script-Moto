@@ -29,12 +29,12 @@ kanban-plugin: board
 ## Feito
 
 - [x] Adicionar a função de contagem de OS's separados por diário, Semanal e Mensal na dash da Home do app;
-- [ ] permitir criação de scripts personalizados (como nos demais campos)
+- [x] permitir criação de scripts personalizados (como nos demais campos)
 - [x] Inserir negrito no trecho do texto onde informa que o contato tem que ser feito no telefone da Etecc (não vai adiantar,  mas destacar mais nunca faz mal kkkk)
-- [ ] Ajuste da mensagem de saudação encaminhada ao Whats de acordo com o horário;
-- [ ] Campo no Script de OS completa que solicita o motivo de uma possível demora no atendimento, seja por fatores externos ou internos, que será adicionado no final da OS para auxiliar a analise de ofensores.
-- [ ] Corrigir Placeholder do Lider que fez a vistoria no Powermitter na parte de cadastro que está ausente
-- [ ] Reformule os principais icones do sistema seu animal
+- [x] Ajuste da mensagem de saudação encaminhada ao Whats de acordo com o horário;
+- [x] Campo no Script de OS completa que solicita o motivo de uma possível demora no atendimento, seja por fatores externos ou internos, que será adicionado no final da OS para auxiliar a analise de ofensores.
+- [x] Corrigir Placeholder do Lider que fez a vistoria no Powermitter na parte de cadastro que está ausente
+- [x] Reformule os principais icones do sistema seu animal
 - [x] Tirar o espaço no asterisco de negrito do final do nome do operador (se não tirar manualmente não dá o efeito na letra) - Estou conversando com o técnico para entender oque realmente é esse bug
 
 
