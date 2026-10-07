@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -330,11 +330,11 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "16770f0c75279a01",
+  "active": "f334609860a6eb63",
   "lastOpenFiles": [
+    "DOCUMENTOS/Modelo de Modal.md",
     "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Modelo de Modal.md",
     "DOCUMENTOS/Componentes de Formulário.md",
     "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
