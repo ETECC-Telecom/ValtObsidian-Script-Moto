@@ -786,7 +786,7 @@
     }
   ],
   "customCategories": [],
-  "selectedCategoryId": "requirementDiagram",
+  "selectedCategoryId": "classDiagram",
   "defaultCategorySortOrders": {},
   "categoryModifications": {},
   "defaultElementCategoryIds": [
