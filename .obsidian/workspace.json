@@ -141,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -337,19 +337,19 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "d7507e7d3bbe509e",
+  "active": "8ea20d0d10d5befb",
   "lastOpenFiles": [
-    "ARVORE/Lista de Tarefas (Backlog).md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Componentes de Formulário.md",
-    "DOCUMENTOS/Modelo de Modal.md",
-    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
-    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "DOCUMENTOS/Sem título 4.md",
+    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Modelo de Modal.md",
+    "ARVORE/Lista de Tarefas (Backlog).md",
+    "DOCUMENTOS/Componentes de Formulário.md",
+    "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "ARVORE/Desenvolvimento.md",
     "DOCUMENTOS/Drawing 2026-10-08 12.27.08.excalidraw.md",
     "DOCUMENTOS/Sem título 3.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
     "ARVORE/Documentação Final.md",
     "HOME.md",
