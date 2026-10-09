@@ -120,7 +120,9 @@ df gdfg dfg
  - [d]  **Identificação em Shaft/DIO (Mínimo Teórico)** - ❌ (Não Abordado)
 ### Configurações e Diagnóstico
 
- - [d]  **Configuração de Roteador / AP** - ❌ (Não Abordado)
+ - [p]  **Configuração de Roteador / AP** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** aaaaaaaaaaaaa
+    - **Ensinamento Teórico:** fsdfsdfsdfsdfsd
 
  - [d]  **Provisionamento de ONU / ONT** - ❌ (Não Abordado)
 
@@ -152,3 +154,46 @@ df gdfg dfg
  - [d]  **Gestão de Tempo em Campo** - ❌ (Não Abordado)
 
  - [d]  **Preenchimento de OS (Qualidade Etecc Conclusões)** - ❌ (Não Abordado)
+### Integração Digital
+
+ - [p]  **MK Agentes+ (Logística de OS)** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** fdsfsdfsdfsdfsd
+
+ - [d]  **INT6 (Provisionamento)** - ❌ (Não Abordado)
+
+ - [d]  **SpeedTest (Teste de Velocidade)** - ❌ (Não Abordado)
+
+ - [d]  **WiFiMan (Analise da rede WiFi)** - ❌ (Não Abordado)
+
+ - [d]  **Guia Telecom (Consultas)** - ❌ (Não Abordado)
+
+ - [d]  **Grupos WhatsApp** - ❌ (Não Abordado)
+
+ - [d]  **CentralOS: Aplicativo de baixa e gestão pessoal do técnico** - ❌ (Não Abordado)
+### Boas Práticas
+
+ - [p]  **Realização da Vistoria Semanal (Segunda-feira)** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** fds fsd fs fsd fds
+
+ - [p]  **Legenda de fotos e mapas de calor nos anexos** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** f sdf sdf sdf sdfsd 
+
+ - [p]  **Hábito de zerar o TRIP na troca de óleo** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** f dsfsd fsdf df sdf sd
+
+ - [p]  **Comunicação ativa de atrasos ou QAP** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** f sdfsd fsd f fsd s
+### Instruções de Trabalho
+
+ - [d]  **Registro correto de clientes sem contato** - ❌ (Não Abordado)
+
+ - [d]  **Registro via APP ou Deslocamento sobre Ofensores** - ❌ (Não Abordado)
+
+ - [p]  **Validação do RG para atendimento com menor de idade** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** tfgd gd d
+
+ - [p]  **Notificação a Retenção sobre trocas de Equipamento** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** muhehehe
+
+ - [p]  **Senhas padrões usadas nos Routers da Empresa** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** mostrado ao técnico como consultar essas informações dentro do Guia Telecom.
