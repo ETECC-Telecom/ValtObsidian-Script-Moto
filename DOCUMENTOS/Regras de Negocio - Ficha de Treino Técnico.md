@@ -113,7 +113,6 @@ As ferramentas até o momento são:
 
 - MK Agentes+ (Logística de OS)
 - INT6 (Provisionamento)
-- Etecc Conclusões (Scripts)
 - SpeedTest (Teste de Velocidade)
 - WiFiMan (Analise da rede WiFi)
 - Guia Telecom (Consultas)
@@ -136,7 +135,7 @@ As boas práticas são comportamentos esperados dos técnicos em campo durante s
 - Registro via APP ou Deslocamento sobre Ofensores; 
 - Validação do RG para atendimento com menor de idade para confirmação antes de iniciar a OS;
 - Notificação a Retenção sobre trocas de Equipamento;
-- Senhas padrões usadas nos Routers da Empresa (Informação consultada na página de c);
+- Senhas padrões usadas nos Routers da Empresa (Informação consultada na página de guia);
 ## Finalização do Treinamento
 
 Após o período de avaliação e treinamento, o treinador deverá encerrar o mesmo a partir de um relatório final indicando se:
