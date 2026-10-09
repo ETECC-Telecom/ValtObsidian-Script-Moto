@@ -64,7 +64,52 @@ CSS
     background-color: var(--destaque-color);
 }
 ```
+### Grupo de botão
 
+Código
+```html
+<div class="btn_group">
+    <button 
+        @click=""
+        type="button" style="background-color: var(--btn-background-color); color: var(--btn-background-color-invert)" class="form-button">Cancelar</button>
+    <button 
+        @click=""
+        type="button" class="form-button">Salvar</button>                        
+</div>
+```
+
+CSS
+```css
+.form-button {
+    -webkit-appearance: none;
+    appearance: none;
+    font-family: inherit;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: var(--destaque-color);
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 24px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    width: 100%;
+}
+
+.form-button:hover {
+    background-color: var(--destaque-color);
+}
+
+.form-button:active {
+    background-color: var(--destaque-color);
+}
+
+.btn_group{
+  display: flex;
+  flex-direction: row;
+  gap:1rem;
+}
+```
 ### Input de Texto
 
 Código
