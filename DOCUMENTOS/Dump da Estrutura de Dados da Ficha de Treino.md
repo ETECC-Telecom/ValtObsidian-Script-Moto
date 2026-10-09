@@ -85,7 +85,12 @@ Dump da estrutura de dados que usarei como referência para desenhar a interface
 		{
 			nome: null, //Nome da capacitação
 			data: null, //Data da conclusão
-			relatorio: null //Caso o técncio n conclua a capacitação, devemos justificar nesse relatório. 
+			relatorio: null, //Caso o técncio n conclua a capacitação, devemos justificar nesse relatório.
+			codigo_ci: null, //codigo de comunicado interno em caso de reciclagem/treinamento
+			categoria: null, //treinamento, reciclagem, cursos, fiberschool
+			plataforma: null, //fiberschool, nome de outras plataforma, ou etecc em caso de reciclagem ou treino interno.
+			local_treino: null, //Onde foi aplicado o treinamento/reciclagem
+			nota: 0, //VAlor quando aplicável (Treinamento/REciplagem)
 		}
 	],
 	integracao_ferramentas: [
