@@ -1,4 +1,4 @@
-# Relatório de Treino - 09/10/2026
+# Relatório de Treino - 14/10/2026
 
 > [!cite] Ficha técnica
 > **Nome do Técnico**: Ricardo
@@ -9,7 +9,7 @@
 > **Data de Termino**: Data Não Informada
 ## Cronograma da Evolução Semanal
 
-### Ciclo 1: Observação Logística e Habilidades Básicas - ❌
+### Ciclo 1: Observação Logística e Habilidades Básicas - ✅ 2026-10-14
 
 > Foco: Adaptação inicial do treinando aos processos logísticos e aos conceitos fundamentais da função. O que observar: Pontualidade, acompanhamento de rotina, organização dos materiais/equipamentos e assimilação dos procedimentos básicos de trabalho.
 ### Ciclo 2: Execução Supervisionada e Comportamental - ❌
@@ -99,7 +99,8 @@ options:
 
 ### Infraestrutura e Redes
 
- - [d]  **Crimpagem de Conector Fibra (APC/UPC)** - ❌ (09/10/2026)
+ - [p]  **Crimpagem de Conector Fibra (APC/UPC)** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** gdfdgfdgdfgd
     - **Não foi Ensinado:** Não foi possível
 
  - [p]  **Crimpagem de RJ11 (Telefonia)** - 🎓 (09/10/2026)
@@ -109,7 +110,8 @@ df gdfg dfg
  - [!]  **Crimpagem de RJ45 (Padrão de rede)** - 📖 (09/10/2026)
     - **Ensinamento Teórico:** gfhgrthtyhtht
 
- - [d]  **Leitura de Topologia de Rede Residencial** - ❌ (Não Abordado)
+ - [p]  **Leitura de Topologia de Rede Residencial** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** fdsfdsfsdfsd
 
  - [d]  **Limpeza de Conectores Ópticos** - ❌ (Não Abordado)
 
@@ -124,7 +126,8 @@ df gdfg dfg
     - **Ensinamento Prático:** aaaaaaaaaaaaa
     - **Ensinamento Teórico:** fsdfsdfsdfsdfsd
 
- - [d]  **Provisionamento de ONU / ONT** - ❌ (Não Abordado)
+ - [p]  **Provisionamento de ONU / ONT** - 🎓 (09/10/2026)
+    - **Ensinamento Prático:** fsdfsdfsdfsd
 
  - [d]  **Configuração de Wi-Fi (2.4GHz / 5GHz)** - ❌ (Não Abordado)
 
@@ -197,3 +200,20 @@ df gdfg dfg
 
  - [p]  **Senhas padrões usadas nos Routers da Empresa** - 🎓 (09/10/2026)
     - **Ensinamento Prático:** mostrado ao técnico como consultar essas informações dentro do Guia Telecom.
+
+## Capacitações
+
+### Capacitações FiberSchool
+
+- [d] **Atendimento Encantador**;
+
+- [p] **Fibra Óptica do Zero** - Finalizado em: 14/10/2026;
+    Dolore duo et dolor sed soluta aliquip eirmod. Et sed sit consequat dolor dolore sea amet option autem vel justo erat. Dolor lorem sit eos in aliquyam vero dolores accusam consequat duo veniam at no tempor dolor molestie justo et sed sea assum lorem. Sed vero sed voluptua duis dolor amet lorem ut dolore consequat dolore dolor lorem zzril eirmod. Vulputate at elitr erat stet sanctus sit ex.
+
+- [p] **Dominando o Ping** - Finalizado em: 14/10/2026;
+    Dolore duo et dolor sed soluta aliquip eirmod. Et sed sit consequat dolor dolore sea amet option autem vel justo erat. Dolor lorem sit eos in aliquyam vero dolores accusam consequat duo veniam at no tempor dolor molestie justo et sed sea assum lorem. Sed vero sed voluptua duis dolor amet lorem ut dolore consequat dolore dolor lorem zzril eirmod. Vulputate at elitr erat stet sanctus sit ex.
+
+### Outras Capacitações
+
+- [d] **Eletricista Residencial**;
+    Técnico aprendeu essa jossa
