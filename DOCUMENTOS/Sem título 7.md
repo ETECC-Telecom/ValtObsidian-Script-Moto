@@ -99,7 +99,11 @@ options:
 
 ### Infraestrutura e Redes
 
- - [d]  **Crimpagem de Conector Fibra (APC/UPC)** - ❌ (Não Abordado)
+ - [p]  **Crimpagem de Conector Fibra (APC/UPC)** - 🎓 (16/10/2026)
+    - **Ensinamento Prático:** Dolores justo dignissim autem luptatum tation wisi kasd nulla suscipit veniam at elitr et et stet dignissim et et sed et magna. Sanctus ut et dolore diam erat erat sea labore dolore ipsum luptatum elitr vero nam nostrud vero invidunt duis. Justo dolor delenit feugiat accusam vel vero diam odio duo ut no clita tempor exerci blandit. Dignissim te ipsum lorem ut sed dolor esse tempor id sea et consetetur sadipscing liber kasd. Dolor adipiscing consetetur wisi ut vero lorem in augue nisl elitr et consequat. Volutpat et dolores dolor ut et illum eos stet vero eos dolor et exerci sadipscing clita labore vero erat lorem.
+
+Dolores justo dignissim autem luptatum tation wisi kasd nulla suscipit veniam at elitr et et stet dignissim et et sed et magna. Sanctus ut et dolore diam erat erat sea labore dolore ipsum luptatum elitr vero nam nostrud vero invidunt duis. Justo dolor delenit feugiat accusam vel vero diam odio duo ut no clita tempor exerci blandit. Dignissim te ipsum lorem ut sed dolor esse tempor id sea et consetetur sadipscing liber kasd. Dolor adipiscing consetetur wisi ut vero lorem in augue nisl elitr et consequat. Volutpat et dolores dolor ut et illum eos stet vero eos dolor et exerci sadipscing clita labore vero erat lorem.
+
 
  - [d]  **Crimpagem de RJ11 (Telefonia)** - ❌ (Não Abordado)
 
@@ -187,8 +191,20 @@ options:
 
 ### Capacitações FiberSchool
 
-> [!question] Atendimento Encantador ;
+> [!done] Atendimento Encantador  - Finalizado em: 16/10/2026;
 
+[Relatório Inicial - DD/MM/AAAA]
+Descreva como foi a absorção do conteúdo e o desempenho geral durante o curso.
+
+[Atualizações e Aplicação em Campo]
+
+Utilize este espaço para registrar avanços, exemplos de uso da habilidade e acompanhamentos futuros.
+
+Exemplo de formato:
+
+- 10/08/2026: O técnico aplicou os conceitos do curso na manutenção preventiva do cliente X com total autonomia.
+
+- 15/09/2026: Demonstrou evolução no diagnóstico de falhas, reduzindo o tempo de atendimento.
 
 > [!done] Fibra Óptica do Zero  - Finalizado em: 16/10/2026;
 
