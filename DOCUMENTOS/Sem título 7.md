@@ -245,3 +245,5 @@ Exemplo de formato:
 
 - 15/09/2026: Demonstrou evolução no diagnóstico de falhas, reduzindo o tempo de atendimento.
 
+## Notas do Treinamento
+
