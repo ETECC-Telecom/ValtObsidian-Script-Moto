@@ -4,15 +4,15 @@
 > **Nome do Técnico**: Ricardo
 > **Nome do Treinador**: Raphael dos Anjos
 > **Data de Admisão**: Data Não Informada
-> **Data de inicio**: 08/10/2026
-> **Data de Previsão de Termino**: 05/11/2026
+> **Data de inicio**: 16/10/2026
+> **Data de Previsão de Termino**: 13/11/2026
 > **Data de Termino**: Data Não Informada
 ## Cronograma da Evolução Semanal
 
-### Ciclo 1: Observação Logística e Habilidades Básicas - ✅ 2026-10-14
+### Ciclo 1: Observação Logística e Habilidades Básicas - ❌
 
 > Foco: Adaptação inicial do treinando aos processos logísticos e aos conceitos fundamentais da função. O que observar: Pontualidade, acompanhamento de rotina, organização dos materiais/equipamentos e assimilação dos procedimentos básicos de trabalho.
-### Ciclo 2: Execução Supervisionada e Comportamental - ✅ 2026-10-16
+### Ciclo 2: Execução Supervisionada e Comportamental - ❌
 
 > Foco: Colocação da prática no dia a dia com acompanhamento direto e avaliação de postura profissional. O que observar: Execução correta das tarefas na prática, postura profissional, comunicação, capacidade de seguir orientações e autonomia progressiva.
 ### Ciclo 3: Atendimento Solo com Auxílio Remoto - ❌
@@ -31,10 +31,10 @@ type: Radar
 data:
 - item: "Comunicação"
   user: "Nível"
-  score: 1
+  score: 0
 - item: "Organização"
   user: "Nível"
-  score: 1
+  score: 0
 - item: "Inteligência Emocional"
   user: "Nível"
   score: 0
@@ -71,18 +71,14 @@ options:
   point: {}
   area: {}
 ```
-### Comunicação (**Nível**: 1)
+### Comunicação (**Nível**: 0)
 #### Relatórios:
 
-> [!tip] (+1) 15/10/2026
->fsdfsdfds
-
-### Organização (**Nível**: 1)
+> [!warning] Nenhum Relatório Anexado!
+### Organização (**Nível**: 0)
 #### Relatórios:
 
-> [!tip] (+1) 16/10/2026
->kgighkghk
-
+> [!warning] Nenhum Relatório Anexado!
 ### Inteligência Emocional (**Nível**: 0)
 #### Relatórios:
 
@@ -103,20 +99,13 @@ options:
 
 ### Infraestrutura e Redes
 
- - [p]  **Crimpagem de Conector Fibra (APC/UPC)** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** gdfdgfdgdfgd
-    - **Não foi Ensinado:** Não foi possível
+ - [d]  **Crimpagem de Conector Fibra (APC/UPC)** - ❌ (Não Abordado)
 
- - [p]  **Crimpagem de RJ11 (Telefonia)** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** Cara quebrou a cabeça mas foi ensinado
-df gdfg dfg 
+ - [d]  **Crimpagem de RJ11 (Telefonia)** - ❌ (Não Abordado)
 
- - [p]  **Crimpagem de RJ45 (Padrão de rede)** - 🎓 (16/10/2026)
-    - **Ensinamento Prático:** xcbccbgbg
-    - **Ensinamento Teórico:** gfhgrthtyhtht
+ - [d]  **Crimpagem de RJ45 (Padrão de rede)** - ❌ (Não Abordado)
 
- - [p]  **Leitura de Topologia de Rede Residencial** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** fdsfdsfsdfsd
+ - [d]  **Leitura de Topologia de Rede Residencial** - ❌ (Não Abordado)
 
  - [d]  **Limpeza de Conectores Ópticos** - ❌ (Não Abordado)
 
@@ -124,16 +113,12 @@ df gdfg dfg
 
  - [d]  **Remanejamento de DROP (Mínimo Teórico)** - ❌ (Não Abordado)
 
- - [!]  **Identificação em Shaft/DIO (Mínimo Teórico)** - 📖 (16/10/2026)
-    - **Ensinamento Teórico:** ngnhngn
+ - [d]  **Identificação em Shaft/DIO (Mínimo Teórico)** - ❌ (Não Abordado)
 ### Configurações e Diagnóstico
 
- - [p]  **Configuração de Roteador / AP** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** aaaaaaaaaaaaa
-    - **Ensinamento Teórico:** fsdfsdfsdfsdfsd
+ - [d]  **Configuração de Roteador / AP** - ❌ (Não Abordado)
 
- - [p]  **Provisionamento de ONU / ONT** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** fsdfsdfsdfsd
+ - [d]  **Provisionamento de ONU / ONT** - ❌ (Não Abordado)
 
  - [d]  **Configuração de Wi-Fi (2.4GHz / 5GHz)** - ❌ (Não Abordado)
 
@@ -165,8 +150,7 @@ df gdfg dfg
  - [d]  **Preenchimento de OS (Qualidade Etecc Conclusões)** - ❌ (Não Abordado)
 ### Integração Digital
 
- - [p]  **MK Agentes+ (Logística de OS)** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** fdsfsdfsdfsdfsd
+ - [d]  **MK Agentes+ (Logística de OS)** - ❌ (Não Abordado)
 
  - [d]  **INT6 (Provisionamento)** - ❌ (Não Abordado)
 
@@ -181,28 +165,67 @@ df gdfg dfg
  - [d]  **CentralOS: Aplicativo de baixa e gestão pessoal do técnico** - ❌ (Não Abordado)
 ### Boas Práticas
 
- - [p]  **Realização da Vistoria Semanal (Segunda-feira)** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** fds fsd fs fsd fds
+ - [d]  **Realização da Vistoria Semanal (Segunda-feira)** - ❌ (Não Abordado)
 
- - [p]  **Legenda de fotos e mapas de calor nos anexos** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** f sdf sdf sdf sdfsd 
+ - [d]  **Legenda de fotos e mapas de calor nos anexos** - ❌ (Não Abordado)
 
- - [p]  **Hábito de zerar o TRIP na troca de óleo** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** f dsfsd fsdf df sdf sd
+ - [d]  **Hábito de zerar o TRIP na troca de óleo** - ❌ (Não Abordado)
 
- - [p]  **Comunicação ativa de atrasos ou QAP** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** f sdfsd fsd f fsd s
+ - [d]  **Comunicação ativa de atrasos ou QAP** - ❌ (Não Abordado)
 ### Instruções de Trabalho
 
  - [d]  **Registro correto de clientes sem contato** - ❌ (Não Abordado)
 
  - [d]  **Registro via APP ou Deslocamento sobre Ofensores** - ❌ (Não Abordado)
 
- - [p]  **Validação do RG para atendimento com menor de idade** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** tfgd gd d
+ - [d]  **Validação do RG para atendimento com menor de idade** - ❌ (Não Abordado)
 
- - [p]  **Notificação a Retenção sobre trocas de Equipamento** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** muhehehe
+ - [d]  **Notificação a Retenção sobre trocas de Equipamento** - ❌ (Não Abordado)
 
- - [p]  **Senhas padrões usadas nos Routers da Empresa** - 🎓 (09/10/2026)
-    - **Ensinamento Prático:** mostrado ao técnico como consultar essas informações dentro do Guia Telecom.
+ - [d]  **Senhas padrões usadas nos Routers da Empresa** - ❌ (Não Abordado)
+## Capacitações
+
+### Capacitações FiberSchool
+
+> [!question] Atendimento Encantador ;
+
+
+> [!done] Fibra Óptica do Zero  - Finalizado em: 16/10/2026;
+
+
+
+[Relatório Inicial - DD/MM/AAAA]
+Descreva como foi a absorção do conteúdo e o desempenho geral durante o curso.
+
+[Atualizações e Aplicação em Campo]
+
+Utilize este espaço para registrar avanços, exemplos de uso da habilidade e acompanhamentos futuros.
+
+Exemplo de formato:
+
+- 10/08/2026: O técnico aplicou os conceitos do curso na manutenção preventiva do cliente X com total autonomia.
+
+- 15/09/2026: Demonstrou evolução no diagnóstico de falhas, reduzindo o tempo de atendimento.
+
+> [!question] Dominando o Ping ;
+
+
+### Outras Capacitações
+
+> [!done] Capacitacao em eletrotécncia   - Finalizado em: 16/10/2026;
+
+durante o treinamento
+
+[Relatório Inicial - DD/MM/AAAA]
+Descreva como foi a absorção do conteúdo e o desempenho geral durante o curso.
+
+[Atualizações e Aplicação em Campo]
+
+Utilize este espaço para registrar avanços, exemplos de uso da habilidade e acompanhamentos futuros.
+
+Exemplo de formato:
+
+- 10/08/2026: O técnico aplicou os conceitos do curso na manutenção preventiva do cliente X com total autonomia.
+
+- 15/09/2026: Demonstrou evolução no diagnóstico de falhas, reduzindo o tempo de atendimento.
+
