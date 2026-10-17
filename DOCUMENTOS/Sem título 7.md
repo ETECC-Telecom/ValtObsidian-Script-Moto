@@ -31,13 +31,13 @@ type: Radar
 data:
 - item: "Comunicação"
   user: "Nível"
-  score: 0
+  score: 2
 - item: "Organização"
   user: "Nível"
-  score: 0
+  score: 1
 - item: "Inteligência Emocional"
   user: "Nível"
-  score: 0
+  score: 1
 - item: "Uso de EPIs (Segurança)"
   user: "Nível"
   score: 0
@@ -71,18 +71,27 @@ options:
   point: {}
   area: {}
 ```
-### Comunicação (**Nível**: 0)
+### Comunicação (**Nível**: 2)
 #### Relatórios:
 
-> [!warning] Nenhum Relatório Anexado!
-### Organização (**Nível**: 0)
+> [!tip] (+1) 16/10/2026
+>fsdfsdfsdfsd
+
+> [!tip] (+2) 16/10/2026
+>fsdfsdfsdfsdfsd
+
+### Organização (**Nível**: 1)
 #### Relatórios:
 
-> [!warning] Nenhum Relatório Anexado!
-### Inteligência Emocional (**Nível**: 0)
+> [!tip] (+1) 16/10/2026
+>fsdfsdfsdfsdfsdfsd
+
+### Inteligência Emocional (**Nível**: 1)
 #### Relatórios:
 
-> [!warning] Nenhum Relatório Anexado!
+> [!tip] (+1) 16/10/2026
+>fdsfsdfsdfsd
+
 ### Uso de EPIs (Segurança) (**Nível**: 0)
 #### Relatórios:
 
@@ -247,3 +256,9 @@ Exemplo de formato:
 
 ## Notas do Treinamento
 
+#### Nota Nº 01
+Quis et et id invidunt aliquip ad adipiscing lorem labore erat assum sea feugait iriure quis et velit et at ipsum voluptua. Eros elitr imperdiet zzril facilisis. Nam eos blandit ea ut nihil sit clita at lorem ad veniam nulla. Ut nulla hendrerit consetetur justo ipsum sit est no diam dolore tation augue consequat at. Dolore ipsum amet invidunt nostrud dolor elitr qui invidunt stet dolore gubergren lorem et aliquam clita dolores aliquyam takimata dolor et facilisi consetetur.
+
+Quis et et id invidunt aliquip ad adipiscing lorem labore erat assum sea feugait iriure quis et velit et at ipsum voluptua. Eros elitr imperdiet zzril facilisis. Nam eos blandit ea ut nihil sit clita at lorem ad veniam nulla. Ut nulla hendrerit consetetur justo ipsum sit est no diam dolore tation augue consequat at. Dolore ipsum amet invidunt nostrud dolor elitr qui invidunt stet dolore gubergren lorem et aliquam clita dolores aliquyam takimata dolor et facilisi consetetur.
+#### Nota Nº 02
+Quis et et id invidunt aliquip ad adipiscing lorem labore erat assum sea feugait iriure quis et velit et at ipsum voluptua. Eros elitr imperdiet zzril facilisis. Nam eos blandit ea ut nihil sit clita at lorem ad veniam nulla. Ut nulla hendrerit consetetur justo ipsum sit est no diam dolore tation augue consequat at. Dolore ipsum amet invidunt nostrud dolor elitr qui invidunt stet dolore gubergren lorem et aliquam clita dolores aliquyam takimata dolor et facilisi consetetur.
