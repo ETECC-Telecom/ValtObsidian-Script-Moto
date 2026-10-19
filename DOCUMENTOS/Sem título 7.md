@@ -1,18 +1,51 @@
-# Relatório de Treino - 16/10/2026
+# Relatório de Treino - 17/10/2026
 
 > [!cite] Ficha técnica
-> **Nome do Técnico**: Ricardo
+> **Nome do Técnico**: teste
 > **Nome do Treinador**: Raphael dos Anjos
 > **Data de Admisão**: Data Não Informada
-> **Data de inicio**: 16/10/2026
-> **Data de Previsão de Termino**: 13/11/2026
+> **Data de inicio**: 17/10/2026
+> **Data de Previsão de Termino**: 14/11/2026
 > **Data de Termino**: Data Não Informada
+
+```chartsview
+#-----------------#
+#- chart type    -#
+#-----------------#
+type: Bar
+
+#-----------------#
+#- chart data    -#
+#-----------------#
+data:
+  - action: "Total"
+    Realizados: 56
+  - action: "Progressão"
+    Realizados: 14
+  - action: "Ciclos Realizados"
+    Realizados: 2
+  - action: "Softskills"
+    Realizados: 3
+  - action: "Habilidades"
+    Realizados: 8
+  - action: "Capacitações"
+    Realizados: 1
+
+#-----------------#
+#- chart options -#
+#-----------------#
+options:
+  xField: "Realizados"
+  yField: "action"
+  conversionTag: {}
+```
+
 ## Cronograma da Evolução Semanal
 
-### Ciclo 1: Observação Logística e Habilidades Básicas - ❌
+### Ciclo 1: Observação Logística e Habilidades Básicas - ✅ 2026-10-17
 
 > Foco: Adaptação inicial do treinando aos processos logísticos e aos conceitos fundamentais da função. O que observar: Pontualidade, acompanhamento de rotina, organização dos materiais/equipamentos e assimilação dos procedimentos básicos de trabalho.
-### Ciclo 2: Execução Supervisionada e Comportamental - ❌
+### Ciclo 2: Execução Supervisionada e Comportamental - ✅ 2026-10-17
 
 > Foco: Colocação da prática no dia a dia com acompanhamento direto e avaliação de postura profissional. O que observar: Execução correta das tarefas na prática, postura profissional, comunicação, capacidade de seguir orientações e autonomia progressiva.
 ### Ciclo 3: Atendimento Solo com Auxílio Remoto - ❌
@@ -31,10 +64,10 @@ type: Radar
 data:
 - item: "Comunicação"
   user: "Nível"
-  score: 2
+  score: 1
 - item: "Organização"
   user: "Nível"
-  score: 1
+  score: 2
 - item: "Inteligência Emocional"
   user: "Nível"
   score: 1
@@ -71,26 +104,26 @@ options:
   point: {}
   area: {}
 ```
-### Comunicação (**Nível**: 2)
+### Comunicação (**Nível**: 1)
 #### Relatórios:
 
-> [!tip] (+1) 16/10/2026
+> [!tip] (+1) 17/10/2026
 >fsdfsdfsdfsd
 
-> [!tip] (+2) 16/10/2026
->fsdfsdfsdfsdfsd
-
-### Organização (**Nível**: 1)
+### Organização (**Nível**: 2)
 #### Relatórios:
 
-> [!tip] (+1) 16/10/2026
->fsdfsdfsdfsdfsdfsd
+> [!tip] (+1) 17/10/2026
+>fsdfsdfsdfsd
+
+> [!tip] (+2) 17/10/2026
+>fdsfsdfsd
 
 ### Inteligência Emocional (**Nível**: 1)
 #### Relatórios:
 
-> [!tip] (+1) 16/10/2026
->fdsfsdfsdfsd
+> [!tip] (+1) 17/10/2026
+>fdsfsdfsdfds
 
 ### Uso de EPIs (Segurança) (**Nível**: 0)
 #### Relatórios:
@@ -108,25 +141,25 @@ options:
 
 ### Infraestrutura e Redes
 
- - [p]  **Crimpagem de Conector Fibra (APC/UPC)** - 🎓 (16/10/2026)
-    - **Ensinamento Prático:** Dolores justo dignissim autem luptatum tation wisi kasd nulla suscipit veniam at elitr et et stet dignissim et et sed et magna. Sanctus ut et dolore diam erat erat sea labore dolore ipsum luptatum elitr vero nam nostrud vero invidunt duis. Justo dolor delenit feugiat accusam vel vero diam odio duo ut no clita tempor exerci blandit. Dignissim te ipsum lorem ut sed dolor esse tempor id sea et consetetur sadipscing liber kasd. Dolor adipiscing consetetur wisi ut vero lorem in augue nisl elitr et consequat. Volutpat et dolores dolor ut et illum eos stet vero eos dolor et exerci sadipscing clita labore vero erat lorem.
-
-Dolores justo dignissim autem luptatum tation wisi kasd nulla suscipit veniam at elitr et et stet dignissim et et sed et magna. Sanctus ut et dolore diam erat erat sea labore dolore ipsum luptatum elitr vero nam nostrud vero invidunt duis. Justo dolor delenit feugiat accusam vel vero diam odio duo ut no clita tempor exerci blandit. Dignissim te ipsum lorem ut sed dolor esse tempor id sea et consetetur sadipscing liber kasd. Dolor adipiscing consetetur wisi ut vero lorem in augue nisl elitr et consequat. Volutpat et dolores dolor ut et illum eos stet vero eos dolor et exerci sadipscing clita labore vero erat lorem.
-
+ - [p]  **Crimpagem de Conector Fibra (APC/UPC)** - 🎓 (17/10/2026)
+    - **Ensinamento Prático:** fdfdsfds
 
  - [d]  **Crimpagem de RJ11 (Telefonia)** - ❌ (Não Abordado)
 
- - [d]  **Crimpagem de RJ45 (Padrão de rede)** - ❌ (Não Abordado)
+ - [p]  **Crimpagem de RJ45 (Padrão de rede)** - 🎓 (17/10/2026)
+    - **Ensinamento Prático:** fsdfsdfsd
 
  - [d]  **Leitura de Topologia de Rede Residencial** - ❌ (Não Abordado)
 
  - [d]  **Limpeza de Conectores Ópticos** - ❌ (Não Abordado)
 
- - [d]  **Identificação de Atenuação Anormal** - ❌ (Não Abordado)
+ - [p]  **Identificação de Atenuação Anormal** - 🎓 (17/10/2026)
+    - **Ensinamento Prático:** fsdfsdfsd
 
  - [d]  **Remanejamento de DROP (Mínimo Teórico)** - ❌ (Não Abordado)
 
- - [d]  **Identificação em Shaft/DIO (Mínimo Teórico)** - ❌ (Não Abordado)
+ - [p]  **Identificação em Shaft/DIO (Mínimo Teórico)** - 🎓 (17/10/2026)
+    - **Ensinamento Prático:** fsdfsdfds
 ### Configurações e Diagnóstico
 
  - [d]  **Configuração de Roteador / AP** - ❌ (Não Abordado)
@@ -148,9 +181,11 @@ Dolores justo dignissim autem luptatum tation wisi kasd nulla suscipit veniam at
  - [d]  **Redirecionamento de Portas (Mínimo Teórico)** - ❌ (Não Abordado)
 ### Execução Operacional
 
- - [d]  **Identificação de Fontes (Amperagem/Voltagem)** - ❌ (Não Abordado)
+ - [p]  **Identificação de Fontes (Amperagem/Voltagem)** - 🎓 (17/10/2026)
+    - **Ensinamento Prático:** sdfsdfsdfds
 
- - [d]  **Identificação de Falha Física (UTP e Fibra)** - ❌ (Não Abordado)
+ - [p]  **Identificação de Falha Física (UTP e Fibra)** - 🎓 (17/10/2026)
+    - **Ensinamento Prático:** fdsdfsdfsdfsd
 
  - [d]  **Configuração de TV (TipPlay / Sky+)** - ❌ (Não Abordado)
 
@@ -160,7 +195,10 @@ Dolores justo dignissim autem luptatum tation wisi kasd nulla suscipit veniam at
 
  - [d]  **Gestão de Tempo em Campo** - ❌ (Não Abordado)
 
- - [d]  **Preenchimento de OS (Qualidade Etecc Conclusões)** - ❌ (Não Abordado)
+ - [d]  **Preenchimento de OS (Qualidade CentralOS)** - ❌ (Não Abordado)
+
+ - [p]  **Solicitar ao cliente para demonstrar a Dificuldade no local e registrar corretamente o resultado** - 🎓 (17/10/2026)
+    - **Ensinamento Prático:** dfsfdsfsdfsd
 ### Integração Digital
 
  - [d]  **MK Agentes+ (Logística de OS)** - ❌ (Não Abordado)
@@ -185,13 +223,18 @@ Dolores justo dignissim autem luptatum tation wisi kasd nulla suscipit veniam at
  - [d]  **Hábito de zerar o TRIP na troca de óleo** - ❌ (Não Abordado)
 
  - [d]  **Comunicação ativa de atrasos ou QAP** - ❌ (Não Abordado)
+
+ - [d]  **Calibrar Pneu na troca de óleo (33 Traseiro / 30 frontal)** - ❌ (Não Abordado)
+
+ - [d]  **Atualizar o App a cada 5min quando estiver em QAP** - ❌ (Não Abordado)
 ### Instruções de Trabalho
 
  - [d]  **Registro correto de clientes sem contato** - ❌ (Não Abordado)
 
  - [d]  **Registro via APP ou Deslocamento sobre Ofensores** - ❌ (Não Abordado)
 
- - [d]  **Validação do RG para atendimento com menor de idade** - ❌ (Não Abordado)
+ - [p]  **Validação do RG para atendimento com menor de idade** - 🎓 (17/10/2026)
+    - **Ensinamento Prático:** fdsfsdfsdfsd
 
  - [d]  **Notificação a Retenção sobre trocas de Equipamento** - ❌ (Não Abordado)
 
@@ -200,65 +243,19 @@ Dolores justo dignissim autem luptatum tation wisi kasd nulla suscipit veniam at
 
 ### Capacitações FiberSchool
 
-> [!done] Atendimento Encantador  - Finalizado em: 16/10/2026;
+> [!done] Atendimento Encantador  - Finalizado em: 17/10/2026;
 
-[Relatório Inicial - DD/MM/AAAA]
-Descreva como foi a absorção do conteúdo e o desempenho geral durante o curso.
+adsfsdfsd
 
-[Atualizações e Aplicação em Campo]
+> [!question] Fibra Óptica do Zero ;
 
-Utilize este espaço para registrar avanços, exemplos de uso da habilidade e acompanhamentos futuros.
-
-Exemplo de formato:
-
-- 10/08/2026: O técnico aplicou os conceitos do curso na manutenção preventiva do cliente X com total autonomia.
-
-- 15/09/2026: Demonstrou evolução no diagnóstico de falhas, reduzindo o tempo de atendimento.
-
-> [!done] Fibra Óptica do Zero  - Finalizado em: 16/10/2026;
-
-
-
-[Relatório Inicial - DD/MM/AAAA]
-Descreva como foi a absorção do conteúdo e o desempenho geral durante o curso.
-
-[Atualizações e Aplicação em Campo]
-
-Utilize este espaço para registrar avanços, exemplos de uso da habilidade e acompanhamentos futuros.
-
-Exemplo de formato:
-
-- 10/08/2026: O técnico aplicou os conceitos do curso na manutenção preventiva do cliente X com total autonomia.
-
-- 15/09/2026: Demonstrou evolução no diagnóstico de falhas, reduzindo o tempo de atendimento.
 
 > [!question] Dominando o Ping ;
 
 
 ### Outras Capacitações
 
-> [!done] Capacitacao em eletrotécncia   - Finalizado em: 16/10/2026;
-
-durante o treinamento
-
-[Relatório Inicial - DD/MM/AAAA]
-Descreva como foi a absorção do conteúdo e o desempenho geral durante o curso.
-
-[Atualizações e Aplicação em Campo]
-
-Utilize este espaço para registrar avanços, exemplos de uso da habilidade e acompanhamentos futuros.
-
-Exemplo de formato:
-
-- 10/08/2026: O técnico aplicou os conceitos do curso na manutenção preventiva do cliente X com total autonomia.
-
-- 15/09/2026: Demonstrou evolução no diagnóstico de falhas, reduzindo o tempo de atendimento.
-
 ## Notas do Treinamento
 
 #### Nota Nº 01
-Quis et et id invidunt aliquip ad adipiscing lorem labore erat assum sea feugait iriure quis et velit et at ipsum voluptua. Eros elitr imperdiet zzril facilisis. Nam eos blandit ea ut nihil sit clita at lorem ad veniam nulla. Ut nulla hendrerit consetetur justo ipsum sit est no diam dolore tation augue consequat at. Dolore ipsum amet invidunt nostrud dolor elitr qui invidunt stet dolore gubergren lorem et aliquam clita dolores aliquyam takimata dolor et facilisi consetetur.
-
-Quis et et id invidunt aliquip ad adipiscing lorem labore erat assum sea feugait iriure quis et velit et at ipsum voluptua. Eros elitr imperdiet zzril facilisis. Nam eos blandit ea ut nihil sit clita at lorem ad veniam nulla. Ut nulla hendrerit consetetur justo ipsum sit est no diam dolore tation augue consequat at. Dolore ipsum amet invidunt nostrud dolor elitr qui invidunt stet dolore gubergren lorem et aliquam clita dolores aliquyam takimata dolor et facilisi consetetur.
-#### Nota Nº 02
-Quis et et id invidunt aliquip ad adipiscing lorem labore erat assum sea feugait iriure quis et velit et at ipsum voluptua. Eros elitr imperdiet zzril facilisis. Nam eos blandit ea ut nihil sit clita at lorem ad veniam nulla. Ut nulla hendrerit consetetur justo ipsum sit est no diam dolore tation augue consequat at. Dolore ipsum amet invidunt nostrud dolor elitr qui invidunt stet dolore gubergren lorem et aliquam clita dolores aliquyam takimata dolor et facilisi consetetur.
+Clita iriure accumsan esse magna dolores te voluptua accusam magna sanctus vel stet magna enim vero diam sed rebum dolore rebum wisi ipsum accusam. Labore sadipscing eos elitr commodo et dolore. Id veniam veniam takimata et dolore accusam at consequat diam veniam duis sea tempor diam dolore wisi gubergren sadipscing iusto sit. Et ut lorem nonumy elitr nonumy. Eleifend sanctus lorem elitr clita lorem placerat lorem ipsum sanctus suscipit facer sea hendrerit no hendrerit. Aliquam qui ipsum suscipit magna labore amet ea aliquip accusam feugiat dolore laoreet no. Et aliquyam vulputate sadipscing sed takimata molestie in soluta.

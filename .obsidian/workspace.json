@@ -284,16 +284,6 @@
               "icon": "lucide-tags",
               "title": "Etiquetas"
             }
-          },
-          {
-            "id": "a9ef04e203778ba1",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
         ],
         "currentTab": 1
