@@ -64,11 +64,12 @@ https://uiverse.io/xXJollyHAKERXx/lucky-falcon-75
 ## UI (Interface Visual)
 
 ![[Mootherboard da Interface.canvas]]
+- [[Iconografias do Sistema]]
 - [[Design/UI/Design System]]
 - [[Design/UI/Cores]]
 - [[Design/UI/Tipografia]]
 - [[Design/UI/Componentes]]
-- [[Design/UI/Iconografia]]
+
 ## Experiência do Usuário (UX)
 
 - [[Design/UX/Heurísticas]]

@@ -341,6 +341,105 @@ CSS
 }
 ```
 
+### Callouts
+
+Código
+```html
+<div class="callout callout-warning">
+    <div class="callout-icon">
+        ⚠️
+    </div>
+    <div class="callout-content">
+        <h4 class="callout-title">Atenção Necessária</h4>
+        <p>Este é um aviso importante. Certifique-se de conferir todos os dados antes de prosseguir.</p>
+    </div>
+</div>
+```
+
+CSS
+```css
+/* Estilo Base da Div Callout */
+.callout {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 8px;
+    border-left: 5px solid; /* Borda de destaque na esquerda */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Tamanho e alinhamento do ícone */
+.callout-icon {
+    font-size: 1.25rem;
+    line-height: 1.2;
+    flex-shrink: 0; /* Impede o ícone de encolher */
+}
+
+/* Conteúdo de texto */
+.callout-content {
+    flex: 1;
+}
+
+.callout-title {
+    margin: 0 0 4px 0;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.callout-content p {
+    margin: 0;
+    font-size: 0.925rem;
+    line-height: 1.5;
+}
+
+/* ==============================================
+   ESTILO ESPECÍFICO: AVISO / ALERTA (WARNING)
+   ============================================== */
+.callout-warning {
+    background-color: #fffbeb; /* Fundo amarelo suave */
+    border-color: #f59e0b;     /* Borda amarela/laranja */
+    color: #78350f;            /* Texto num tom escuro contrastante */
+}
+
+.callout-warning .callout-title {
+    color: #92400e;            /* Título um pouco mais destacado */
+}
+
+/* Responsividade para telas muito pequenas */
+@media (max-width: 480px) {
+    .callout {
+        padding: 12px 16px;
+        gap: 12px;
+    }
+}
+```
+
+```css
+/* Variação: Informação (Azul) */
+.callout-info {
+    background-color: #eff6ff;
+    border-color: #3b82f6;
+    color: #1e3a8a;
+}
+
+/* Variação: Sucesso (Verde) */
+.callout-success {
+    background-color: #f0fdf4;
+    border-color: #22c55e;
+    color: #14532d;
+}
+
+/* Variação: Erro/Perigo (Vermelho) */
+.callout-danger {
+    background-color: #fef2f2;
+    border-color: #ef4444;
+    color: #7f1d1d;
+}
+```
+
 ````
 ### nome_formulario
 
