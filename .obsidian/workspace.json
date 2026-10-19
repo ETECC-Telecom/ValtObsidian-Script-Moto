@@ -125,23 +125,9 @@
               "icon": "excalidraw-icon",
               "title": "Pagina Inicial de Treino.excalidraw"
             }
-          },
-          {
-            "id": "1422abbe40aa8c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Sem título 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título 7"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -327,10 +313,10 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "1422abbe40aa8c40",
+  "active": "312ca8d6781347a2",
   "lastOpenFiles": [
-    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
     "DOCUMENTOS/Sem título 7.md",
+    "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
     "DOCUMENTOS/Componentes de Formulário.md",
     "DOCUMENTOS/Modelo de Modal.md",
     "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
