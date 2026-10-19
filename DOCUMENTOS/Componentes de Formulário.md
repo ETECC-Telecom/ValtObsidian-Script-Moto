@@ -261,6 +261,86 @@ CSS
 }
 ```
 
+### Duplo RadioButton
+
+Código
+```html
+<div class="radio-container">
+    <label class="radio-box aprovado">
+        <input type="radio" name="status" value="aprovado">
+        <span>Aprovado</span>
+    </label>
+    
+    <label class="radio-box reprovado">
+        <input type="radio" name="status" value="reprovado">
+        <span>Reprovado</span>
+    </label>
+</div>
+```
+
+CSS
+```css
+/* Container principal responsivo */
+.radio-container {
+    display: flex;
+    gap: 15px; /* Espaço entre os botões */
+    width: 100%;
+    max-width: 400px; /* Ajuste conforme a sua necessidade */
+}
+
+/* Estilo base para os botões */
+.radio-box {
+    flex: 1; /* Faz com que ambos ocupem o mesmo espaço proporcionalmente */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+/* Esconde o radio button nativo padrão */
+.radio-box input[type="radio"] {
+    display: none;
+}
+
+/* Estilo específico: APROVADO (cores neutras que mudam ao selecionar) */
+.radio-box.aprovado {
+    background-color: #f0fdf4;
+    border-color: #bbf7d0;
+    color: #166534;
+}
+
+.radio-box.aprovado input:checked + span,
+.radio-box.aprovado:has(input:checked) {
+    background-color: #22c55e;
+    color: #ffffff;
+    border-color: #16a34a;
+}
+
+/* Estilo específico: REPROVADO */
+.radio-box.reprovado {
+    background-color: #fef2f2;
+    border-color: #fecaca;
+    color: #991b1b;
+}
+
+.radio-box.reprovado input:checked + span,
+.radio-box.reprovado:has(input:checked) {
+    background-color: #ef4444;
+    color: #ffffff;
+    border-color: #dc2626;
+}
+
+/* Efeito ao passar o mouse */
+.radio-box:hover {
+    opacity: 0.9;
+}
+```
+
 ````
 ### nome_formulario
 

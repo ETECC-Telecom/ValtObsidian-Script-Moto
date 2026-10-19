@@ -30,7 +30,7 @@ CSS
     left: 0;
     width: 100vw;
     height: 100vh;
-    z-index: 9999;
+    z-index: 5000;
 
     /* Centraliza o modal na tela */
     display: flex;
