@@ -45,6 +45,7 @@ A ideia surgiu de um APP que já existe no setor, porém foge de meu controle, i
 - [[Regras de Negocio - Abertura e Fechamento de auditoria externa pós atendimento]]
 - [[Regras de Negocio - Abertura e Fechamento de Auditoria Externa Acompanhada]]
 - [[Regras de Negocio - Ficha de Treino Técnico]]
+- [[Regras de Negocio - Ficha RPC]]
 ## Descrição dos Casos de Uso
 
 ![[Casos de Uso.base]]

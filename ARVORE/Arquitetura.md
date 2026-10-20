@@ -44,6 +44,7 @@ Modelo de Exemplo:
 [[Fluxo do Usuário - Encaminhar Relatório dos Testes]]
 ### Diagramas
 *se quiser usar Mermaid, deixe pré-formatado*
+
 ## Dependências
 
 Liste todas as libs e frameworks necessários.

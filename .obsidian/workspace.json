@@ -24,21 +24,105 @@
             }
           },
           {
-            "id": "63d8aab49143e8a7",
+            "id": "9f0dcdd3a089bf41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARVORE/Deploy(Entrega).md",
+                "file": "ARVORE/Desenvolvimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deploy(Entrega)"
+              "title": "Desenvolvimento"
+            }
+          },
+          {
+            "id": "3449d32d9e19213d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARVORE/Anexos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anexos"
+            }
+          },
+          {
+            "id": "f018c75a130a2946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Dump da estrutura de dados da Ficha de progressão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dump da estrutura de dados da Ficha de progressão"
+            }
+          },
+          {
+            "id": "05765c8cc7986cb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Planejamento da Gestão de Progressão Técnica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento da Gestão de Progressão Técnica"
+            }
+          },
+          {
+            "id": "5bb4d4be56efe146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARVORE/Desenvolvimento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desenvolvimento"
+            }
+          },
+          {
+            "id": "88399a60f841a144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARVORE/Planejamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento"
+            }
+          },
+          {
+            "id": "351c3cb70489563b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Regras de Negocio - Ficha RPC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regras de Negocio - Ficha RPC"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,14 +308,22 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "63d8aab49143e8a7",
+  "active": "f018c75a130a2946",
   "lastOpenFiles": [
+    "DOCUMENTOS/Planejamento da Gestão de Progressão Técnica.md",
+    "ARVORE/Desenvolvimento.md",
+    "ARVORE/Planejamento.md",
+    "DOCUMENTOS/Regras de Negocio - Ficha RPC.md",
+    "DOCUMENTOS/Dump da estrutura de dados da Ficha de progressão.md",
     "HOME.md",
-    "ARVORE/Design.md",
+    "ARVORE/Arquitetura.md",
     "ARVORE/Documentação Final.md",
+    "ARVORE/Anexos.md",
+    "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
+    "ARVORE/Deploy(Entrega).md",
+    "ARVORE/Design.md",
     "ARVORE/Testes.md",
     "DOCUMENTOS/Iconografias do Sistema.md",
-    "ARVORE/Planejamento.md",
     "ANEXOS/Pasted image 20261019163954.png",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "ARVORE/Lista de Tarefas (Backlog).md",
@@ -241,20 +333,13 @@
     "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
     "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
-    "DOCUMENTOS/Sem título 7.md",
     "DOCUMENTOS/Sem título 6.md",
     "DOCUMENTOS/Sem título 5.md",
     "DOCUMENTOS/Sem título 4.md",
-    "ARVORE/Desenvolvimento.md",
     "DOCUMENTOS/Drawing 2026-10-08 12.27.08.excalidraw.md",
     "DOCUMENTOS/Sem título 3.md",
-    "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
     "BASES/MocsHome.base",
     "ANEXOS/Pasted image 20260930130608.png",
-    "DOCUMENTOS/Planejamento da Página de Treino.md",
-    "DOCUMENTOS/Planejamento do Desbloqueio por PIN.md",
-    "ARVORE/Arquitetura.md",
-    "ARVORE/Anexos.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
