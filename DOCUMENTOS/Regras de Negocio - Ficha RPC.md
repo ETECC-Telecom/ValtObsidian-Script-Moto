@@ -29,7 +29,15 @@ Cada registro de ficha RPC estará gravada em uma planilha de dados simples cont
 Quando um item é sincronizado ele possui dois atributos de controle principais:
 
 - **data_mod**: codigo da ultima modificação do objeto contendo um código resumido de (DDMMAAAAHHMMSS).
-- **ultima_mod_sinc**: código sincronizado da planilha. Quando abrimos a página de gestão das fichas, ele verifica todos os registros cadastrados, e valida se precisam ser enviados a planilha para se manterem sincronizados. 
+- **ultima_mod_sinc**: código sincronizado da planilha.
+
+Antes de qualquer modificação na ficha local, devemos verificar atualizações.
+
+Quando abrimos a página das fichas e clicamos em verificar, ele baixa o código (Data Atualização) de todos os registros de ficha, e compara com as **ultima_mod_sinc** locais. Se tivermos códigos divergentes, significa que o item da planilha foi alterada e deve ser sincronizada novamente para substituir a ficha local. Apenas após essa sincronização, poderemos editar uma ficha. 
+
+Quando entramos na ficha e editamos qualquer coisa, ela altera o codigo de **data_mod**, e quando esse código diverge do código **ultima_mod_sinc** da mesma ficha, significa que ela deverá ser upada a planilha para manter a atualização. 
+
+Ou seja, quando data_mod e ultima_mod_sinc são iguais, significa que a planilha e o banco local estão sincronizados.
 ## Linha do Tempo Evolutiva
 
 Cada objeto responsável por uma categoria de atributo irá fornecer a classe uma lista com os dados evolutivos do técnico. Após receber diversos desses dados o algoritmo irá organizá-lo em uma ordem cronológica para montar uma linha do tempo evolucional.
