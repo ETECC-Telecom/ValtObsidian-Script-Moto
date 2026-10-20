@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -308,17 +308,18 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "f018c75a130a2946",
+  "active": "351c3cb70489563b",
   "lastOpenFiles": [
-    "DOCUMENTOS/Planejamento da Gestão de Progressão Técnica.md",
+    "DOCUMENTOS/Dump da estrutura de dados da Ficha de progressão.md",
+    "DOCUMENTOS/Regras de Negocio - Ficha RPC.md",
     "ARVORE/Desenvolvimento.md",
     "ARVORE/Planejamento.md",
-    "DOCUMENTOS/Regras de Negocio - Ficha RPC.md",
-    "DOCUMENTOS/Dump da estrutura de dados da Ficha de progressão.md",
+    "ARVORE/Anexos.md",
+    "DOCUMENTOS/Planejamento da Gestão de Progressão Técnica.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "HOME.md",
     "ARVORE/Arquitetura.md",
     "ARVORE/Documentação Final.md",
-    "ARVORE/Anexos.md",
     "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
     "ARVORE/Deploy(Entrega).md",
     "ARVORE/Design.md",
@@ -331,7 +332,6 @@
     "DOCUMENTOS/Modelo de Modal.md",
     "DOCUMENTOS/Componentes de Formulário.md",
     "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Sem título 6.md",
     "DOCUMENTOS/Sem título 5.md",
