@@ -43,6 +43,9 @@ w5AVbLQeywzE8i1bsakmVZFGehvfiwCbrzNwcJYl3KY0wZD4XR
 - 🟡 **Melhorias:** Otimizações de desempenho ou na interface (UI/UX).
 - 🔴 **Correções (Bug Fixes):** Problemas resolvidos.
 ### Histórico
+- **v0.1.0 - 20 Outubro, 2026**
+	- 🟢 Desenvolvido uma nova página para criação e gestão da ficha de treinamento técnico;
+	- 🟡 Reformulado alguns ícones do sistema;
 - **v0.0.8 - 01 Outubro, 2026**
 	- 🔴 Corrigido erro de encerramento de script para entrega de Chip que adicionava ao script o titulo de LOS;
 	- 🟡 Melhorado ícones da página de iniciar nova OS;
