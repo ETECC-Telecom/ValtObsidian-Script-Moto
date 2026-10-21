@@ -24,20 +24,27 @@ Auxiliar de Suporte Externo -> Assistente de Suporte Externo
 Esses atributos de progressão são calculados automaticamente quando aberto a ficha. E é responsabilidade da classe pai calcular essas regras de negocio. 
 ## Sincronismo com a Planilha
 
-Cada registro de ficha RPC estará gravada em uma planilha de dados simples contendo as colunas: UUID, Nome, Data Atualização, e Payload (dados de estrutura do objeto geral da ficha). Quando um lider abre os registros de fichas, eles fazem um sinc entre o app e essa planilha que solicita todos os cadastros da ficha. 
+Cada registro de ficha RPC estará gravada em uma planilha de dados simples contendo as colunas: 
+- **uuid**: Identificador único e permanente da ficha.
+- **versao**: Versão atual do registro na planilha, incrementada pelo backend após cada gravação confirmada.
+- **modificacao**:	Contador local que aumenta a cada alteração realizada na ficha.
+- **lock**: Indica se a ficha está bloqueada para edição por outro usuário.
+- **lock_owner**: Identifica o líder que obteve o bloqueio.
+- **payload**: Contém os dados completos da ficha RPC.
 
-Quando um item é sincronizado ele possui dois atributos de controle principais:
+Ao abrir a página de lista da ficha, o sistema consulta na planilha o lock de todas as fichas, e trava elas para edição caso **lock** for verdadeiro. O que gera o lock é a ação de edição do líder sobre uma ficha especifica. Quando clicamos em uma ficha para edição, o sistema pergunta a planilha se essa ficha pode ser editada, caso ainda esteja verdadeira, ele retorna true e então, modificamos o estado dela na planilha para false e o nome do líder editor em lock_owner. Apenas o líder editor poderá abrir a ficha para edição.
 
-- **data_mod**: codigo da ultima modificação do objeto contendo um código resumido de (DDMMAAAAHHMMSS).
-- **ultima_mod_sinc**: código sincronizado da planilha.
+Um lock só será retirado quando o líder editor clicar em salvar na ficha para enviar os dados para a planilha e liberar a mesma para edição. 
 
-Antes de qualquer modificação na ficha local, devemos verificar atualizações.
+Versão representa a versão que está sincronizada com a planilha, ela será um valor numérico de 1 ao infinito, e sua lógica trabalha diretamente com o atributo de modificação. Quando o valor entre eles são diferentes, significa que vc não tem uma versão atual do banco ou você modificou o item atual.
 
-Quando abrimos a página das fichas e clicamos em verificar, ele baixa o código (Data Atualização) de todos os registros de ficha, e compara com as **ultima_mod_sinc** locais. Se tivermos códigos divergentes, significa que o item da planilha foi alterada e deve ser sincronizada novamente para substituir a ficha local. Apenas após essa sincronização, poderemos editar uma ficha. 
+Essa verificação também é validada quando abrimos a página de lista de fichas.
 
-Quando entramos na ficha e editamos qualquer coisa, ela altera o codigo de **data_mod**, e quando esse código diverge do código **ultima_mod_sinc** da mesma ficha, significa que ela deverá ser upada a planilha para manter a atualização. 
+Os atributos Lock, Lock_Owner, e Versão são salvos em cache para serem usados em caso de falha de internet. 
 
-Ou seja, quando data_mod e ultima_mod_sinc são iguais, significa que a planilha e o banco local estão sincronizados.
+O Atributo de modificação é alterado somando +1 somente quando ele é igual ao atributo versão. Independente de quantas alterações forem feitas na ficha, a modificação sempre será 1 valor a mais do que a versão. 
+
+Essa edição local deve ser sincronizada com a planilha, e enquanto as versões forem diferentes, o atributo lock se mantem travando a ficha para qualquer outro editor. 
 ## Linha do Tempo Evolutiva
 
 Cada objeto responsável por uma categoria de atributo irá fornecer a classe uma lista com os dados evolutivos do técnico. Após receber diversos desses dados o algoritmo irá organizá-lo em uma ordem cronológica para montar uma linha do tempo evolucional.
@@ -56,3 +63,7 @@ E para cada categoria de evento teremos um ícone de destaque:
 - ícone para capacitações;
 - ícone para proatividade;
 - ícone para feedback;
+
+## Leitura da Ficha
+
+A ficha só será aberta para edição. Sua visualização se da por uma página a parte de visualização que renderiza os dados na tela. 

@@ -13,12 +13,15 @@ Descrição:
 
 ```json
 {
-	nome: null,
 	UUID: null, //codigo unico do técnico criado junto a sua ficha RPC.
+	versao: null,	//Versão atual do registro na planilha, incrementada pelo backend após cada gravação confirmada.
+	modificacao:null, //Contador local que aumenta a cada alteração realizada na ficha.
+	lock:null, //Indica se a ficha está bloqueada para edição por outro usuário.
+	lock_owner:null, //Identifica o líder que obteve o bloqueio.
+	nome: null,
+	perfil: null, //foto do técnico em base64
 	cargo_atual: null,
 	data_admissao: null,
-	data_mod: null, //qualquer alteração na estrutura modifica o objeto.
-	ultima_mod_sinc: null,// usado para comparar o que foi solicitado da planilha, com oque esta no banco local.
 	historico_upgrade: [ //Evoluão de cargo por dissídio ou mérito
 		{
 			data: null,
