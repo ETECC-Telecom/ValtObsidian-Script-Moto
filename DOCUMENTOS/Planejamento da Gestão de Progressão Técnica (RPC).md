@@ -13,7 +13,7 @@ Pai: "[[Desenvolvimento]]"
 
 A progressão técnica é uma regra de negocio do setor da moto responsável por acompanhar todo o desenvolvimento do técnico do suporte externo de moto, do inicio até o final de sua jornada na empresa. Chamamos essa ficha de registro de "*Registro de Performance em Campo*" ou ficha **RPC**. 
 
-
+A sessão de progressão técnica estará na página da Liderança: [[Planejamento pagina da liderança]]
 # Referências
 
 - [[Regras de Negocio - Ficha RPC]]
