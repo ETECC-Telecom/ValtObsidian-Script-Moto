@@ -43,6 +43,9 @@ w5AVbLQeywzE8i1bsakmVZFGehvfiwCbrzNwcJYl3KY0wZD4XR
 - 🟡 **Melhorias:** Otimizações de desempenho ou na interface (UI/UX).
 - 🔴 **Correções (Bug Fixes):** Problemas resolvidos.
 ### Histórico
+- **v0.1.1 - xx Outubro, 2026**
+	- 🔴 Corrigido erro ERRO_EXECUCAO_FORMATAÇÃO_DATA da função abertura_script_simples.
+	- 🔴 Retirado função de sincronismo para correção do sistema!
 - **v0.1.0 - 20 Outubro, 2026**
 	- 🟢 Desenvolvido uma nova página para criação e gestão da ficha de treinamento técnico;
 	- 🟡 Reformulado alguns ícones do sistema;

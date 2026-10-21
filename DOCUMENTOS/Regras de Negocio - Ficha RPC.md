@@ -64,6 +64,11 @@ E para cada categoria de evento teremos um ícone de destaque:
 - ícone para proatividade;
 - ícone para feedback;
 
+Todas as principais classes dessa ficha, irão precisar ter uma função para exportar esses dados já formatados no padrão usado para gerar a linha do tempo. 
 ## Leitura da Ficha
 
-A ficha só será aberta para edição. Sua visualização se da por uma página a parte de visualização que renderiza os dados na tela. 
+A visualização e edição da ficha RPC será feito em uma única interface, mas ela terá duas funções de exportação de relatório. Uma mais simples e textual. E outra mais completa em Markdown exclusivo para ser visualizado no Obsidian devido a compatibilidade com os plugins de plotagem. 
+
+**Exportação Simples** - Será um texto mais simples com formatação por caracteres para serem lidos em texto campos de texto simples como Whatsapp.
+**Exportação Markdown** - Aqui iremos exportar já usando estruturas de formatação markdown, bem como estruturas de formatação para plotagem de gráficos de plugins obsidian. Além das formatações com callouts e mermaids.
+
