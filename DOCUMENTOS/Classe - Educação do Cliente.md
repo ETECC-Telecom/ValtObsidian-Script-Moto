@@ -19,7 +19,16 @@ Essa é a classe responsável por gerenciar toda a sessão de educação do clie
 
 Essa classe não sabe quais atributos existem, porém todos eles estarão organizados em uma constate JS que será importada na View para gerar a lista de informações/atendimento passadas ao cliente. Quando clicarmos no check de um item dessa lista, esse elemento será adicionado ao atributo correspondente da classe.
 
-A classe terá uma função que retorna verdadeiro ou falso quando comparado se um item da lista existe cadastrada na classe, caso verdadeiro ele deixa checked na lista da view. 
+A classe terá uma função que retorna verdadeiro ou falso quando comparado se um item da lista existe cadastrada na classe, caso verdadeiro ele deixa checked na lista da view.
+
+Esses itens de lista irão conter a seguinte estrutura:
+
+```json
+{
+	titulo: "Nome da Informação",
+	descricao: "Descrição geral usado para estruturar a mensagem encaminhada ao cliente"
+}
+```
 ## Atributos
 
 - (Lista) **Educacao**: Itens de educação do cliente que o técnico pode preencher no local;
@@ -81,7 +90,7 @@ classDiagram
 		+Exportar_Relatorio_Simplificado()
 		+Exportar_Relatorio_Markdown()
 		+Validar_Finalizacao()
-		+
+		+Validar_Sincronismo()
 		+Adicionar_Informacao()
 		+Deletar_Informacao()
 		+Verificar_Existe(nome)
@@ -228,25 +237,7 @@ classDiagram
 		indicado: Bool, //Cliente passou indicação?
 		observacao: String //Numero de contato do indicado!
 	},
-	educacao_cliente:[info_encaminhadas: Bool, //informação copiada/enviada ao cliente
-		
-		{
-			id_item: int, //Id da lista de item de educação do cliente
-			titulo: String, //Informação passada ao cliente
-		}
-	],
-	atendimento_cliente:[
-		{
-			id_item: int, //Id da lista de item de atendimento ao cliente
-			titulo: String, //Informação passada ao cliente
-		}
-	],
-	complemento_atendimento: [ //Informações Extras passadas ao cliente
-		{
-			titulo: String, 
-			descricao: String
-		}	
-	],
+	
 	relato_adicional: String, //Informaçoes adicionais relacionadas a Visita
 	relatorio_estabilidade: Strign, //campo para adição do .bat
 }
