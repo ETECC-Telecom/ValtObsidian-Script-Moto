@@ -41,3 +41,5 @@ Todas as classes com essas funções devem receber o nome igual para evitar dive
 
 - [[Classe - Ordem de Serviço Completa]]
 ## Classes Filhas das Ordens de Serviço
+
+- [[Classe - Coordenadas]]
