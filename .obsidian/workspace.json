@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -252,8 +252,9 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "f3b67a753d4cacb9",
+  "active": "6681b817b19f9fa2",
   "lastOpenFiles": [
+    "DOCUMENTOS/Regras de Negocio - Ficha RPC.md",
     "DOCUMENTOS/Planejamento da Gestão de Progressão Técnica (RPC).md",
     "DOCUMENTOS/Planejamento pagina da liderança.md",
     "ARVORE/Desenvolvimento.md",
@@ -276,7 +277,6 @@
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Dump da estrutura de dados da Ficha de progressão.md",
     "ARVORE/Planejamento.md",
-    "DOCUMENTOS/Regras de Negocio - Ficha RPC.md",
     "DOCUMENTOS/Dump da Estrutura de Dados da Ficha de Treino.md",
     "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
