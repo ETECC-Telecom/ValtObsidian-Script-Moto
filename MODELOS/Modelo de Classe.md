@@ -16,7 +16,7 @@ Descrição geral da Classe...
 
 ## Atributos
 
-- (Tipo_Atributo) **Nome_atributo**: Descrição...
+- `(Tipo_Atributo) Nome_atributo`: Descrição...
 ## Métodos
 
 ### Nome do Método
@@ -24,7 +24,7 @@ Descrição geral da Classe...
 Descrição...
 
 **Parâmetros** 
-- *Nome_parametro*: Descrição
+- `Nome_parametro`: Descrição
 
 **Retorno**
 	Descrição do retorno.
