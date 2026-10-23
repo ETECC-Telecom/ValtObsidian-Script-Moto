@@ -35,6 +35,7 @@ classDiagram
 	  +Exportar_OS_Simplificado()
 	  +Exportar_OS_Markdown()
 	  +Validar_Finalizacao()
+	  +Validar_Sincronismo()
     }
 ```
 
