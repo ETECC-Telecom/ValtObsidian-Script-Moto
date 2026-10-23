@@ -32,8 +32,6 @@ A ideia surgiu de um APP que já existe no setor, porém foge de meu controle, i
 - Gerar o Script de Informações passadas ao cliente (Quando necessário);
 - Validar se o técnico adicionou falta de informação na abertura da OS para encaminhar a estrutura de sincronização com a planilha;
 - Validar se o técnico adicionou informações extras passadas ao cliente, para encaminhar para a planilha.
-
-
 ### Não Funcionais
 
 **[RNF001] - Nome do Requisito não funcional**

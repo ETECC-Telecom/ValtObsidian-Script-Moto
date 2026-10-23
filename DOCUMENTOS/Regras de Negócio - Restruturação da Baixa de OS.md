@@ -35,5 +35,9 @@ Todas as classes com essas funções devem receber o nome igual para evitar dive
 - **Validar_Finalizacao**: Valida se todos os atributos necessários da classe foram fechados. Seu retorno é um array: `[boolean, string]` com o valor verdadeiro ou falso para indicar que tudo foi preenchido corretamente, e uma string que informa uma mensagem de erro para correção. 
 
 
+# Estrutura das Classes
 
+## Classes de Ordens de Serviço
 
+- [[Classe - Ordem de Serviço Completa]]
+## Classes Filhas das Ordens de Serviço

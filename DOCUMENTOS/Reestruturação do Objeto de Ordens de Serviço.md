@@ -13,3 +13,7 @@ Pai: "[[Desenvolvimento]]"
 
 Atualmente o CentralOS trabalha com Controllers únicos por categoria de OS. A ideia é separar as responsabilidades criando classes especificas para cada categoria, por exemplo, classe **Cliente** que irá tratar todos os atributos relacionados ao cliente, e terá métodos para alterar seus atributos que serão usados pelos componentes de cliente. 
 
+
+## Referências
+
+- [[Regras de Negócio - Restruturação da Baixa de OS]]
