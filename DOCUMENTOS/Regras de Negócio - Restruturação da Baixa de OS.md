@@ -46,3 +46,4 @@ Todas as classes com essas funções devem receber o nome igual para evitar dive
 - [[Classe - Educação do Cliente]]
 - [[Classe - Cliente]]
 - [[Classe - Powermitter]]
+- [[Classe - Informações de Abertura]]

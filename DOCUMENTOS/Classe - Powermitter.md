@@ -22,6 +22,18 @@ Descrição geral da Classe...
 - 
 ## Métodos
 
+### Set_Powermitter
+
+Esse método define os valores iniciais do powermitter na criação da ficha da OS.
+
+**Parâmetros** 
+- `Powemitter`: Um array contendo o código, data de revisão e revisor.
+### Get_Powermitter
+
+Esse método serve para capturar os dados do powermitter cadastrado. 
+
+**Retorno**
+	- `Powemitter`: Um array contendo o código, data de revisão e revisor.
 ### Nome do Método
 
 Descrição...
@@ -44,7 +56,9 @@ classDiagram
 		+Importar_Objeto_Json()
 		+Exportar_Estrutura_Simplificado()
 		+Exportar_Estrutura_Markdown()
-		+Add_Powermitter()
+		
+		+Set_Powermitter()
+		+Get_Powermitter()
     }
 ```
 

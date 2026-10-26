@@ -15,19 +15,27 @@ Descrição:
 Descrição geral da Classe...
 
 ## Atributos
+> [!cite]- Estrutura para uso
+> ```
+> - `(Tipo_Atributo) Nome_atributo`: Descrição...
+> ```
 
-- `(Tipo_Atributo) Nome_atributo`: Descrição...
+
 ## Métodos
+> [!cite]- Estrutura para uso
+> ```
+> ### Nome do Método
+> 
+> Descrição...
+> 
+> **Parâmetros** 
+> - `Nome_parametro`: Descrição
+> 
+> **Retorno**
+> 	Descrição do retorno.
+> ```
 
-### Nome do Método
 
-Descrição...
-
-**Parâmetros** 
-- `Nome_parametro`: Descrição
-
-**Retorno**
-	Descrição do retorno.
 ## Diagrama
 
 ```mermaid
