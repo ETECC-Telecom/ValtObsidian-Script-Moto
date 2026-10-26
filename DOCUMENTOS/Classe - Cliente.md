@@ -21,11 +21,12 @@ Classe responsável por todos os atributos relacionados aos clientes.
 - `(String) Telefone`: Número de contato;
 - `(String) Parentesco`: Titular, Esposa'o, Filho'a, Funcionário, Avó'ô, Tio'a, 
 - `(String) Parentesco_info`: Em caso de outros
-- `(String) Relato_cliente:`: O problema relatado pelo cliente.
-- `(Boolean) Fachada_Anexada:`: Atributo que informa se a fachada da residência foi anexada.
+- `(String) Relato_cliente:`: O problema relatado pelo cliente, obrigatório ser preenchido!
+
 - 
 ## Métodos
 
+### Validar_Finalizacao()
 ### Nome do Método
 
 Descrição...
@@ -42,7 +43,15 @@ classDiagram
     class Nome_Classe{
 		-Int nome_atributo
       
-		+Nome_Método()
+		+Retornar_Objeto_Json()
+		+Importar_Objeto_Json()
+		+Exportar_Estrutura_Simplificado()
+		+Exportar_Estrutura_Markdown()
+		+Exportar_Relatorio_Simplificado()
+		+Exportar_Relatorio_Markdown()
+		+Validar_Finalizacao()
+		
+		
     }
 ```
 

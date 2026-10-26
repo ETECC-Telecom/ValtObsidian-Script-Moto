@@ -36,9 +36,15 @@ Descrição...
 ```mermaid
 classDiagram
     class Nome_Classe{
-		-Int nome_atributo
+		- String Cod_Powermitter
+		- String Data_Calibragem
+		- String Revisor
       
-		+Nome_Método()
+		+Retornar_Objeto_Json()
+		+Importar_Objeto_Json()
+		+Exportar_Estrutura_Simplificado()
+		+Exportar_Estrutura_Markdown()
+		+Add_Powermitter()
     }
 ```
 
