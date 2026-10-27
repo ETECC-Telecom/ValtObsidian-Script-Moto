@@ -38,59 +38,17 @@
             }
           },
           {
-            "id": "6f0367318ac7293c",
+            "id": "289499d35c781cdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Classe - Cliente.md",
+                "file": "DOCUMENTOS/Classe - Conferência Fibra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classe - Cliente"
-            }
-          },
-          {
-            "id": "ced6f5068085f09b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Classe - Teste Externo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classe - Teste Externo"
-            }
-          },
-          {
-            "id": "95ec6d6b29036795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classe - Ordem de Serviço Completa"
-            }
-          },
-          {
-            "id": "5de94a2c6bb11908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Classe - Indicação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classe - Indicação"
+              "title": "Classe - Conferência Fibra"
             }
           },
           {
@@ -303,20 +261,24 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "6f0367318ac7293c",
+  "active": "289499d35c781cdb",
   "lastOpenFiles": [
     "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
-    "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
+    "DOCUMENTOS/Classe - Conferência Fibra.md",
+    "DOCUMENTOS/Classe - Conferência Fonte.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
+    "DOCUMENTOS/Classe - Encaminhar Externa.md",
+    "DOCUMENTOS/Classe - Conferência Técnica Cabos UTP.md",
     "DOCUMENTOS/Classe - Teste Externo.md",
     "DOCUMENTOS/Classe - Indicação.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
+    "DOCUMENTOS/Classe - Cliente.md",
+    "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
     "HOME.md",
     "DOCUMENTOS/Classe - Educação do Cliente.md",
     "DOCUMENTOS/Classe - Ajuda Interna.md",
     "DOCUMENTOS/Classe - Informações de Abertura.md",
     "DOCUMENTOS/Classe - Powermitter.md",
     "MODELOS/Modelo de Classe.md",
-    "DOCUMENTOS/Classe - Cliente.md",
     "ARVORE/Desenvolvimento.md",
     "DOCUMENTOS/Classe - Coordenadas.md",
     "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
@@ -327,10 +289,6 @@
     "MODELOS/Sem título.md",
     "Excalidraw/Drawing 2026-10-23 13.32.40.excalidraw.md",
     "ARVORE/Testes.md",
-    "ARVORE/Documentação Final.md",
-    "DOCUMENTOS/Planejamento da Gestão de Progressão Técnica (RPC).md",
-    "DOCUMENTOS/Regras de Negocio - Ficha RPC.md",
-    "DOCUMENTOS/Planejamento pagina da liderança.md",
     "ANEXOS/Pasted image 20261021120413.png",
     "ANEXOS/Pasted image 20261021120348.png",
     "ANEXOS/Pasted image 20261021120320.png",

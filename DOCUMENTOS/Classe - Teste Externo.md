@@ -132,7 +132,10 @@ classDiagram
 		-String OS
 		-String Versao
 		-Boolean Relatorio_Externo
-      
+	    
+	    +Retornar_Objeto_Json()
+		+Importar_Objeto_Json()
+		
 		+Estruturar_Data_Payload()
 		+GET_Pings()
 		+GET_Tracerts()

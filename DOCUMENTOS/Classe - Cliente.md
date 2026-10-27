@@ -22,7 +22,7 @@ Classe responsável por todos os atributos relacionados aos clientes.
 - `(String) Parentesco`: Titular, Esposa'o, Filho'a, Funcionário, Avó'ô, Tio'a, 
 - `(String) Parentesco_info`: Em caso de outros
 - `(String) Relato_cliente:`: O problema relatado pelo cliente, obrigatório ser preenchido!
-- `(String) Conclusao_Dificuldade:`: A partir do problema do Cliente, o técnico conseguiu resolver 
+- `(String) Conclusao_Dificuldade:`: A partir do problema do Cliente, o técnico conseguiu resolver
 - 
 ## Métodos
 

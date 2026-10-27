@@ -50,7 +50,93 @@ Todas as classes com essas funções devem receber o nome igual para evitar dive
 - [[Classe - Ajuda Interna]]
 - [[Classe - Indicação]]
 - [[Classe - Teste Externo]]
+- [[Classe - Encaminhar Externa]]
+- [[Classe - Conferência Técnica Cabos UTP]]
+- [[Classe - Conferência Fonte]]
+- [[Classe - Conferência Fibra]]
+- Classe - Conferência Conferência Routers
+- Classe - Conferência Teste Navegação
+- Classe - Conferência Site Survey (mapa de calor)
+- Classe - Conferência Mapa de Calor
+- Classe - Conferência Ping
+- Classe - Conferência Tracert
+- Classe - Conferência Velocidade
+- Classe - Conferência Equipamentos no Local
 
+```json
+{
+     
+    "conferencia_tecnica": {
+    
+        "fibra": {
+            "sinal_pto": null,
+            "sinal_pathcord": null,
+            "sinal_autoisp": null,
+            "anexo_sinal": true,
+            "limpeza": true,
+            "observacao": null
+        },
+        "conferencia_router": [],
+        "teste_navegacao": [
+            {
+                "ativos_cliente": false,
+                "tipo_ativo": "celular",
+                "observacao": null
+            },
+            {
+                "ativos_cliente": false,
+                "tipo_ativo": "computador",
+                "observacao": null
+            },
+            {
+                "ativos_cliente": true,
+                "tipo_ativo": "celular",
+                "observacao": null
+            }
+        ],
+        "mapa_calor": {
+            "realizado": false,
+            "pontos_sobra": false,
+            "ponto_adicional": null,
+            "observacao": null
+        },
+        "ping_adicional": [],
+        "observacao_ping": null,
+        "tracert_adicional": [],
+        "observacao_tracert": null,
+        "velocidade_adicional": [],
+        "observacao_velocidade": null,
+        "encaminhar_externa": {
+            "necessidade": false,
+            "observacao": null
+        },
+        "equipamentos_local": {
+            "troca": false,
+            "pppoe": null,
+            "cod_conexao": null,
+            "motivo_troca": "solicitacao_cliente",
+            "observacao": null,
+            "ativos": [
+                {
+                    "ativo": "ONT",
+                    "mac": "fsdfsdfsdfsd",
+                    "inserido": true
+                },
+                {
+                    "ativo": "ONT",
+                    "mac": "sdfsdfsdfsd",
+                    "inserido": true
+                },
+                {
+                    "ativo": "Router",
+                    "mac": "fsdfsdfsdfsd",
+                    "inserido": false
+                }
+            ]
+        }
+    },
+}
+```
 ## Associação das Classes
 
 ```mermaid
