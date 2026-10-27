@@ -57,7 +57,6 @@ Todas as classes com essas funções devem receber o nome igual para evitar dive
 - [[Classe - Conferência Routers]]
 - [[Classe - Conferência Teste Navegação]]
 - Classe - Conferência Site Survey (mapa de calor)
-- Classe - Conferência Mapa de Calor
 - Classe - Conferência Ping
 - Classe - Conferência Tracert
 - Classe - Conferência Velocidade

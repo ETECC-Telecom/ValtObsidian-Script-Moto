@@ -52,9 +52,20 @@ Classe responsável pela gestão dos ativos que foram testados no local. Esse cl
 ```mermaid
 classDiagram
     class Controller_Teste_Navegacao{
-		-Int nome_atributo
+		-Lista Ativos
       
-		+Nome_Método()
+		+Retornar_Objeto_Json()
+		+Importar_Objeto_Json()
+		+Exportar_Estrutura_Simplificado()
+		+Exportar_Estrutura_Markdown()
+		+Exportar_Relatorio_Simplificado()
+		+Exportar_Relatorio_Markdown()
+		
+		+SET_Ativo(Objeto)
+		+DELETE_Ativo(Indice)
+		+EDITAR_Ativo(Indice)
+		+GET_Ativo(Indice)
+		+GET_Ativos()
     }
 ```
 
