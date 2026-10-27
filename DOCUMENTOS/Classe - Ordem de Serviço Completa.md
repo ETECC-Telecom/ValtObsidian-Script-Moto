@@ -20,6 +20,9 @@ A classe de Ordem de Serviço completa é usada para fazer a gestão geral das O
 - `(Boolean) Finalizada`: Atributo boolean que informa se essa OS já foi finalizada;
 - `(Boolean) Usado_Resumo_IA`: Atributo boolean que informa se essa OS foi submetida ao resumo por IA;
 - `(Boolean) Data_Alteracao`: Atributo que armazena a data e hora que essa OS foi modificada;
+- `(String) Relatorio_Adicional`: Caso necessário, o técnico pode adicionar um relatório adicional sobre a visita;
+- `(String) Relatorio_Atraso`: Pode haver momentos em que o técnico tenha um atendimento mais demorado durante os procedimentos. E para esses momentos que esse campo foi criado, para o técnico justificar o motivo do atraso.
+- `(String) Relatorio_Externo`: Pode haver momentos em que o técnico tenha que realizar o teste de estabilidade com métodos antigos (.BAT). Esse campo serve para anexar esse relatório. 
 ## Métodos
 > [!cite]- Estrutura para uso
 > ```
@@ -36,7 +39,9 @@ A classe de Ordem de Serviço completa é usada para fazer a gestão geral das O
 ### SET_OS_EDICAO
 
 Esse método será usado para salvar o ID da OS no LocalStorage enquanto a mesma não é encerrada. Assim, enquanto estivermos editando a mesma, não perdemos os dados. 
+### Gerar_Resumo_IA
 
+Esse método da classe gera o relatório Markdown junto com um prompt pré criado, encaminha essa mensagem a IA, e retorna o resumo de todos o relatório, que por sua vez é somando com o valor do atributo `Relatorio_Adicional`. E altera o atributo `Usado_Resumo_IA` para `true`.
 ## Diagrama
 
 ```mermaid
@@ -48,6 +53,9 @@ classDiagram
 		-Boolean Finalizada
 		-Boolean Usado_Resumo_IA
 		-String Data_Alteracao
+		-String Relatorio_Adicional
+		-String Relatorio_Atraso
+		-String Relatorio_Externo
       
 	    +Salvar_OS_Banco()
 		+Editar_OS_Banco()
@@ -60,6 +68,17 @@ classDiagram
 		+Validar_Sincronismo()
 		
 		+SET_OS_EDICAO()
+		+Gerar_Resumo_IA()
+		
+		+GET_ID()
+		+SET_Usado_Resumo_IA()
+		+GET_Usado_Resumo_IA()
+		+SET_Relatorio_Adicional()
+		+GET_Relatorio_Adicional()
+		+SET_Relatorio_Atraso()
+		+GET_Relatorio_Atraso()
+		+SET_Relatorio_Externo()
+		+GET_Relatorio_Externo()
     }
 ```
 

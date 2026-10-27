@@ -49,6 +49,7 @@ Todas as classes com essas funções devem receber o nome igual para evitar dive
 - [[Classe - Informações de Abertura]]
 - [[Classe - Ajuda Interna]]
 - [[Classe - Indicação]]
+- [[Classe - Teste Externo]]
 
 ## Associação das Classes
 
