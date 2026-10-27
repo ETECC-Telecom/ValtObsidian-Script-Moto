@@ -6,7 +6,7 @@ Pai: "[[]]"
 Descrição: 
 ---
 
-[↩️ Voltar](HOME)
+[[Home|Voltar]]
 ```table-of-contents
 ```
 ---

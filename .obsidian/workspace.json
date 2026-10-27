@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,12 +289,13 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "612ca71706409014",
+  "active": "4090c38499131a24",
   "lastOpenFiles": [
+    "ARVORE/Desenvolvimento.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "MODELOS/Modelo de Classe.md",
     "DOCUMENTOS/Classe - Informações de Abertura.md",
     "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
     "DOCUMENTOS/Classe - Cliente.md",
     "DOCUMENTOS/Classe - Powermitter.md",
     "DOCUMENTOS/Classe - Coordenadas.md",
@@ -302,7 +303,6 @@
     "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
     "DOCUMENTOS/Sem título 7.md",
     "DOCUMENTOS/Classe - Educação do Cliente.md",
-    "ARVORE/Desenvolvimento.md",
     "ARVORE/Anexos.md",
     "ARVORE/Planejamento.md",
     "MODELOS/Modelo Padrão.md",
