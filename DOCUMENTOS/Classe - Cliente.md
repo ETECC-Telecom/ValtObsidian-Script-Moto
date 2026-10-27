@@ -22,13 +22,13 @@ Classe responsável por todos os atributos relacionados aos clientes.
 - `(String) Parentesco`: Titular, Esposa'o, Filho'a, Funcionário, Avó'ô, Tio'a, 
 - `(String) Parentesco_info`: Em caso de outros
 - `(String) Relato_cliente:`: O problema relatado pelo cliente, obrigatório ser preenchido!
-
+- `(String) Conclusao_Dificuldade:`: A partir do problema do Cliente, o técnico conseguiu resolver 
 - 
 ## Métodos
 
 ### Validar_Finalizacao
 
-Valida se o técnico preencheu o Nome do Cliente, Nome do Cadastro, Telefone, Parentesco e o mais importante de todos: Relato do Cliente. 
+Valida se o técnico preencheu o Nome do Cliente, Nome do Cadastro, Telefone, Parentesco e o mais importante de todos: Relato do Cliente e a Conclusão da Dificuldade. 
 ### Nome do Método
 
 Descrição...

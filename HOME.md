@@ -41,5 +41,3 @@ O principal objetivo desse sistema seria:
 		- Pague com o Pix;
 	- Lista dos Planos;
 
-
-

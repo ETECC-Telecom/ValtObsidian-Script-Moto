@@ -158,7 +158,5 @@ classDiagram
             ]
         }
     },
-
-    "relatorio_externo": null,
 }
 ```
