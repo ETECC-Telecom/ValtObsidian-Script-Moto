@@ -20,6 +20,8 @@ Quando essa estrutura chegar na classe, a mesma irá ser filtrada para preencher
 ```json
 {
 	Status: "Success",
+	Share_url: "https://www.speedtest.net/result/c/23176056-843c-4027-a642-fb6f74e062c1",
+	Raw_Log: "",//JSON com os dados brutos do Teste
 	Server:{
 		ID:27674,
 		Name: "WSNET Fibra",
