@@ -40,7 +40,7 @@ Descrição geral da Classe...
 
 ```mermaid
 classDiagram
-    class Nome_Classe{
+    class Controller_Nome_Classe{
 		-Int nome_atributo
       
 		+Nome_Método()

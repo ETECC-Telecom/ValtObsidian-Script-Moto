@@ -42,7 +42,7 @@ Descrição...
 
 ```mermaid
 classDiagram
-    class Nome_Classe{
+    class Controller_Cliente{
 		-String Nome_Cliente
 		-String Nome_Cadastro
 		-String Telefone

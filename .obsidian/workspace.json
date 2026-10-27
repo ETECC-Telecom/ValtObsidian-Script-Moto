@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "224afd0b9a39a080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVORE/Desenvolvimento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Desenvolvimento"
-            }
-          },
-          {
             "id": "4090c38499131a24",
             "type": "leaf",
             "state": {
@@ -52,31 +38,31 @@
             }
           },
           {
-            "id": "9cead68f7f0cada1",
+            "id": "5de94a2c6bb11908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
+                "file": "DOCUMENTOS/Classe - Indicação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regras de Negócio - Restruturação da Baixa de OS"
+              "title": "Classe - Indicação"
             }
           },
           {
-            "id": "85adc18ad73b2258",
+            "id": "c7e2008b5d741a30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Classe - Informações de Abertura.md",
+                "file": "DOCUMENTOS/Classe - Ajuda Interna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classe - Informações de Abertura"
+              "title": "Classe - Ajuda Interna"
             }
           },
           {
@@ -289,20 +275,22 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "4090c38499131a24",
+  "active": "5de94a2c6bb11908",
   "lastOpenFiles": [
-    "ARVORE/Desenvolvimento.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
-    "MODELOS/Modelo de Classe.md",
-    "DOCUMENTOS/Classe - Informações de Abertura.md",
+    "DOCUMENTOS/Classe - Ajuda Interna.md",
+    "DOCUMENTOS/Classe - Indicação.md",
     "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
-    "DOCUMENTOS/Classe - Cliente.md",
+    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
+    "DOCUMENTOS/Classe - Informações de Abertura.md",
     "DOCUMENTOS/Classe - Powermitter.md",
-    "DOCUMENTOS/Classe - Coordenadas.md",
-    "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
-    "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
-    "DOCUMENTOS/Sem título 7.md",
+    "MODELOS/Modelo de Classe.md",
+    "DOCUMENTOS/Classe - Cliente.md",
     "DOCUMENTOS/Classe - Educação do Cliente.md",
+    "ARVORE/Desenvolvimento.md",
+    "DOCUMENTOS/Classe - Coordenadas.md",
+    "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
+    "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
+    "DOCUMENTOS/Sem título 7.md",
     "ARVORE/Anexos.md",
     "ARVORE/Planejamento.md",
     "MODELOS/Modelo Padrão.md",
@@ -315,8 +303,6 @@
     "DOCUMENTOS/Regras de Negocio - Ficha RPC.md",
     "DOCUMENTOS/Planejamento pagina da liderança.md",
     "ARVORE/Deploy(Entrega).md",
-    "ARVORE/Design.md",
-    "DOCUMENTOS/Iconografias do Sistema.md",
     "ANEXOS/Pasted image 20261021120413.png",
     "ANEXOS/Pasted image 20261021120348.png",
     "ANEXOS/Pasted image 20261021120320.png",

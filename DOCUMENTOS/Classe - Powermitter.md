@@ -47,7 +47,7 @@ Descrição...
 
 ```mermaid
 classDiagram
-    class Nome_Classe{
+    class Controller_Powermitter{
 		- String Cod_Powermitter
 		- String Data_Calibragem
 		- String Revisor

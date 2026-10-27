@@ -20,11 +20,28 @@ A classe de Ordem de Serviço completa é usada para fazer a gestão geral das O
 - `(Boolean) Finalizada`: Atributo boolean que informa se essa OS já foi finalizada;
 - `(Boolean) Usado_Resumo_IA`: Atributo boolean que informa se essa OS foi submetida ao resumo por IA;
 - `(Boolean) Data_Alteracao`: Atributo que armazena a data e hora que essa OS foi modificada;
-- 
+## Métodos
+> [!cite]- Estrutura para uso
+> ```
+> ### Nome do Método
+> 
+> Descrição...
+> 
+> **Parâmetros** 
+> - `Nome_parametro`: Descrição
+> 
+> **Retorno**
+> 	Descrição do retorno.
+> ```
+### SET_OS_EDICAO
+
+Esse método será usado para salvar o ID da OS no LocalStorage enquanto a mesma não é encerrada. Assim, enquanto estivermos editando a mesma, não perdemos os dados. 
+
 ## Diagrama
 
 ```mermaid
 classDiagram
+
     class OS_Completa{
 		-Int ID
 		-String Tipo_OS
@@ -41,6 +58,8 @@ classDiagram
 		+Exportar_OS_Markdown()
 		+Validar_Finalizacao()
 		+Validar_Sincronismo()
+		
+		+SET_OS_EDICAO()
     }
 ```
 

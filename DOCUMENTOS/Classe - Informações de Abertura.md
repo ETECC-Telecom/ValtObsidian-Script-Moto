@@ -18,15 +18,28 @@ A primeiro momento, quando o atributo `Info_Necessaria` estiver true, ele indica
 
 Quando `Info_Necessaria` é igual a `false`, o mesmo se torna válido para gerar estrutura para o sincronismo de informações para serem encaminhadas a planilha.
 
-O atributo `Informacoes_Omitidas` recebe uma lista de objetos que contem um titulo e um boolean que indica se ele está checado ou não: 
+O atributo `Informacoes_Omitidas` recebe uma lista de Strings que informa qual elemento foi omitido. Quando iniciado, recebe os valores padrões, mas pode ser complementado com novos itens durante o atendimento.  
 
-```json
-{
-	Titulo: "Comodato",
-	Checked: false,
-}
+Algumas das informações padrões são:
+
+- Histórico de Quedas: Quando o operador esquece de anexar a tabela de histórico para analise na OS; 
+- Informações de Comodato: Quando o operador esquece de anexar informações relacionadas a comodato, usado para validar troca de equipamentos; 
+- Detalhe da OS: Quando o operador não explica bem o motivo da dificuldade do cliente.   
+- Data de Contratação: Usado para validar o tempo de casa.  
+
+Quando o método `Validar_Sincronismo` retorna `True` é esperado um payload, que nesse caso, será um markdown estruturado da seguinte forma:
+
+```Markdown
+## Relatório de Informações Necessárias:
+
+- Operador: Nome_do_Operador;
+
+**Informações Ausentes**:
+- Título da Informação...
+  
+**Relatório Adicional**
+Relatório...
 ```
-
 ## Atributos
 > [!cite]- Estrutura para uso
 > ```
@@ -35,7 +48,8 @@ O atributo `Informacoes_Omitidas` recebe uma lista de objetos que contem um titu
 
 - `(Boolean) Info_Necessaria`: Booleano que informa se todas as informações foram anexadas (Verdadeiro) ou não (Falso);
 - `(String) Operador`: Nome do operador que abriu a OS;
-- `(Lista) Informacoes_Omitidas`: Lista de informações que foram omitidas, como Comodato, mapa de calor e etc. Esses dados podem ser adicionados manualmente, mas também, temos uma lista padrão de dados que é usada como estrutura padrão. 
+- `(Lista) Informacoes_Omitidas`: Lista de informações que foram omitidas, como Comodato, mapa de calor e etc. Esses dados podem ser adicionados manualmente, mas também, temos uma lista padrão de dados que é usada como estrutura padrão.
+- `(String) Relatorio`: Relatório adicional do técnico.
 ## Métodos
 > [!cite]- Estrutura para uso
 > ```
@@ -49,131 +63,46 @@ O atributo `Informacoes_Omitidas` recebe uma lista de objetos que contem um titu
 > **Retorno**
 > 	Descrição do retorno.
 > ```
+### Validar_Sincronismo
 
+Esse método valida se o atributo `Info_Necessaria` é igual a false. Caso verdadeiro, o mesmo retorna true informando que temos dados de sincronismo que devem ser anexados a tabela para analise posterior. 
+
+**Parâmetros** 
+- `Nome_parametro`: Descrição
+
+**Retorno**
+	Lista do qual o primeiro índice representa `True `ou `False`, e o segundo é o relatório relacionado quando o retorno é true.
+### Set_Valores_Padroes
+
+Usado para adicionar os valores padrões que já temos registrados, que são importados de uma variável externa que contem uma lista desses valores. 
 
 ## Diagrama
 
 ```mermaid
 classDiagram
-    class Nome_Classe{
-		-Int nome_atributo
-      
-		+Nome_Método()
+    class Controller_Informacao_Abertura{
+		-Boolean Info_Necessaria
+		-String Operador
+		-Lista Informacoes_Omitidas
+
+		+Retornar_Objeto_Json()
+		+Importar_Objeto_Json()
+		+Exportar_Estrutura_Simplificado()
+		+Exportar_Estrutura_Markdown()
+		+Exportar_Relatorio_Simplificado()
+		+Exportar_Relatorio_Markdown()
+		+Validar_Sincronismo()
+		
+		+Set_Valores_Padroes()
+		+Set_Nova_Informacao()
+		+Get_Itens()
+		+Delete_Inforacao(index)
+		+Set_Relatorio()
+		+Get_Relatorio()
+		
     }
 ```
 
-```json
-{
-     
 
-        "info_necessaria": true,
-        "complemento_info_necessaria": {
-            "requerimentos": [],
-            "operador": null,
-            "info_padrao": {
-                "historico": false,
-                "comodato": false,
-                "descricao": false,
-                "contratacao": false
-            }
-        }
-    },
-    "conferencia_tecnica": {
-        "cabos_utp": [],
-        "fontes": {
-            "mau_contato": true,
-            "amperagem": true,
-            "uso": true,
-            "observacao": null
-        },
-        "fibra": {
-            "sinal_pto": null,
-            "sinal_pathcord": null,
-            "sinal_autoisp": null,
-            "anexo_sinal": true,
-            "limpeza": true,
-            "observacao": null
-        },
-        "conferencia_router": [],
-        "teste_navegacao": [
-            {
-                "ativos_cliente": false,
-                "tipo_ativo": "celular",
-                "observacao": null
-            },
-            {
-                "ativos_cliente": false,
-                "tipo_ativo": "computador",
-                "observacao": null
-            },
-            {
-                "ativos_cliente": true,
-                "tipo_ativo": "celular",
-                "observacao": null
-            }
-        ],
-        "mapa_calor": {
-            "realizado": false,
-            "pontos_sobra": false,
-            "ponto_adicional": null,
-            "observacao": null
-        },
-        "ping_adicional": [],
-        "observacao_ping": null,
-        "tracert_adicional": [],
-        "observacao_tracert": null,
-        "velocidade_adicional": [],
-        "observacao_velocidade": null,
-        "encaminhar_externa": {
-            "necessidade": false,
-            "observacao": null
-        },
-        "equipamentos_local": {
-            "troca": false,
-            "pppoe": null,
-            "cod_conexao": null,
-            "motivo_troca": "solicitacao_cliente",
-            "observacao": null,
-            "ativos": [
-                {
-                    "ativo": "ONT",
-                    "mac": "fsdfsdfsdfsd",
-                    "inserido": true
-                },
-                {
-                    "ativo": "ONT",
-                    "mac": "sdfsdfsdfsd",
-                    "inserido": true
-                },
-                {
-                    "ativo": "Router",
-                    "mac": "fsdfsdfsdfsd",
-                    "inserido": false
-                }
-            ]
-        }
-    },
-    "ajuda_interna": {
-        "verdadeiro": false,
-        "setor": "Torre",
-        "nome": null
-    },
-    "indicacao": {
-        "solicitado": false,
-        "indicado": false,
-        "nome": null,
-        "contato": null,
-        "encaminhada": false
-    },
-    "educacao_cliente": {},
-    "atendimento_cliente": {},
-    "complemento_atendimento": [],
-    "relato_adicional": null,
-    "relatorio_estabilidade": null,
-    "relatorio_externo": null,
-    "relato_omissao": null,
-    "relato_atraso": null
-}
-```
 
 

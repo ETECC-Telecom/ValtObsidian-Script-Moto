@@ -47,3 +47,28 @@ Todas as classes com essas funções devem receber o nome igual para evitar dive
 - [[Classe - Cliente]]
 - [[Classe - Powermitter]]
 - [[Classe - Informações de Abertura]]
+- [[Classe - Ajuda Interna]]
+- [[Classe - Indicação]]
+
+## Associação das Classes
+
+```mermaid
+classDiagram
+	direction LR
+
+    %% Exemplo de Associação Comum
+	OS_Completa --> Controller_Educacao_Cliente : Contem
+	OS_Completa --> Controller_Informacao_Abertura : Contem
+	OS_Completa --> Controller_Coordenadas : Contem
+	OS_Completa --> Controller_Cliente : Contem
+	OS_Completa --> Controller_Powermitter : Contem
+
+    class OS_Completa{}
+    class Controller_Educacao_Cliente{}
+    class Controller_Informacao_Abertura{}
+    class Controller_Coordenadas{}
+    class Controller_Cliente{}
+    class Controller_Powermitter{}
+
+```
+
