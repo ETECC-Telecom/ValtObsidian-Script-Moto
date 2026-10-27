@@ -54,8 +54,8 @@ Todas as classes com essas funções devem receber o nome igual para evitar dive
 - [[Classe - Conferência Técnica Cabos UTP]]
 - [[Classe - Conferência Fonte]]
 - [[Classe - Conferência Fibra]]
-- Classe - Conferência Conferência Routers
-- Classe - Conferência Teste Navegação
+- [[Classe - Conferência Routers]]
+- [[Classe - Conferência Teste Navegação]]
 - Classe - Conferência Site Survey (mapa de calor)
 - Classe - Conferência Mapa de Calor
 - Classe - Conferência Ping
@@ -68,14 +68,7 @@ Todas as classes com essas funções devem receber o nome igual para evitar dive
      
     "conferencia_tecnica": {
     
-        "fibra": {
-            "sinal_pto": null,
-            "sinal_pathcord": null,
-            "sinal_autoisp": null,
-            "anexo_sinal": true,
-            "limpeza": true,
-            "observacao": null
-        },
+
         "conferencia_router": [],
         "teste_navegacao": [
             {

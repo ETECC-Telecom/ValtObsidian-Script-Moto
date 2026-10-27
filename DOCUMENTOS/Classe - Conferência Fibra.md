@@ -24,7 +24,8 @@ Classe relacionada a conferência da Fibra no Cliente.
 - `(Int) Sinal_DROP`: Sinal da fibra capturado diretamente do DROP
 - `(Int) Sinal_AutoISP`: Sinal da fibra capturado diretamente do AutoISP
 - `(Boolean) Anexo`: Foto do sinal em anexo;
-- `(Boolean) Limpeza`: Se foi realizado a limpeza do Drop/Pathcord, por padrão, inicia-se como `false`. 
+- `(Boolean) Limpeza`: Se foi realizado a limpeza do Drop/Pathcord, por padrão, inicia-se como `false`.
+- `(String) Relatorio_Limpeza`: Relatório que aparece caso a limpeza da fibra seja omitida. Esse relatório é anexado ao final do `Relatorio` para justificar o motivo de não ter feito a limpeza.  
 - `(String) Relatorio`: Relatório Geral relacionado a fibra.
 ## Métodos
 > [!cite]- Estrutura para uso
@@ -42,13 +43,12 @@ Classe relacionada a conferência da Fibra no Cliente.
 
 ### Validar_Finalizacao
 
-A validação da Fibra ocorre em duas etapas. A primeira e mais importante é verificar se nenhum sinal foi anexado. Caso ocorre, ele retorna a mensagem: `Nenhum Sinal de fibra anexado ao relatório!`. Já a segunda, valida se foi realizado a limpeza do conector, caso seja falso, retorna uma mensagem: `Você não realizou a limpeza da Fibra no local`
+A validação da Fibra ocorre em duas etapas. A primeira e mais importante é verificar se nenhum sinal foi anexado. Caso ocorre, ele retorna a mensagem: `Nenhum Sinal de fibra anexado ao relatório!`. Já a segunda, valida se foi realizado a limpeza do conector, caso seja falso verifica o relatório e caso não tenha nada justificando, retorna uma mensagem: `Você não realizou a limpeza da Fibra no local, e não justificou o motivo!`
 
 **Parâmetros** 
-- `Nome_parametro`: Descrição
 
 **Retorno**
-	Descrição do retorno.
+	Retorna uma Lista de Verdadeiro ou Falso, mais a mensagem de alerta!
 ## Diagrama
 
 ```mermaid
@@ -68,6 +68,19 @@ classDiagram
 		+Exportar_Relatorio_Simplificado()
 		+Exportar_Relatorio_Markdown()
 		+Validar_Finalizacao()
+		
+		+SET_Sinal_PTO()
+		+GET_Sinal_PTO()
+		+SET_Sinal_DROP()
+		+GET_Sinal_DROP()
+		+SET_Sinal_AutoISP()
+		+GET_Sinal_AutoISP()
+		+SET_Anexo()
+		+GET_Anexo()
+		+SET_Limpeza()
+		+GET_Limpeza()
+		+SET_Relatorio()
+		+GET_Relatorio()
     }
 ```
 

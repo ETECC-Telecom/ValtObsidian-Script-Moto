@@ -53,6 +53,11 @@ Thumb: Pasted image 20260507141628.png
 
 **Estruturas de Dados** 
 - [[Estrutura dos Modelos de Script]]
+
+**Variáveis de Lista Exportadas**:
+
+- [[Variáveis de Lista Exportadas - Lista de DNS]]
+- [[Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste]]
 #### [[Data de Informações passadas ao cliente]]
 #### [[Data de Informações passadas ao cliente - Atendimento ao Cliente]]
 ###  Links Externos
