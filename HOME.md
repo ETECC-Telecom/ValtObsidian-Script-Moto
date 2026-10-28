@@ -41,3 +41,16 @@ O principal objetivo desse sistema seria:
 		- Pague com o Pix;
 	- Lista dos Planos;
 
+Categoria dos Scripts pré fabricados
+```
+Ping
+Tracert
+Velocidade
+Fibra
+Fonte
+Troca de Equipamento
+Site Survey
+Relato do Cliente
+Encaminhar Externa
+Outros
+```
