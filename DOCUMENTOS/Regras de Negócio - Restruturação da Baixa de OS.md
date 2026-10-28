@@ -58,9 +58,9 @@ Todas as classes com essas funções devem receber o nome igual para evitar dive
 - [[Classe - Conferência Teste Navegação]]
 - [[Classe - Conferência Site Survey (mapa de calor)]]
 - [[Classe - Conferência Ping]]
-- Classe - Conferência Tracert
-- Classe - Conferência Velocidade
-- Classe - Conferência Equipamentos no Local
+- [[Classe - Conferência Tracert]]
+- [[Classe - Conferência Velocidade]]
+- [[Classe - Conferência Equipamentos no Local]]
 
 ```json
 {

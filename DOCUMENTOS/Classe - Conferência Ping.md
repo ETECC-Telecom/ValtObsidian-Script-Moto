@@ -19,13 +19,15 @@ Classe responsável pelas regras de negócio geral do ping e tracert. A lista de
 {
 	Latencia: ["Min", "Med", "Max"],
 	Pacotes: ["Enviados", "Recebidos", "Perdidos"],
-	Protocolo: "IPV6/IPV4",
+	Protocolo: "", // Vlaor atribuido a partir da lista de protocolos
 	Ativo: "Empresa/Cliente",
-	Destino: "" //Valor da lista de Destinos de IP's
+	Destino: "", //Valor da lista de Destinos de IP's
+	Lock: false, //define se podemos ou não editar o item da lista.
 }
 ```
 
-- [[Variáveis de Lista Exportadas - Lista de Destinos de IP's]]
+O Atributo `Procoloco` recebe um valor extraído da [[Variáveis de Lista Exportadas - Lista de Protocolos|Lista de Protocolos]], já o atributo `Destino` recebe um valor da [[Variáveis de Lista Exportadas - Lista de Destinos de IP's|Lista de Destinos]]. 
+
 ## Atributos
 > [!cite]- Estrutura para uso
 > ```
@@ -48,13 +50,13 @@ Classe responsável pelas regras de negócio geral do ping e tracert. A lista de
 > 	Descrição do retorno.
 > ```
 
-
 ## Diagrama
 
 ```mermaid
 classDiagram
-    class Controller_Nome_Classe{
-		-Int nome_atributo
+    class Controller_Ping{
+		-String Relatorio
+		-Lista Pings
       
 		+Retornar_Objeto_Json()
 		+Importar_Objeto_Json()
@@ -62,6 +64,12 @@ classDiagram
 		+Exportar_Estrutura_Markdown()
 		+Exportar_Relatorio_Simplificado()
 		+Exportar_Relatorio_Markdown()
+		
+		+SET_Relatorio()
+		+GET_Relatorio()
+		+SET_Ping(Objeto_Ping)
+		+GET_Pings()
+		+GET_Ping(Indice)
     }
 ```
 

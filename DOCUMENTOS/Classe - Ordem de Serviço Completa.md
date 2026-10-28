@@ -42,6 +42,16 @@ Esse método será usado para salvar o ID da OS no LocalStorage enquanto a mesma
 ### Gerar_Resumo_IA
 
 Esse método da classe gera o relatório Markdown junto com um prompt pré criado, encaminha essa mensagem a IA, e retorna o resumo de todos o relatório, que por sua vez é somando com o valor do atributo `Relatorio_Adicional`. E altera o atributo `Usado_Resumo_IA` para `true`.
+### SINC_PING
+
+Essa função captura os pings que foram retornados dos testes externos, e adiciona ao objeto instanciado de Pings. 
+### SINC_TRACERT
+
+Essa função captura os Tracert que foram retornados dos testes externos, e adiciona ao objeto instanciado de Tracert. 
+### SINC_VELOCIDADE
+
+Essa função captura os Velocidade que foram retornados dos testes externos, e adiciona ao objeto instanciado de Velocidade. 
+
 ## Diagrama
 
 ```mermaid
@@ -69,6 +79,9 @@ classDiagram
 		
 		+SET_OS_EDICAO()
 		+Gerar_Resumo_IA()
+		+SINC_PING
+		+SINC_TRACERT
+		+SINC_VELOCIDADE
 		
 		+GET_ID()
 		+SET_Usado_Resumo_IA()
