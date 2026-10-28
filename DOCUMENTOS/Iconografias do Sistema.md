@@ -389,6 +389,54 @@ img
 ````col-md
 textAlign=center
 ===
+**Icone Relatorio**
+![[Pasted image 20261028151554.png]]
+```html
+<icone-relatorio></icone-relatorio>
+```
+````
+`````
+
+`````col
+````col-md
+textAlign=center
+===
+**Icone IA**
+![[Pasted image 20261028151833.png]]
+```html
+<icone-IA></icone-IA>
+```
+````
+````col-md
+textAlign=center
+===
+**Icone Estrutura**
+![[Pasted image 20261028151954.png]]
+```html
+<icone-estrutura></icone-estrutura>
+```
+````
+````col-md
+textAlign=center
+===
+**Icone Enviar**
+![[Pasted image 20261028152148.png]]
+```html
+<icone-enviar></icone-enviar>
+```
+````
+````col-md
+textAlign=center
+===
+**Nome_Icone**
+img
+```html
+<componente></componente>
+```
+````
+````col-md
+textAlign=center
+===
 **Nome_Icone**
 img
 ```html
@@ -396,6 +444,7 @@ img
 ```
 ````
 `````
+
 
 
 ---

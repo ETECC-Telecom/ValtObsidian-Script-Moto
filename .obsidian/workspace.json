@@ -24,48 +24,6 @@
             }
           },
           {
-            "id": "b160e067ec4f0eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Componentes de Formulário.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Componentes de Formulário"
-            }
-          },
-          {
-            "id": "ade661f4da4eadde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Componente Padrão LIT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Componente Padrão LIT"
-            }
-          },
-          {
-            "id": "7245b5d123c24367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reestruturação do Objeto de Ordens de Serviço"
-            }
-          },
-          {
             "id": "6d614061721f28c6",
             "type": "leaf",
             "state": {
@@ -77,6 +35,20 @@
               },
               "icon": "lucide-file",
               "title": "Regras de Negócio - Restruturação da Baixa de OS"
+            }
+          },
+          {
+            "id": "4cbb55b38e61927e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classe - Ordem de Serviço Completa"
             }
           },
           {
@@ -92,9 +64,51 @@
               "icon": "lucide-file",
               "title": "Classe - Ordem de Serviço Completa"
             }
+          },
+          {
+            "id": "fe86533df4d088c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Iconografias do Sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iconografias do Sistema"
+            }
+          },
+          {
+            "id": "6007ea26b6f137fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Sem título 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título 7"
+            }
+          },
+          {
+            "id": "2d9a4cd66d610424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Sem título 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título 8"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -289,17 +303,28 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "b160e067ec4f0eae",
+  "active": "2d9a4cd66d610424",
   "lastOpenFiles": [
-    "ARVORE/Desenvolvimento.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
-    "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
-    "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
+    "DOCUMENTOS/Sem título 7.md",
+    "DOCUMENTOS/Sem título 8.md",
     "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
-    "HOME.md",
+    "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
+    "DOCUMENTOS/Classe - Informações de Abertura.md",
+    "DOCUMENTOS/Classe - Coordenadas.md",
+    "DOCUMENTOS/Classe - Cliente.md",
+    "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
+    "DOCUMENTOS/Componentes de Formulário.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
     "DOCUMENTOS/Iconografias do Sistema.md",
-    "ANEXOS/Pasted image 20261028125547.png",
+    "ANEXOS/Pasted image 20261028152148.png",
+    "ANEXOS/Pasted image 20261028151954.png",
+    "ANEXOS/Pasted image 20261028151833.png",
+    "ANEXOS/Pasted image 20261028151554.png",
+    "ANEXOS/Pasted image 20261028151547.png",
     "ARVORE/Design.md",
+    "HOME.md",
+    "ARVORE/Desenvolvimento.md",
+    "ANEXOS/Pasted image 20261028125547.png",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Classe - Conferência Ping.md",
     "DOCUMENTOS/Classe - Conferência Tracert.md",
@@ -312,21 +337,10 @@
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Destinos de IP's.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Protocolos.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Parentesco.md",
-    "DOCUMENTOS/Classe - Teste Externo.md",
-    "DOCUMENTOS/Classe - Cliente.md",
-    "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de DNS.md",
-    "DOCUMENTOS/Classe - Conferência Teste Navegação.md",
-    "DOCUMENTOS/Classe - Conferência Site Survey (mapa de calor).md",
-    "DOCUMENTOS/Classe - Conferência Routers.md",
     "ANEXOS/Pasted image 20261021120413.png",
     "ANEXOS/Pasted image 20261021120348.png",
     "ANEXOS/Pasted image 20261021120320.png",
     "ANEXOS/Pasted image 20261021120310.png",
-    "ANEXOS/Pasted image 20261021120250.png",
-    "ANEXOS/Pasted image 20261021120237.png",
-    "ANEXOS/Pasted image 20261021120223.png",
-    "ANEXOS/Pasted image 20261021120203.png",
-    "ANEXOS/Pasted image 20261021120151.png",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "BASES/MocsHome.base",
     "Excalidraw/Libraries/local-library.excalidrawlib",

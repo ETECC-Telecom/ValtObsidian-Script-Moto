@@ -17,6 +17,7 @@ A classe de Ordem de Serviço completa é usada para fazer a gestão geral das O
 
 - `(Int) ID`: é o identificador único daquela OS localizada no banco de dados;
 - `(String) Tipo_OS`: Tipo da Ordem de serviço, que pode ser: Completa, Retenção, LOS, Retirada, Chip;
+- `(String) Data_Criacao`: Data e Hora que a OS foi criada;
 - `(Boolean) Finalizada`: Atributo boolean que informa se essa OS já foi finalizada;
 - `(Boolean) Usado_Resumo_IA`: Atributo boolean que informa se essa OS foi submetida ao resumo por IA;
 - `(Boolean) Data_Alteracao`: Atributo que armazena a data e hora que essa OS foi modificada;
@@ -60,6 +61,7 @@ classDiagram
     class OS_Completa{
 		-Int ID
 		-String Tipo_OS
+		-String Data_Criacao
 		-Boolean Finalizada
 		-Boolean Usado_Resumo_IA
 		-String Data_Alteracao
@@ -92,6 +94,8 @@ classDiagram
 		+GET_Relatorio_Atraso()
 		+SET_Relatorio_Externo()
 		+GET_Relatorio_Externo()
+		+SET_Data_Criacao()
+		+GET_Data_Criacao()
     }
 ```
 
