@@ -79,8 +79,7 @@
               "title": "Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,10 +274,10 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "4090c38499131a24",
+  "active": "c302c435b7b60418",
   "lastOpenFiles": [
-    "DOCUMENTOS/Classe - Conferência Teste Navegação.md",
     "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
+    "DOCUMENTOS/Classe - Conferência Teste Navegação.md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de DNS.md",
