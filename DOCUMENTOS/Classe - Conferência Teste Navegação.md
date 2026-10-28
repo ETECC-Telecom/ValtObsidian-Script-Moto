@@ -45,8 +45,15 @@ Classe responsável pela gestão dos ativos que foram testados no local. Esse cl
 > **Retorno**
 > 	Descrição do retorno.
 > ```
+### Validar_Finalizacao
 
+Essa método irá validar, primeiro, se foi testado algum ativo, seja da empresa ou do cliente, se não foi vinculado nenhum ativo, a mesma irá retornar um erro: `Nenhum ativo de teste vinculado ao relatório`. E caso o técnico tenha colocado ativos da empresa, mas nenhum desses ativos é do cliente, o mesmo irá retornar outro alerta: `Não foi identificado testes nos ativos do cliente`.
 
+**Parâmetros** 
+- `Nome_parametro`: Descrição
+
+**Retorno**
+	Uma lista de Verdadeiro ou falso no primeiro índice, e uma mensagem de alerta caso o retorno seja falso.
 ## Diagrama
 
 ```mermaid
@@ -58,8 +65,7 @@ classDiagram
 		+Importar_Objeto_Json()
 		+Exportar_Estrutura_Simplificado()
 		+Exportar_Estrutura_Markdown()
-		+Exportar_Relatorio_Simplificado()
-		+Exportar_Relatorio_Markdown()
+		+Validar_Finalizacao()
 		
 		+SET_Ativo(Objeto)
 		+DELETE_Ativo(Indice)

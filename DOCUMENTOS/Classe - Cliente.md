@@ -14,6 +14,7 @@ Descrição:
 
 Classe responsável por todos os atributos relacionados aos clientes. 
 
+O Atributo de `Parentesco` pode receber um valor retirado diretamente da [[Variáveis de Lista Exportadas - Lista de Parentesco|Variável de Lista]], que facilita a inserção de novos valores futuros. Por padrão o valor vem como `Titular`.
 ## Atributos
 
 - `(String) Nome_Cliente`: Nome de quem acompanhou a visita;
@@ -23,7 +24,7 @@ Classe responsável por todos os atributos relacionados aos clientes.
 - `(String) Parentesco_info`: Em caso de outros
 - `(String) Relato_cliente:`: O problema relatado pelo cliente, obrigatório ser preenchido!
 - `(String) Conclusao_Dificuldade:`: A partir do problema do Cliente, o técnico conseguiu resolver
-- 
+
 ## Métodos
 
 ### Validar_Finalizacao

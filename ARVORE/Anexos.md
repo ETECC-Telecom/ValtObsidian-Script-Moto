@@ -57,7 +57,9 @@ Thumb: Pasted image 20260507141628.png
 **Variáveis de Lista Exportadas**:
 
 - [[Variáveis de Lista Exportadas - Lista de DNS]]
+- [[Variáveis de Lista Exportadas - Lista de Destinos de IP's]]
 - [[Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste]]
+- [[Variáveis de Lista Exportadas - Lista de Parentesco]]
 #### [[Data de Informações passadas ao cliente]]
 #### [[Data de Informações passadas ao cliente - Atendimento ao Cliente]]
 ###  Links Externos

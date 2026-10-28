@@ -38,17 +38,45 @@
             }
           },
           {
-            "id": "7a2d3a87f094dd45",
+            "id": "3634552f1cd45934",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Classe - Conferência Teste Navegação.md",
+                "file": "DOCUMENTOS/Classe - Cliente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classe - Conferência Teste Navegação"
+              "title": "Classe - Cliente"
+            }
+          },
+          {
+            "id": "ace3ef17de3353ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Parentesco.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variáveis de Lista Exportadas - Lista de Parentesco"
+            }
+          },
+          {
+            "id": "11528dccac999773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Classe - Conferência Ping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classe - Conferência Ping"
             }
           },
           {
@@ -66,20 +94,21 @@
             }
           },
           {
-            "id": "32d027bb3a579f61",
+            "id": "59f2bced8ce25828",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste.md",
+                "file": "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Parentesco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste"
+              "title": "Variáveis de Lista Exportadas - Lista de Parentesco"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,13 +303,18 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "c302c435b7b60418",
+  "active": "ace3ef17de3353ff",
   "lastOpenFiles": [
-    "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
-    "DOCUMENTOS/Classe - Conferência Teste Navegação.md",
+    "DOCUMENTOS/Classe - Cliente.md",
+    "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Parentesco.md",
+    "DOCUMENTOS/Classe - Conferência Ping.md",
     "ARVORE/Anexos.md",
-    "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste.md",
+    "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
+    "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Destinos de IP's.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de DNS.md",
+    "DOCUMENTOS/Classe - Conferência Teste Navegação.md",
+    "DOCUMENTOS/Classe - Conferência Site Survey (mapa de calor).md",
+    "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste.md",
     "HOME.md",
     "DOCUMENTOS/Classe - Conferência Routers.md",
     "DOCUMENTOS/Classe - Conferência Fibra.md",
@@ -291,17 +325,12 @@
     "DOCUMENTOS/Classe - Conferência Técnica Cabos UTP.md",
     "DOCUMENTOS/Classe - Teste Externo.md",
     "DOCUMENTOS/Classe - Indicação.md",
-    "DOCUMENTOS/Classe - Cliente.md",
     "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
     "DOCUMENTOS/Classe - Educação do Cliente.md",
     "DOCUMENTOS/Classe - Ajuda Interna.md",
     "DOCUMENTOS/Classe - Informações de Abertura.md",
     "DOCUMENTOS/Classe - Powermitter.md",
     "MODELOS/Modelo de Classe.md",
-    "ARVORE/Desenvolvimento.md",
-    "DOCUMENTOS/Classe - Coordenadas.md",
-    "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
-    "DOCUMENTOS/Sem título 7.md",
     "ANEXOS/Pasted image 20261021120413.png",
     "ANEXOS/Pasted image 20261021120348.png",
     "ANEXOS/Pasted image 20261021120320.png",
