@@ -61,6 +61,8 @@ Thumb: Pasted image 20260507141628.png
 - [[Variáveis de Lista Exportadas - Lista de Protocolos]]
 - [[Variáveis de Lista Exportadas - Lista de Teste de Velocidade]]
 - [[Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste]]
+- [[Variáveis de Lista Exportadas - Lista de Tipos de ativos da Empresa]]
+- [[Variáveis de Lista Exportadas - Lista de Motivos de Troca]]
 - [[Variáveis de Lista Exportadas - Lista de Parentesco]]
 #### [[Data de Informações passadas ao cliente]]
 #### [[Data de Informações passadas ao cliente - Atendimento ao Cliente]]
