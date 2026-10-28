@@ -24,17 +24,31 @@
             }
           },
           {
+            "id": "b160e067ec4f0eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Componentes de Formulário.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Componentes de Formulário"
+            }
+          },
+          {
             "id": "ade661f4da4eadde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARVORE/Desenvolvimento.md",
+                "file": "DOCUMENTOS/Componente Padrão LIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desenvolvimento"
+              "title": "Componente Padrão LIT"
             }
           },
           {
@@ -80,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,14 +289,15 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "0731b29ecb789bcb",
+  "active": "b160e067ec4f0eae",
   "lastOpenFiles": [
-    "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
-    "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
     "ARVORE/Desenvolvimento.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
+    "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
+    "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
     "HOME.md",
     "DOCUMENTOS/Iconografias do Sistema.md",
-    "DOCUMENTOS/Componente Padrão LIT.md",
     "ANEXOS/Pasted image 20261028125547.png",
     "ARVORE/Design.md",
     "ARVORE/Anexos.md",
@@ -298,7 +313,6 @@
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Protocolos.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Parentesco.md",
     "DOCUMENTOS/Classe - Teste Externo.md",
-    "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
     "DOCUMENTOS/Classe - Cliente.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de DNS.md",
     "DOCUMENTOS/Classe - Conferência Teste Navegação.md",
