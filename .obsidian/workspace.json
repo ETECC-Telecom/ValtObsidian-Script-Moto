@@ -22,8 +22,65 @@
               "icon": "lucide-file",
               "title": "HOME"
             }
+          },
+          {
+            "id": "ade661f4da4eadde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARVORE/Desenvolvimento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desenvolvimento"
+            }
+          },
+          {
+            "id": "7245b5d123c24367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reestruturação do Objeto de Ordens de Serviço"
+            }
+          },
+          {
+            "id": "6d614061721f28c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regras de Negócio - Restruturação da Baixa de OS"
+            }
+          },
+          {
+            "id": "0731b29ecb789bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classe - Ordem de Serviço Completa"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,9 +275,16 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "c302c435b7b60418",
+  "active": "0731b29ecb789bcb",
   "lastOpenFiles": [
     "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
+    "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
+    "ARVORE/Desenvolvimento.md",
+    "HOME.md",
+    "DOCUMENTOS/Iconografias do Sistema.md",
+    "DOCUMENTOS/Componente Padrão LIT.md",
+    "ANEXOS/Pasted image 20261028125547.png",
+    "ARVORE/Design.md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Classe - Conferência Ping.md",
     "DOCUMENTOS/Classe - Conferência Tracert.md",
@@ -230,7 +294,6 @@
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Tipos de ativos da Empresa.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Teste de Velocidade.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste.md",
-    "HOME.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Destinos de IP's.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Protocolos.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Parentesco.md",
@@ -241,11 +304,6 @@
     "DOCUMENTOS/Classe - Conferência Teste Navegação.md",
     "DOCUMENTOS/Classe - Conferência Site Survey (mapa de calor).md",
     "DOCUMENTOS/Classe - Conferência Routers.md",
-    "DOCUMENTOS/Classe - Conferência Fibra.md",
-    "DOCUMENTOS/Dump da Estrutura de Dados de OS - Atendimento Completo.md",
-    "DOCUMENTOS/Estrutura dos Modelos de Script.md",
-    "DOCUMENTOS/Classe - Conferência Fonte.md",
-    "DOCUMENTOS/Classe - Encaminhar Externa.md",
     "ANEXOS/Pasted image 20261021120413.png",
     "ANEXOS/Pasted image 20261021120348.png",
     "ANEXOS/Pasted image 20261021120320.png",
@@ -255,7 +313,6 @@
     "ANEXOS/Pasted image 20261021120223.png",
     "ANEXOS/Pasted image 20261021120203.png",
     "ANEXOS/Pasted image 20261021120151.png",
-    "ANEXOS/Pasted image 20261021120133.png",
     "DOCUMENTOS/Mootherboard da Interface.canvas",
     "BASES/MocsHome.base",
     "Excalidraw/Libraries/local-library.excalidrawlib",

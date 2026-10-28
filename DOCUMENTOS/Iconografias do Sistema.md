@@ -371,19 +371,19 @@ textAlign=center
 ````col-md
 textAlign=center
 ===
-**Nome_Icone**
-img
+**Icone Teste de Rede**
+![[Pasted image 20261028125547.png]]
 ```html
-<componente></componente>
+<icone-teste-rede></icone-teste-rede>
 ```
 ````
 ````col-md
 textAlign=center
 ===
-**Nome_Icone**
+**Icone Concluir OS**
 img
 ```html
-<componente></componente>
+<icone-concluir-os></icone-concluir-os>
 ```
 ````
 ````col-md

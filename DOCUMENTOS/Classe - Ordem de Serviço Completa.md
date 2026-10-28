@@ -79,9 +79,9 @@ classDiagram
 		
 		+SET_OS_EDICAO()
 		+Gerar_Resumo_IA()
-		+SINC_PING
-		+SINC_TRACERT
-		+SINC_VELOCIDADE
+		+SINC_PING()
+		+SINC_TRACERT()
+		+SINC_VELOCIDADE()
 		
 		+GET_ID()
 		+SET_Usado_Resumo_IA()
