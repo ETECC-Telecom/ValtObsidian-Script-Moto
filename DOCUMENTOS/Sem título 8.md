@@ -3,10 +3,10 @@
                        ORDEM DE SERVIÇO - COMPLETA
 ==========================================================================
 
-Criado...................: 29/10/2026 - 12:34:57
+Criado...................: 29/10/2026 - 13:27:13
 Cliente..................: Nome do Cadastro não informado
 Telefone.................: Telefone do Cadastro não informado
-Acompanhante.............: Nome do Cliente não informado (Titular)
+Acompanhante.............: teste (Namorado/Namorada)
 ==========================================================================
                               TESTES DE REDE
 ==========================================================================
