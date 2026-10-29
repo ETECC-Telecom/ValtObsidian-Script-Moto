@@ -49,7 +49,6 @@ Relatório...
 - `(Boolean) Info_Necessaria`: Booleano que informa se todas as informações foram anexadas (Verdadeiro) ou não (Falso);
 - `(String) Operador`: Nome do operador que abriu a OS;
 - `(Lista) Informacoes_Omitidas`: Lista de informações que foram omitidas, como Comodato, mapa de calor e etc. Esses dados podem ser adicionados manualmente, mas também, temos uma lista padrão de dados que é usada como estrutura padrão.
-- `(String) Relatorio`: Relatório adicional do técnico.
 ## Métodos
 > [!cite]- Estrutura para uso
 > ```
@@ -89,16 +88,12 @@ classDiagram
 		+Importar_Objeto_Json()
 		+Exportar_Estrutura_Simplificado()
 		+Exportar_Estrutura_Markdown()
-		+Exportar_Relatorio_Simplificado()
-		+Exportar_Relatorio_Markdown()
 		+Validar_Sincronismo()
 		
 		+Set_Valores_Padroes()
 		+Set_Nova_Informacao()
 		+Get_Itens()
 		+Delete_Inforacao(index)
-		+Set_Relatorio()
-		+Get_Relatorio()
 		
     }
 ```

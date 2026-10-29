@@ -524,6 +524,83 @@ CSS
     color: #7f1d1d;
 }
 ```
+### Lista de Itens com btn de excluir
+
+Código
+```html
+<ul id="lista-textos" class="lista-container">
+    <!-- Exemplo estático de item (remova ou controle via JavaScript) -->
+    <li class="item-lista">
+        <span class="texto-item">Exemplo de texto dinâmico adicionado aqui.</span>
+        <button class="btn-excluir" aria-label="Excluir item">x</button>
+    </li>
+
+    <li class="item-lista">
+        <span class="texto-item">Exemplo de texto dinâmico adicionado aqui.</span>
+        <button class="btn-excluir" aria-label="Excluir item">x</button>
+    </li>
+
+</ul>
+```
+
+CSS
+```css
+/* Lista */
+.lista-container {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-height: 350px;
+    overflow-y: auto;
+}
+
+/* Item da Lista */
+.item-lista {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--btn-background-color-invert);
+    border: 1px solid var(--btn-border-color);
+    padding: 12px 16px;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+}
+
+.item-lista:hover {
+    border-color: #cbd5d9;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.02);
+}
+
+/* Texto */
+.texto-item {
+    color: var(--btn-background-color);
+    font-size: 0.95rem;
+    word-break: break-word;
+    margin-right: 15px;
+}
+
+/* Botão de Exclusão */
+.btn-excluir {
+    background: transparent;
+    border: none;
+    color: var(--destaque-color);
+    font-size: 1.25rem;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.btn-excluir:hover {
+    background-color: #ffeef0;
+    color: #b31d28;
+}
+```
 
 ````
 ### nome_formulario
