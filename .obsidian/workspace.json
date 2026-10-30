@@ -122,20 +122,6 @@
             }
           },
           {
-            "id": "2d9a4cd66d610424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOCUMENTOS/Sem título 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título 8"
-            }
-          },
-          {
             "id": "f81df9a85a5b99b6",
             "type": "leaf",
             "state": {
@@ -150,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -345,23 +331,23 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "6d614061721f28c6",
+  "active": "c9cd2d3c47c64381",
   "lastOpenFiles": [
-    "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
-    "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
-    "DOCUMENTOS/Classe - Informações de Abertura.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
+    "DOCUMENTOS/Componentes de Formulário.md",
     "DOCUMENTOS/Sem título 7.md",
     "DOCUMENTOS/Sem título 8.md",
-    "DOCUMENTOS/Componentes de Formulário.md",
-    "ARVORE/Desenvolvimento.md",
     "DOCUMENTOS/Iconografias do Sistema.md",
+    "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
+    "DOCUMENTOS/Classe - Coordenadas.md",
+    "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
+    "DOCUMENTOS/Classe - Informações de Abertura.md",
+    "ARVORE/Desenvolvimento.md",
     "ARVORE/Design.md",
     "HOME.md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Classe - Cliente.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Parentesco.md",
-    "DOCUMENTOS/Classe - Coordenadas.md",
     "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
     "ANEXOS/Pasted image 20261028152148.png",
     "ANEXOS/Pasted image 20261028151954.png",
