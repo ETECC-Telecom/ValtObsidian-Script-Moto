@@ -1,10 +1,17 @@
-# ORDEM DE SERVIÇO - COMPLETA
+# Relatório de Sincronismo
 
-- **Criado**: 29/10/2026 - 17:56:07;
-- **Cliente**: Nome do Cadastro não informado
-- **Telefone**: Telefone do Cadastro não informado
-- **Acompanhante**: Nome do Cliente não informado (Titular)
-- **Informações Necessárias**: Sim;
-## RELATÓRIO FINAL
-### RELATO DO CLIENTE:
-Técnico não preencheu o Relato do Cliente!
+**Data**: 30/10/2026 - 16:00:57
+**Cliente**: Nome do Cadastro não informado
+**Técnico**: Técnico não Informado
+## Informações Necessárias
+
+### Informações Necessárias na Abertura
+
+- **Operador**: Danilo;
+#### INFORMAÇÕES OMITIDAS:
+- Detalhamento da OS para melhor intendimento do problema
+- Faltou o Histórico de Quedas
+- Não foi informado a Data de Contratação do Cliente
+- dsdsadsa
+- dsadsadsadsa
+
