@@ -148,9 +148,30 @@
               "icon": "lucide-file",
               "title": "Iconografias do Sistema"
             }
+          },
+          {
+            "id": "b33bd93eb73991fa",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "ARVORE/Lista de Tarefas (Backlog).md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Lista de Tarefas (Backlog)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -345,21 +366,22 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "7f10598f0530213c",
+  "active": "b33bd93eb73991fa",
   "lastOpenFiles": [
+    "ARVORE/Desenvolvimento.md",
+    "HOME.md",
+    "DOCUMENTOS/Iconografias do Sistema.md",
+    "ARVORE/Planejamento.md",
+    "DOCUMENTOS/Classe - Educação do Cliente.md",
     "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
     "DOCUMENTOS/Classe - Ordem de Serviço Completa.md",
-    "DOCUMENTOS/Classe - Educação do Cliente.md",
     "DOCUMENTOS/Componentes de Formulário.md",
-    "DOCUMENTOS/Iconografias do Sistema.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
     "DOCUMENTOS/Classe - Informações de Abertura.md",
     "DOCUMENTOS/Classe - Coordenadas.md",
     "DOCUMENTOS/Sem título 8.md",
     "DOCUMENTOS/Sem título 7.md",
     "DOCUMENTOS/Reestruturação do Objeto de Ordens de Serviço.md",
-    "ARVORE/Desenvolvimento.md",
-    "HOME.md",
     "ARVORE/Design.md",
     "ARVORE/Anexos.md",
     "DOCUMENTOS/Classe - Cliente.md",
@@ -378,7 +400,6 @@
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Tipos de ativos da Empresa.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Teste de Velocidade.md",
     "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Tipos de ativos de Teste.md",
-    "DOCUMENTOS/Variáveis de Lista Exportadas - Lista de Destinos de IP's.md",
     "ANEXOS/Pasted image 20261021120413.png",
     "ANEXOS/Pasted image 20261021120348.png",
     "ANEXOS/Pasted image 20261021120320.png",
