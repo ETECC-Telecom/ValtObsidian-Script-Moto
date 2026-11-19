@@ -6,5 +6,6 @@
     "Controle_Margens",
     "obsidian_css",
     "two_coluns_properties"
-  ]
+  ],
+  "showRibbon": true
 }
