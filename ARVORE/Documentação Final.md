@@ -44,6 +44,7 @@ w5AVbLQeywzE8i1bsakmVZFGehvfiwCbrzNwcJYl3KY0wZD4XR
 - 🔴 **Correções (Bug Fixes):** Problemas resolvidos.
 ### Histórico
 - **v0.1.2 - 19 Novembro, 2026**
+	- 🟢 Nova função de import e export para as fichas de treino, para que técnicos treinadores possam revisar o treino de novos colaboradores.
 	- 🟡 Corrigido o problema do fundo extremamente transparente na Ficha de treinamento dos técnicos.
 - **v0.1.1 - xx Outubro, 2026**
 	- 🔴 Corrigido erro ERRO_EXECUCAO_FORMATAÇÃO_DATA da função abertura_script_simples.
