@@ -20,6 +20,7 @@ O payload geral vai seguir uma estrutura simples:
 	"Categoria": String, //Qual página da Planilha irá usar
 	"Data": String, //Data DD/MM/AAAA que foi encaminhado a informação
 	"Hora": String, //Hora HH:MM que foi encaminhado a informação;
+	"Sinc": Bool, //Informa se esse dado já foi sincronizado;
 	"Dados": {
 		//Objeto que varia de acordo com oque está sendo enviado para a página. 
 	}
@@ -123,6 +124,29 @@ Essa página será usada para auxiliar no registros dos dias atípicos. Todo tem
 ```
 ### Falta de Informação
 
-Pode ocorrer do técnico receber uma OS sem informações adequadas para  daquela OS. Nesses casos, o mesmo pode reportar isso a supervisão para futura analise e alinhamento com o líder do setor. 
+Pode ocorrer do técnico receber uma OS sem informações adequadas para o entendimento daquela da mesma. Nesses casos, o mesmo pode reportar isso a supervisão para futura analise e alinhamento com o líder do setor. 
+
+```json
+{
+	"Cliente": String, //Nome do cadastro na OS
+	"Operador": String, //Nome do operador que abriu aquela OS.
+	"Informacoes_omitidas": [
+		//Lista de informações encaminhadas.
+	]
+}
+```
+
+> [!note] Esse tipo de informação será gerada automaticamente pela OS quando ela for fechada, e será adicionada ao banco para ser sincronizado. 
+### Informações Adicionais
+
+As informações extras, são informações escritas pelos técnicos durante o atendimento que foram adicionadas manualmente. Essas listas de informações serão sincronizadas com a planilha para que o gestor possa adicionar essa informação a lista de informações passadas ao cliente.
+
+```json
+{
+	"Informacoes_extras": [
+		//Lista de informações encaminhadas.
+	]
+}
+```
 
 

@@ -35,6 +35,15 @@ w5AVbLQeywzE8i1bsakmVZFGehvfiwCbrzNwcJYl3KY0wZD4XR
 ```js
 0a3f5b11cb1a343e3184590ed685a389b51ae7fa16e08b96bdee7fd6bc4da1aa
 ```
+### Planilha de Sincronismo
+
+```
+https://script.google.com/macros/s/AKfycbyTYLgDCUUZjnHWEP2IWKTlsJvH-bfSdJ4l4WTNg_hJy-i7RTtpNz5jDjnQHfLyledxnw/exec
+```
+
+```
+AKfycbyTYLgDCUUZjnHWEP2IWKTlsJvH-bfSdJ4l4WTNg_hJy-i7RTtpNz5jDjnQHfLyledxnw
+```
 ## ChangeLog
 
 ### Legendas
