@@ -121,3 +121,8 @@ Essa página será usada para auxiliar no registros dos dias atípicos. Todo tem
 	"Cidade": String, //Qual a cidade da ocorrência.
 }
 ```
+### Falta de Informação
+
+Pode ocorrer do técnico receber uma OS sem informações adequadas para  daquela OS. Nesses casos, o mesmo pode reportar isso a supervisão para futura analise e alinhamento com o líder do setor. 
+
+
