@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -290,15 +290,15 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "ee1da0eafb5aea5a",
+  "active": "c226da99e3a78ca7",
   "lastOpenFiles": [
+    "ARVORE/Documentação Final.md",
     "HOME.md",
     "DOCUMENTOS/Regras de Negócio - Sincronismo com a Planilha.md",
     "ARVORE/Planejamento.md",
     "DOCUMENTOS/Regras de Negocio - Sistema de Registro de Performance em Campo (RPC).md",
     "ARVORE/Desenvolvimento.md",
     "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
-    "ARVORE/Documentação Final.md",
     "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Sem título 9.md",
     "DOCUMENTOS/Componentes de Formulário.md",
