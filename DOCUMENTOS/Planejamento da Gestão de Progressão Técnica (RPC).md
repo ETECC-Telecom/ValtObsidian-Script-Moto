@@ -16,5 +16,5 @@ A progressão técnica é uma regra de negocio do setor da moto responsável por
 A sessão de progressão técnica estará na página da Liderança: [[Planejamento pagina da liderança]]
 # Referências
 
-- [[Regras de Negocio - Ficha RPC]]
+- [[Regras de Negocio - Sistema de Registro de Performance em Campo (RPC)]]
 - [[Dump da estrutura de dados da Ficha de progressão]]
