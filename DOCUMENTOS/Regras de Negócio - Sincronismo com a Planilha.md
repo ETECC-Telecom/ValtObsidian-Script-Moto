@@ -27,10 +27,11 @@ O payload geral vai seguir uma estrutura simples:
 ```
 
 A planilha terá várias funções para armazenar os dados, onde cada função vai representar uma Categoria, para que possamos chamá-las com `CASE`. 
+
+> [!danger] Lembre-se que esse processo usará um AppScript com chave de acesso. Essa chave não poderá ser adicionada ao código. Deverá ser cadastrada no App pelos técnicos devido a segurança de dados.
 ## Categorias
 
 As categorias criadas até o momento são:
-
 ### Cliente sem Contato
 
 Usado pelo técnico para relatar quando um cliente estiver sem contato. Assim conseguimos registrar o dia exato e o tempo médio perdido entre deslocamento e espera. Além de usarmos para validar ofensores quando estamos analisando.
@@ -73,10 +74,50 @@ Dados Esperados:
 ```
 
 As categorias pensadas até o momento:
-- Logística - Devido a um deslocamento maior;
-- 
+- Logística - Devido a um deslocamento fora do padrão;
+- Demanda - Devido a uma demanda muito acima do esperado, ou atendimento demorado anterior;
+- Prioridade - Foi solicitada a visita ainda no dia de hoje;
+- Manutenção - Por algum motivo foi necessário arrumar a moto no final do expediente;
 ### Imprevisto na Rota
+
+Alguma coisa ocorreu durante a rota do técnico, sendo necessário parar a mesma para resolver, pode ser um pneu furado ou alguma outra manutenção, ou até um acidente. 
+
+```json
+{
+	"Motivo": String,
+}
+```
 ### Desvio de Rota
 
-Qualquer deslocamento que for fazer ou quando estiver QAP
+Qualquer deslocamento que for fazer, por exemplo, ir na base buscar equipamentos ou quando estiver QAP.
+
+```json
+{
+	"Motivo": String,
+	"Categoria": String, //QAP, Deslocamento;
+	"Torre": Bool, //Informou a torre sobre esse deslocamento?
+}
+```
 ### Reajuste no ponto
+
+Quando o técnico por algum motivo precisa realizar o reajuste de ponto. Em muitos casos não temos o motivo registrado, e esse formulário servirá para marcar esses motivos:
+
+```json
+{
+	"Motivo": String, 
+	"Data": String, //Dia que está sendo reajustado;
+	"Ponto": Array, //Lista com os pontos que foram reajustados, Entrada, saída, Entrada_Almoço, Saída_Almoço. 
+}
+```
+### Região com Chuva
+
+Essa página será usada para auxiliar no registros dos dias atípicos. Todo tempo de chuva deverá ser registrada pelo técnico. Os principais gatilhos de registros são: Inicio de Expediente e retorno do almoço. Porém em qualquer momento do dia que se iniciar uma chuva, poderá registrar, por exemplo, está em uma região as 13h00, e está chovendo, registra. Foi para outra região e parou de chover, porém depois ás 14h começou a chover novamente, registra.
+
+```json
+{
+	"Categoria": String, //Chuva: Forte, moderada, leve,
+	"Parado": Bool, //Precisou aguardar a chuva passar?
+	"Relatorio": String, //Relatorio do porque precisou parar a rota no momento!
+	"Cidade": String, //Qual a cidade da ocorrência.
+}
+```
