@@ -94,9 +94,9 @@ Qualquer deslocamento que for fazer, por exemplo, ir na base buscar equipamentos
 
 ```json
 {
-	"Motivo": String,
-	"Categoria": String, //QAP, Deslocamento;
-	"Torre": Bool, //Informou a torre sobre esse deslocamento?
+	"motivo": String,
+	"categoria": String, //QAP, Deslocamento;
+	"torre": Bool, //Informou a torre sobre esse deslocamento?
 }
 ```
 ### Reajuste no ponto
@@ -105,9 +105,9 @@ Quando o técnico por algum motivo precisa realizar o reajuste de ponto. Em muit
 
 ```json
 {
-	"Motivo": String, 
-	"Data": String, //Dia que está sendo reajustado;
-	"Ponto": Array, //Lista com os pontos que foram reajustados, Entrada, saída, Entrada_Almoço, Saída_Almoço. 
+	"motivo": String, 
+	"data": String, //Dia que está sendo reajustado;
+	"ponto": Array, //Lista com os pontos que foram reajustados, Entrada, saída, Entrada_Almoço, Saída_Almoço. 
 }
 ```
 ### Região com Chuva
@@ -116,10 +116,10 @@ Essa página será usada para auxiliar no registros dos dias atípicos. Todo tem
 
 ```json
 {
-	"Categoria": String, //Chuva: Forte, moderada, leve,
-	"Parado": Bool, //Precisou aguardar a chuva passar?
-	"Relatorio": String, //Relatorio do porque precisou parar a rota no momento!
-	"Cidade": String, //Qual a cidade da ocorrência.
+	"categoria": String, //Chuva: Forte, Moderada, Leve,
+	"parado": Bool, //Precisou aguardar a chuva passar?
+	"relatorio": String, //Relatorio do porque precisou parar a rota no momento!
+	"cidade": String, //Qual a cidade da ocorrência.
 }
 ```
 ### Falta de Informação
@@ -128,9 +128,9 @@ Pode ocorrer do técnico receber uma OS sem informações adequadas para o enten
 
 ```json
 {
-	"Cliente": String, //Nome do cadastro na OS
-	"Operador": String, //Nome do operador que abriu aquela OS.
-	"Informacoes_omitidas": [
+	"cliente": String, //Nome do cadastro na OS
+	"operador": String, //Nome do operador que abriu aquela OS.
+	"informacoes_omitidas": [
 		//Lista de informações encaminhadas.
 	]
 }
@@ -143,7 +143,7 @@ As informações extras, são informações escritas pelos técnicos durante o a
 
 ```json
 {
-	"Informacoes_extras": [
+	"informacoes_extras": [
 		//Lista de informações encaminhadas.
 	]
 }
