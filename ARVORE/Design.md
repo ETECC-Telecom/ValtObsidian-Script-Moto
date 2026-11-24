@@ -43,6 +43,7 @@ https://uiverse.io/xXJollyHAKERXx/lucky-falcon-75
 - [[Planejamento do Histórico Local]]
 - [[Planejamento do componente de Equipamentos Testados]]
 - [[Planejamento Interface Script Modelo]]
+- [[Planejamento Interfaces Relatórios Externos]]
 
 **Planejamento da Interface da Página de Treino**
 

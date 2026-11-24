@@ -44,7 +44,7 @@ A ideia surgiu de um APP que já existe no setor, porém foge de meu controle, i
 - [[Regras de Negocio - Ficha de Treino Técnico]]
 - [[Regras de Negocio - Sistema de Registro de Performance em Campo (RPC)]]
 - [[Regras de Negócio - Restruturação da Baixa de OS]]
-- [[Regras de Negócio - Sincronismo com a Planilha]]
+- [[Regras de Negócio - Relatórios Externos]]
 ## Descrição dos Casos de Uso
 
 ![[Casos de Uso.base]]

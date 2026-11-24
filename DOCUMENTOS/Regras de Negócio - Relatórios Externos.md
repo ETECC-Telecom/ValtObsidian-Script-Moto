@@ -16,12 +16,12 @@ O payload geral vai seguir uma estrutura simples:
 
 ```json
 {
-	"Técnico": String, //Nome do técncio que encaminhou os dados
-	"Categoria": String, //Qual página da Planilha irá usar
-	"Data": String, //Data DD/MM/AAAA que foi encaminhado a informação
-	"Hora": String, //Hora HH:MM que foi encaminhado a informação;
-	"Sinc": Bool, //Informa se esse dado já foi sincronizado;
-	"Dados": {
+	"tecnico": String, //Nome do técncio que encaminhou os dados
+	"categoria": String, //Qual página da Planilha irá usar
+	"data": String, //Data DD/MM/AAAA que foi encaminhado a informação
+	"hora": String, //Hora HH:MM que foi encaminhado a informação;
+	"sinc": Bool, //Informa se esse dado já foi sincronizado;
+	"dados": {
 		//Objeto que varia de acordo com oque está sendo enviado para a página. 
 	}
 }
@@ -148,5 +148,6 @@ As informações extras, são informações escritas pelos técnicos durante o a
 	]
 }
 ```
+# Classe de Relatório Externo
 
 
