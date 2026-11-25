@@ -148,6 +148,17 @@ As informações extras, são informações escritas pelos técnicos durante o a
 	]
 }
 ```
-# Classe de Relatório Externo
 
+# Métodos do Sistema
+
+### EXPORTAR_PLANILHA
+
+Esse é o método encontrado em `controller` responsável por encaminhar cada um dos relatórios separadamente. Ele recebe o `objetoData`, que nada mais é do que o objeto estruturado do relatório, contendo o cabeçalho, `tecnico`, `categoria`, `data`, `hora`, `sinc` e também os `dados` que pode variar de acordo com a categoria do relatório criado. 
+
+**Parâmetros** 
+- `objetoData`: Objeto data com a estrutura que deverá ser encaminhada para a planilha. 
+
+**Retorno**
+	Pode retornar `true` quando todo o processo é bem sucedido, ou pode retornar `false` quando uma falha ocorreu.
+# Classe de Relatório Externo
 
