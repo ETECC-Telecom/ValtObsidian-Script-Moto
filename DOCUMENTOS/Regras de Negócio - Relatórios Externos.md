@@ -10,6 +10,8 @@ Descrição:
 ```table-of-contents
 ```
 ---
+# Introdução 
+
 Como o CentralOS não possui nenhum banco de dados externos com servidores dedicados, usamos as planilhas do Google como recurso para armazenar informações. Todos os dados de informações que serão encaminhados pelos técnicos irão se comunicar com essa mesma planilha. 
 
 O payload geral vai seguir uma estrutura simples:
@@ -41,10 +43,10 @@ Dados esperados:
 
 ```json
 {
-	"Cliente": String, //Nome do cadastro na OS
-	"Minutos_Perdidos": Int, //Tempo aproximado de espera em minutos com deslocamento e esperade contato pela Torre.
-	"Quantidade_Visitas": Int, //Quantas vezes já visitou no dia;
-	"Observacao": String, //Em caso de observação adicional, adicione aq. 
+	"cliente": String, //Nome do cadastro na OS
+	"minutos_perdidos": Int, //Tempo aproximado de espera em minutos com deslocamento e esperade contato pela Torre.
+	"quantidade_visitas": Int, //Quantas vezes já visitou no dia;
+	"observacao": String, //Em caso de observação adicional, adicione aq. 
 }
 ```
 ### Atraso no Inicio da Rota
@@ -160,5 +162,19 @@ Esse é o método encontrado em `controller` responsável por encaminhar cada um
 
 **Retorno**
 	Pode retornar `true` quando todo o processo é bem sucedido, ou pode retornar `false` quando uma falha ocorreu.
-# Classe de Relatório Externo
+# Classes de Relatório Externo
 
+## Classe Principal (Mãe)
+
+- [[Classe - Relatório Externo]]
+## Classe de Instância
+
+- [[Classe - Categoria Cliente_sem_Contato]]
+- [[Classe - Categoria Atraso_Inicio_Rota]]
+- [[Classe - Categoria Motivo_Hora_Extra]]
+- [[Classe - Categoria Imprevisto_Rota]]
+- [[Classe - Categoria Desvio_Rota]]
+- [[Classe - Categoria Reajuste_ponto]]
+- [[Classe - Categoria Chuva]]
+- [[Classe - Categoria Informacao_Extra]]
+- [[Classe - Categoria Falta_Informacao]]
