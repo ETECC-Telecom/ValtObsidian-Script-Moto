@@ -54,7 +54,7 @@ Essa função estrutura todos os dados necessários da classe para a formataçã
 
 **Retorno**
 	Retorna uma String convertida em MD dos dados armazenados.
-### Exportar_Relatorio
+### Enviar_Relatorio
 
 Essa função será usada para exportar o relatório para a planilha. Caso ela receba algum erro na função responsável pela exportação, a mesma irá definir o atributo `sinc` como `false` para que possamos sincronizar mais tarde, e salvar a alteração no banco de dados, criando um novo registro ou atualizando caso o ID já esteja registrado.
 
@@ -82,22 +82,16 @@ classDiagram
 		- Boolena sinc
 		- Objeto dados
       
-		+Get_Tecnico()
-		+Set_Tecnico()
 		+Get_ID()
 		+Set_ID()
 		+Get_Categoria()
 		+Set_Categoria()
-		+Get_Data()
-		+Set_Data()
-		+Get_Hora()
-		+Set_Hora()
 		+Get_Sinc()
 		+Set_Sinc()
 		
 		+Exportar_MD()
 		+Salvar()
-		+Exportar_Relatorio()
+		+Enviar_Relatorio()
 		+Exportar_Objeto()
 		+Importar_Objeto()
 		
