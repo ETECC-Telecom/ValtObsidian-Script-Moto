@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -345,8 +345,9 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "170219fa3d12fd34",
+  "active": "f79fdcf4c51e2086",
   "lastOpenFiles": [
+    "DOCUMENTOS/Classe - Relatório Externo.md",
     "DOCUMENTOS/Classe - Categoria Cliente_sem_Contato.md",
     "ARVORE/Documentação Final.md",
     "DOCUMENTOS/Página Lista Relatorio Externo.excalidraw.md",
@@ -358,7 +359,6 @@
     "ARVORE/Planejamento.md",
     "ARVORE/Desenvolvimento.md",
     "ARVORE/Lista de Tarefas (Backlog).md",
-    "DOCUMENTOS/Classe - Relatório Externo.md",
     "DOCUMENTOS/Regras de Negócio - Relatórios Externos.md",
     "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
