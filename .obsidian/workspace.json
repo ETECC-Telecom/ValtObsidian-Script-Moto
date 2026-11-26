@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "cf58d732f958cef8",
+            "id": "966a066e5e0a41cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARVORE/Desenvolvimento.md",
+                "file": "ARVORE/Planejamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desenvolvimento"
+              "title": "Planejamento"
             }
           },
           {
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -324,7 +324,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.0999755859375
+    "width": 271.0999755859375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -344,23 +345,26 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "170219fa3d12fd34",
+  "active": "ee1da0eafb5aea5a",
   "lastOpenFiles": [
-    "DOCUMENTOS/Classe - Categoria Cliente_sem_Contato.md",
-    "DOCUMENTOS/Classe - Relatório Externo.md",
-    "ARVORE/Documentação Final.md",
-    "DOCUMENTOS/Regras de Negócio - Relatórios Externos.md",
+    "DOCUMENTOS/Página Lista Relatorio Externo.excalidraw.md",
+    "DOCUMENTOS/Planejamento Interfaces Relatórios Externos.md",
+    "DOCUMENTOS/Mootherboard da Interface.canvas",
+    "ARVORE/Design.md",
+    "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
+    "HOME.md",
     "ARVORE/Planejamento.md",
+    "ARVORE/Desenvolvimento.md",
+    "ARVORE/Lista de Tarefas (Backlog).md",
+    "ARVORE/Documentação Final.md",
+    "DOCUMENTOS/Classe - Relatório Externo.md",
+    "DOCUMENTOS/Classe - Categoria Cliente_sem_Contato.md",
+    "DOCUMENTOS/Regras de Negócio - Relatórios Externos.md",
     "DOCUMENTOS/Regras de Negocio - Ficha de Treino Técnico.md",
     "DOCUMENTOS/Regras de Negócio - Restruturação da Baixa de OS.md",
     "DOCUMENTOS/Classe - Coordenadas.md",
     "DOCUMENTOS/Planejamento da Interface da Ficha de Treino.md",
-    "DOCUMENTOS/Página Lista Relatorio Externo.excalidraw.md",
     "DOCUMENTOS/Sem título 10.md",
-    "DOCUMENTOS/Planejamento Interfaces Relatórios Externos.md",
-    "HOME.md",
-    "ARVORE/Desenvolvimento.md",
-    "ARVORE/Design.md",
     "DOCUMENTOS/Pagina Inicial de Treino.excalidraw.md",
     "DOCUMENTOS/Planejamento do Histórico Local.md",
     "DOCUMENTOS/Sem título 9.md",
@@ -369,9 +373,7 @@
     "ARVORE/Arquitetura.md",
     "DOCUMENTOS/Componentes de Formulário.md",
     "ARVORE/Anexos.md",
-    "ARVORE/Lista de Tarefas (Backlog).md",
     "DOCUMENTOS/Iconografias do Sistema.md",
-    "DOCUMENTOS/Sem título 8.md",
     "ANEXOS/Pasted image 20261028152148.png",
     "ANEXOS/Pasted image 20261028151954.png",
     "ANEXOS/Pasted image 20261028151833.png",
@@ -382,12 +384,10 @@
     "ANEXOS/Pasted image 20261021120348.png",
     "ANEXOS/Pasted image 20261021120320.png",
     "ANEXOS/Pasted image 20261021120310.png",
-    "DOCUMENTOS/Mootherboard da Interface.canvas",
     "BASES/MocsHome.base",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw",
-    "DOCUMENTOS/Moodboard da Identidade Visual.canvas",
     "ANEXOS/Desenvolvimento POP - Fluxo para Analise de Ofensores Completo.pdf",
     "ARVORE/Imagens de Referencia.canvas",
     "Design/Wireframes",
