@@ -57,8 +57,8 @@ Dados Esperados:
 
 ```json
 {
-	"Motivo": String, //Descrição geral do motivo de atraso da rota;
-	"Tempo": Int, //Tempo em minutos que o técnico levou para iniciar a rota
+	"motivo": String, //Descrição geral do motivo de atraso da rota;
+	"tempo": Int, //Tempo em minutos que o técnico levou para iniciar a rota
 }
 ```
 

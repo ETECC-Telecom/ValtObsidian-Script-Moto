@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,12 +291,12 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "8019946dca29f96a",
+  "active": "efdf23f77f4ce503",
   "lastOpenFiles": [
-    "ARVORE/Desenvolvimento.md",
-    "DOCUMENTOS/Componentes de Formulário.md",
-    "DOCUMENTOS/Regras de Negócio - Relatórios Externos.md",
     "ARVORE/Planejamento.md",
+    "DOCUMENTOS/Componentes de Formulário.md",
+    "ARVORE/Desenvolvimento.md",
+    "DOCUMENTOS/Regras de Negócio - Relatórios Externos.md",
     "DOCUMENTOS/Planejamento Interfaces Relatórios Externos.md",
     "DOCUMENTOS/Componente Padrão LIT.md",
     "HOME.md",
